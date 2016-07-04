@@ -44,7 +44,7 @@
 * [議論メモ](https://public.etherpad-mozilla.org/p/chirimen-20160702)
 
 ## ◆[Maker Faire Tokyo 2016](https://is.gd/NQnLB8)
-### [前回議事録](https://is.gd/y6QOaP)
+### [前回議事録](meeting-2016.06.05.md)
 * [HAKUTO](http://team-hakuto.jp/index.html)さんとCHIRIMEN Open Hardwareコミュニティについて、KDDIがスポンサーとしてその両者＋αのコラボ企画をやることを[オライリー](http://www.oreilly.co.jp/index.shtml)さんに提案したところ、好意的に受け取られ、両ブースが場所的に隣接して出せることになった。
 
 ### MFT2016部に関する詳細化されたアジェンダ
