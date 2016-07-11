@@ -7,13 +7,16 @@
 * [ tumblr削除：　mozほげほげのリネーム、もしくは消す #9 ](https://is.gd/Z0D9sc)
   * tumblr削除担当：[dadaa](https://github.com/dadaa) => done?
   * [ chirimen_oh の google group を削除する #49 ](https://is.gd/EL6RbX) done.
-* [ mozOpenHard の issue の転記について： Transfer old issues to chirimen-oh repository #43 ](https://is.gd/BSJcUJ) => [MSakamaki](https://github.com/MSakamaki) done.
+* [ mozOpenHard の issue の転記について： Transfer old issues to chirimen-oh repository #43 ](https://is.gd/BSJcUJ)  
+  => 担当：[MSakamaki](https://github.com/MSakamaki) done.
 * 運用ルール（pull req, merge, fork）など
   * Readmeに書く => [gurezo](https://github.com/gurezo) done.
-* [CHIRIMEN サイト](https://chirimen.org/) time line に関して（下記のコミュニティのマイルストーンにも関連）
-  「SEPTEMBER 2016 - TODAY　Saving the neighborhood! の件」
+* [CHIRIMEN サイト](https://chirimen.org/) time line に関して  
+  （下記のコミュニティのマイルストーンにも関連）  
+  「SEPTEMBER 2016 - TODAY　Saving the neighborhood! の件」  
   => プロダクトのロードマップが決まり次第、修正
-* 今後は、github にも履歴を分かるようにする為にミーティング用リポジトリを作成、そこに記載していく（wiki => repository）
+* 今後は、github にも履歴を分かるようにする為にミーティング用リポジトリを作成、  
+  そこに記載していく（wiki => repository）
   * 担当：[gurezo](https://github.com/gurezo) => [ ミーティング用リポジトリの作成 #52 ](https://is.gd/FyDLSn) done.
 
 ### CHIRIMEN の 主体のイベント活動 について
@@ -36,16 +39,17 @@
 * CHIRIMEN Open Hardware コミュニティ枠
  * [ (8/6-7) Maker Faire Tokyo 2016 #38 ](https://is.gd/loOpvE)
  * タッチ＆トライ・イベント
-  * [ タッチ＆トライ用PC #99 ](https://is.gd/sghgjy)
+    * [ タッチ＆トライ用PC #99 ](https://is.gd/sghgjy) 2台提供可能
  * 子供対象のCHIRIMEN x HAKUTOをモチーフにした遊べる展示物
   * [satakagi](https://github.com/satakagi) さんが2つ作っている
-    * プラネタリウム（ケータイ星座早見板＋LED）製作キット
-    * 着陸ゲーム
+     * プラネタリウム（ケータイ星座早見板＋LED）製作キット
+     * 着陸ゲーム
 * KDDIブース 枠
   * リケジョ（仮
     * 進捗状況共有
   * ディスカッションセッション
-    * [HAKUTOのミッション](https://team-hakuto.jp/mission/index.html)についてCHIRIMENで何かできないかガチ議論。CHIRIMENが宇宙に！
+    * [HAKUTOのミッション](https://team-hakuto.jp/mission/index.html)についてCHIRIMENで何かできないかガチ議論。  
+      CHIRIMENが宇宙に！
   * パネルセッション（坂井先生枠 => ご相談
     * 進捗状況共有
     * 誰が出たら面白い？：
@@ -68,7 +72,7 @@
     * タッチ&トライ用：6台
     * おさわり＆展示などなど：10台
   * タッチ＆トライで使うPC（3台ぐらい）
-   * [ タッチ＆トライ用PC #99 ](https://is.gd/sghgjy) 2台提供可能
+    * [ タッチ＆トライ用PC #99 ](https://is.gd/sghgjy) 2台提供可能
   * 電源タップ
   * USBケーブル
   * HDMIケーブル
