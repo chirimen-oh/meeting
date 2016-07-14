@@ -5,7 +5,8 @@
 ## ◆CHIRIMEN の コミュニティ活動 について
 ### CHIRIMEN の github について
 * [ tumblr削除：　mozほげほげのリネーム、もしくは消す #9 ](https://is.gd/Z0D9sc)
-  * tumblr削除担当：[dadaa](https://github.com/dadaa) => done?
+  * tumblr削除担当：[dadaa](https://github.com/dadaa)  
+    => tumblr は念のため削除はせずに、パスワード設定 done.
   * [ chirimen_oh の google group を削除する #49 ](https://is.gd/EL6RbX) done.
 * [ mozOpenHard の issue の転記について： Transfer old issues to chirimen-oh repository #43 ](https://is.gd/BSJcUJ)  
   => 担当：[MSakamaki](https://github.com/MSakamaki) done.
