@@ -19,6 +19,8 @@
 * 今後は、github にも履歴を分かるようにする為にミーティング用リポジトリを作成、  
   そこに記載していく（wiki => repository）
   * 担当：[gurezo](https://github.com/gurezo) => [ ミーティング用リポジトリの作成 #52 ](https://is.gd/FyDLSn) done.
+* [ slack 参加フォームを作る #19 ](https://is.gd/5aD5TE)   
+=> クレジットカードを登録しないといけない模様
 
 ### CHIRIMEN の 主体のイベント活動 について
 * [ 企業を含む各種団体からの後援・賛同・貢献について #47  ](https://is.gd/y9GQVO)
