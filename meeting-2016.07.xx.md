@@ -42,27 +42,24 @@
  * タッチ＆トライ・イベント
     * [ タッチ＆トライ用PC #99 ](https://is.gd/sghgjy) 2台提供可能
  * 子供対象のCHIRIMEN x HAKUTOをモチーフにした遊べる展示物
-  * [satakagi](https://github.com/satakagi) さんが2つ作っている
-     * プラネタリウム（ケータイ星座早見板＋LED）製作キット
-     * 着陸ゲーム
+   * プラネタリウム（ケータイ星座早見板＋LED）製作キット（下記の通り女子中高生向け）
+   * 着陸ゲーム（子供向け）⇒HAKUTOさんと一緒に作成中
 * KDDIブース 枠
-  * リケジョ（仮
-    * 進捗状況共有
+  * 女子中高生向け ⇒ Maker Faireブースめぐりミニ星座早見盤を作ろう＋トーク
+   * 進捗状況共有
   * ディスカッションセッション
     * [HAKUTOのミッション](https://team-hakuto.jp/mission/index.html)についてCHIRIMENで何かできないかガチ議論。  
       CHIRIMENが宇宙に！
-  * パネルセッション（坂井先生枠 => ご相談
+  * パネルセッション（坂井先生枠） => 坂井先生が関係者をパネラーとして招集予定
     * 進捗状況共有
-    * 誰が出たら面白い？：
-      * [HAKUTO](http://team-hakuto.jp/index.html)さん
-      * [オライリー](http://www.oreilly.co.jp/index.shtml)さんにも依頼
-      * スイッチサイエンスさん
-* [HAKUTO](http://team-hakuto.jp/index.html) 枠
-  * 進捗状況共有
-  * 何かとコラボ企画：
-    * CHIRIMEN x 学校教育
-    * CHIRIMEN x 宇宙：[HAKUTO](http://team-hakuto.jp/index.html)さん
-    * CHIRIMEN x YAMAHA（音源関係）
+  * [HAKUTO](http://team-hakuto.jp/index.html) 枠
+   * 進捗状況共有⇒　HAKUTOさんのメンバー募集をしたいそうです。
+  * CHIRIMENセッション
+    * 何やります？
+    * 何かとコラボ企画：
+     * CHIRIMEN x 学校教育
+     * CHIRIMEN x 宇宙：[HAKUTO](http://team-hakuto.jp/index.html)さん
+     * CHIRIMEN x YAMAHA（音源関係）
 
 * ブース看板に関して
   * 企業名、コミュニティ名、個人（アカウント|ハンドル|名前）を列挙
