@@ -59,7 +59,7 @@
   * CHIRIMENセッション
     * 何やります？
     * 何かとコラボ企画：
-    　 * CHIRIMEN x 学校教育
+      * CHIRIMEN x 学校教育
       * CHIRIMEN x 宇宙：[HAKUTO](http://team-hakuto.jp/index.html)さん
       * CHIRIMEN x YAMAHA（音源関係）
 
