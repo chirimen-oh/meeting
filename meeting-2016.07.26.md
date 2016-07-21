@@ -89,6 +89,7 @@
   * IIJ にて、開催
   * 確認担当：[MSakamaki](https://github.com/MSakamaki) さん => [ega1979](https://github.com/orgs/chirimen-oh/people/ega1979) さん
   * 展示物だけで良さそう
+* [物品リスト](https://docs.google.com/spreadsheets/d/1B2RFMMvV7UN3BUO-PqMjY-xjI4XWAKjmNARPt62sUGA/edit#gid=0)
 
 ## コミュニティ・イベント活動のマイルストーン（暫定）
 * 04 月
