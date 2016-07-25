@@ -91,6 +91,9 @@
   * 展示物だけで良さそう
 * [物品リスト](https://docs.google.com/spreadsheets/d/1B2RFMMvV7UN3BUO-PqMjY-xjI4XWAKjmNARPt62sUGA/edit#gid=0)
 
+## コードレビュー
+* CHIRIMENのLチカのコードを雑誌に掲載しようとしている　⇒　どの書き方がエレガントかコメントがほしい。
+
 ## コミュニティ・イベント活動のマイルストーン（暫定）
 * 04 月
  * 30日：済-CHIRIMEN Open Hardware Open Source化
