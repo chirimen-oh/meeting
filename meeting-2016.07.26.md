@@ -9,16 +9,16 @@
     => tumblr は念のため削除はせずに、パスワード設定 done.
   * [ chirimen_oh の google group を削除する #49 ](https://is.gd/EL6RbX) done.
 * [ mozOpenHard の issue の転記について： Transfer old issues to chirimen-oh repository #43 ](https://is.gd/BSJcUJ)  
-  => 担当：[MSakamaki](https://github.com/MSakamaki) done.  
-  => MozOpenHard から持ってきた issue に関しては、  
+  * 担当：[MSakamaki](https://github.com/MSakamaki) done.  
+  * MozOpenHard から持ってきた issue に関しては、  
      [naokisekiguchi](https://github.com/naokisekiguchi) さんと[dadaa](https://github.com/dadaa)さん で精査
 * 運用ルール（pull req, merge, fork）など
   * Readmeに書く => [gurezo](https://github.com/gurezo) done.
 * [CHIRIMEN サイト](https://chirimen.org/) time line に関して
-  （下記のコミュニティのマイルストーンにも関連）
-  「SEPTEMBER 2016 - TODAY　Saving the neighborhood! の件」
-  => プロダクトのロードマップが決まり次第、修正
-* 今後は、github にも履歴を分かるようにする為にミーティング用リポジトリを作成、
+  （下記のコミュニティのマイルストーンにも関連）  
+  「SEPTEMBER 2016 - TODAY　Saving the neighborhood! の件」  
+   => プロダクトのロードマップが決まり次第、修正
+* 今後は、github にも履歴を分かるようにする為にミーティング用リポジトリを作成、  
   そこに記載していく（wiki => repository）
   * 担当：[gurezo](https://github.com/gurezo) => [ ミーティング用リポジトリの作成 #52 ](https://is.gd/FyDLSn) done.
 * [ slack 参加フォームを作る #19 ](https://is.gd/5aD5TE)
@@ -44,12 +44,12 @@
 * 広報対応
  * 当日までの準備について => 特に必要なし
  * 当日の対応
-   * プレス取材を受けた場合、以下の対応する
-     1. 連絡先を聞く
-     2. 先方に記事内容確認を了承を取り付ける
+  * プレス取材を受けた場合、以下の対応する
+    1. 連絡先を聞く
+    1. 先方に記事内容確認を了承を取り付ける
  * 総務省関係者がきた場合、下記スタッフが対応
-   * [satakagi](https://github.com/satakagi)
-   * [kohichi000000](https://github.com/kohichi000000)
+    * [satakagi](https://github.com/satakagi)
+    * [kohichi000000](https://github.com/kohichi000000)
 
 * CHIRIMEN Open Hardware コミュニティ枠
  * [ (8/6-7) Maker Faire Tokyo 2016 #38 ](https://is.gd/loOpvE)
