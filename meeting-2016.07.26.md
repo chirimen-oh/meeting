@@ -8,9 +8,10 @@
   * tumblr削除担当：[dadaa](https://github.com/dadaa)
     => tumblr は念のため削除はせずに、パスワード設定 done.
   * [ chirimen_oh の google group を削除する #49 ](https://is.gd/EL6RbX) done.
-* [ mozOpenHard の issue の転記について： Transfer old issues to chirimen-oh repository #43 ](https://is.gd/BSJcUJ)
-  => 担当：[MSakamaki](https://github.com/MSakamaki) done.
-  => MozOpenHard から持ってきた issue に関しては、[naokisekiguchi](https://github.com/naokisekiguchi) さんと[dadaa](https://github.com/dadaa)さん で精査
+* [ mozOpenHard の issue の転記について： Transfer old issues to chirimen-oh repository #43 ](https://is.gd/BSJcUJ)  
+  => 担当：[MSakamaki](https://github.com/MSakamaki) done.  
+  => MozOpenHard から持ってきた issue に関しては、  
+     [naokisekiguchi](https://github.com/naokisekiguchi) さんと[dadaa](https://github.com/dadaa)さん で精査
 * 運用ルール（pull req, merge, fork）など
   * Readmeに書く => [gurezo](https://github.com/gurezo) done.
 * [CHIRIMEN サイト](https://chirimen.org/) time line に関して
@@ -43,12 +44,12 @@
 * 広報対応
  * 当日までの準備について => 特に必要なし
  * 当日の対応
-  * プレス取材を受けた場合、以下の対応する
-   1. 連絡先を聞く
-   1. 先方に記事内容確認を了承を取り付ける
+   * プレス取材を受けた場合、以下の対応する
+     1. 連絡先を聞く
+     1. 先方に記事内容確認を了承を取り付ける
  * 総務省関係者がきた場合、下記スタッフが対応
-  * [satakagi](https://github.com/satakagi)
-  * [kohichi000000](https://github.com/kohichi000000)
+   * [satakagi](https://github.com/satakagi)
+   * [kohichi000000](https://github.com/kohichi000000)
 
 * CHIRIMEN Open Hardware コミュニティ枠
  * [ (8/6-7) Maker Faire Tokyo 2016 #38 ](https://is.gd/loOpvE)
@@ -63,10 +64,10 @@
   * ディスカッションセッション
     * [HAKUTOのミッション](https://team-hakuto.jp/mission/index.html)についてCHIRIMENで何かできないかガチ議論。
       CHIRIMENが宇宙に！
-  * パネルセッション（坂井先生枠） => 坂井先生が関係者をパネラーとして招集予定
+  * パネルセッション（坂井先生枠） => 坂井先生がパネラー参加
     * 進捗状況共有
   * [HAKUTO](http://team-hakuto.jp/index.html) 枠
-    * 進捗状況共有⇒　HAKUTOさんのメンバー募集をしたいそうです。
+    * 進捗状況共有⇒　HAKUTOさんのメンバー募集の告知をします。
   * CHIRIMENセッション
     * 何やります？
     * 何かとコラボ企画：
