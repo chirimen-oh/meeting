@@ -121,6 +121,7 @@
 * w/ fabcafe
 * ICC (w/ 明治大渡辺先生）
 * 東京テクニカルカレッジ授業(11,12月?)
+* takram brew にてデモ展示?(8月)
 
 ## その他
 * [議論メモ](https://public.etherpad-mozilla.org/p/chirimen-20160702)
