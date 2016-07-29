@@ -10,8 +10,7 @@
   * [ chirimen_oh の google group を削除する #49 ](https://is.gd/EL6RbX) done.
 * [ mozOpenHard の issue の転記について： Transfer old issues to chirimen-oh repository #43 ](https://is.gd/BSJcUJ)  
   * 担当：[MSakamaki](https://github.com/MSakamaki) done.  
-  * MozOpenHard から持ってきた issue に関しては、  
-     [naokisekiguchi](https://github.com/naokisekiguchi) さんと[dadaa](https://github.com/dadaa)さん で精査
+  * [MozOpenHard から持ってきた issue の精査 #102](https://is.gd/MfUX9A)
 * 運用ルール（pull req, merge, fork）など
   * Readmeに書く => [gurezo](https://github.com/gurezo) done.
 * [CHIRIMEN サイト](https://chirimen.org/) time line に関して
@@ -23,7 +22,7 @@
   * 担当：[gurezo](https://github.com/gurezo) => [ ミーティング用リポジトリの作成 #52 ](https://is.gd/FyDLSn) done.
 * [ slack 参加フォームを作る #19 ](https://is.gd/5aD5TE)
 => クレジットカードを登録しないといけない模様
-* コミュニティ名刺を作成する => issueを立てる。
+* [コミュニティ名刺希望者 #100](https://is.gd/sE9RWz)
 
 ### CHIRIMEN の 主体のイベント活動 について
 * [ 企業を含む各種団体からの後援・賛同・貢献について #47  ](https://is.gd/y9GQVO)
@@ -60,41 +59,41 @@
     * 着陸ゲーム（子供向け）⇒HAKUTOさんと一緒に作成中
 * KDDIブース 枠
   * 女子中高生向け ⇒ Maker Faireブースめぐりミニ星座早見盤を作ろう＋トーク
-    * 進捗状況共有
   * ディスカッションセッション
     * [HAKUTOのミッション](https://team-hakuto.jp/mission/index.html)についてCHIRIMENで何かできないかガチ議論。
-      CHIRIMENが宇宙に！
+      CHIRIMENが宇宙に！  
+      * **優勝者は、プロモーションビデオ出演権利**
   * パネルセッション（坂井先生枠） => 坂井先生がパネラー参加
-    * 進捗状況共有
   * [HAKUTO](http://team-hakuto.jp/index.html) 枠
-    * 進捗状況共有⇒　HAKUTOさんのメンバー募集の告知をします。
+    * HAKUTOさんのメンバー募集の告知をします。
   * CHIRIMENセッション
-    * 何やります？
+    * CHIRIMENコミュニティ紹介
+    * 作ったもの自慢大会（LT）
     * 何かとコラボ企画：
       * CHIRIMEN x 学校教育
       * CHIRIMEN x 宇宙：[HAKUTO](http://team-hakuto.jp/index.html)さん
-      * CHIRIMEN x YAMAHA（音源関係）
+      * CHIRIMEN x YAMAHA（音源関係）=> 当日タイミングを見て貸出
 
 * ブース看板に関して
   * 企業名、コミュニティ名、個人（アカウント|ハンドル|名前）を列挙
-  * 上述 7/6 までに [kohichi000000](https://github.com/kohichi000000) さんへslackにて連絡
+  * 上述 7/6 までに [kohichi000000](https://github.com/kohichi000000) さんへslackにて連絡  
+    => 開催中も付箋等で、随時参加募集予定
   * [ Maker Faire Tokyo 2016 KDDIブース看板デザイン #94 ]( Maker Faire Tokyo 2016 KDDIブース看板デザイン #94 ) done.
 * 出展必要備品
-  * 物品リストを作る
-  * CHIRIMENボード本体（多めに見て20台）
-    * タッチ&トライ用：6台
-    * おさわり＆展示などなど：10台
+  * [物品リスト](https://drive.google.com/open?id=1LSzrC3khU7kXq9JtmPM7zOmhGoEiduXVymrK1fIIeS4)
   * タッチ＆トライで使うPC（3台ぐらい）
     * [ タッチ＆トライ用PC #99 ](https://is.gd/sghgjy) 2台提供可能
-  * 電源タップ
-  * USBケーブル
-  * HDMIケーブル
   * CHIRIMENのHDMIディスプレイ 3台 => MJ 手配担当：[dadaa](https://github.com/dadaa)
   * [ CHIRIMENステッカー（増刷分） #50 ](https://is.gd/03PdBo)=>増刷（手配：[kazygumi](https://github.com/kazygumi) さん、カンパ本日(7/2)より開始）
 
 ### 当日のタイムスケジュール
-* [上記タイムスケジュール（暫定）](https://drive.google.com/open?id=18LtwfeaJXBBv7pB382Lsuvljbilr_kkLGk-EdDuuiug)
+* [上記タイムスケジュール](https://drive.google.com/open?id=18LtwfeaJXBBv7pB382Lsuvljbilr_kkLGk-EdDuuiug)
+   * [MFT2016 ブースイベントのタイムスケジュール作成依頼 #101](https://is.gd/LT2hSp)
 * [Maker Faire Tokyo 2016 スタッフ募集 #51](https://is.gd/nzAYLT)
+* 当日の役割分担
+   * タイムキーパー、広報担当：[gurezo](https://github.com/gurezo)，[kohichi000000](https://github.com/kohichi000000)
+   * [受付、イメージ焼き担当：dadaa](https://github.com/dadaa)
+   * タッチ＆トライサポート：２〜３人
 
 ## ◆[NodeBots Day 2016 for Tokyo, Japan!](https://is.gd/eHgYL5)
 * [ issue36 (7/30) NodeBots Day 2016 for Tokyo #36 ](https://is.gd/PWuxQ4)
@@ -115,10 +114,12 @@
 * 08 月
  * 06日：Maker Faire Tokyo 2016(初日)
  * 07日：Maker Faire Tokyo 2016(最終日)
- * [上記タイムスケジュール（暫定）](https://drive.google.com/open?id=18LtwfeaJXBBv7pB382Lsuvljbilr_kkLGk-EdDuuiug)
+ * [上記タイムスケジュール](https://drive.google.com/open?id=18LtwfeaJXBBv7pB382Lsuvljbilr_kkLGk-EdDuuiug)
+   * [MFT2016 ブースイベントのタイムスケジュール作成依頼 #101](https://is.gd/LT2hSp)
 * 09 月
 * 10 月
- * 15/22日あたりにイベント（xx記念）
+ * 15日 ABC 2016 Autumn 参加して、xx記念イベントを行う？
+ * 22日 に単独イベント（xx記念）を行う？
 * 11 月
 * 12 月
 
@@ -130,7 +131,8 @@
 * w/ fabcafe
 * ICC (w/ 明治大渡辺先生）
 * 東京テクニカルカレッジ授業(11,12月?)
-* takram brew にてデモ展示?(8月)
+* takram brew にてデモ展示?
+ * 8月後半、移転先不明
 
 ## その他
 * [議論メモ 07/02](https://public.etherpad-mozilla.org/p/chirimen-20160702)
