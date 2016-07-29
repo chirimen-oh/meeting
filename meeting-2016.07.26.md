@@ -57,6 +57,9 @@
  * 子供対象のCHIRIMEN x HAKUTOをモチーフにした遊べる展示物
     * プラネタリウム（ケータイ星座早見板＋LED）製作キット（下記の通り女子中高生向け）
     * 着陸ゲーム（子供向け）⇒HAKUTOさんと一緒に作成中
+  * CHIRIMENセッション
+    * CHIRIMENコミュニティ紹介
+    * 作ったもの自慢大会（LT）
 * KDDIブース 枠
   * 女子中高生向け ⇒ Maker Faireブースめぐりミニ星座早見盤を作ろう＋トーク
   * ディスカッションセッション
@@ -66,10 +69,7 @@
   * パネルセッション（坂井先生枠） => 坂井先生がパネラー参加
   * [HAKUTO](http://team-hakuto.jp/index.html) 枠
     * HAKUTOさんのメンバー募集の告知をします。
-  * CHIRIMENセッション
-    * CHIRIMENコミュニティ紹介
-    * 作ったもの自慢大会（LT）
-    * 何かとコラボ企画：
+    * コラボ企画：
       * CHIRIMEN x 学校教育
       * CHIRIMEN x 宇宙：[HAKUTO](http://team-hakuto.jp/index.html)さん
       * CHIRIMEN x YAMAHA（音源関係）=> 当日タイミングを見て貸出
