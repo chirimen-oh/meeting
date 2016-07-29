@@ -1,4 +1,4 @@
-# アジェンダ（内容更新中）
+# アジェンダ
 
 ## [前回議事録](meeting-2016.07.02.md)
 
@@ -137,3 +137,11 @@
 ## その他
 * [議論メモ 07/02](https://public.etherpad-mozilla.org/p/chirimen-20160702)
 * [議論メモ 07/26](https://public.etherpad-mozilla.org/p/chirimen-20160726)
+* mozilla festival　8/1応募期限
+* 専門学校のオンラインチューター支援構想
+* 中央大学生向け、集中オープンプロジェクト演習：9/2,3,10,16,17
+ * 初日：中央大学
+ * 以降、MJ？
+ * html5jカンファレンスと日程がカブっている
+
+
