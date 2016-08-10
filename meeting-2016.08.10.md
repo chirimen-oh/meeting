@@ -2,7 +2,7 @@
 
 ## [前回議事録](meeting-2016.07.26.md)
 
-## ◆CHIRIMEN の コミュニティ活動 について
+## ◆ CHIRIMEN の コミュニティ活動 について
 ### CHIRIMEN の github について
 #### 完了 issue
 * [ slack 参加フォームを作る #19 ](https://is.gd/5aD5TE)
@@ -57,6 +57,7 @@
     * チュートリアルを真面目な内容ばかりでなく、楽しい内容（エンターテイメント的な）も必要ではないか？
   * ドキュメントが、~~圧倒的に足りない~~ => 整理されていない。
   * ~~リンク切れが多い。（伝統？）~~ => 整理されていない。
+    * [ MDN の既存ページを chirimen.org への誘導に書き換える #117 ](https://github.com/chirimen-oh/any-issues/issues/117)
   * ドキュメントの理想像（こんな感じで出来たら良いな）
     * [The Rust Tutorial](https://doc.rust-lang.org/book/)
     * [Docker ドキュメント日本語化プロジェクト](http://docs.docker.jp/index.html)
