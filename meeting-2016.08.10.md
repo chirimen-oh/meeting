@@ -1,4 +1,4 @@
-# アジェンダ
+# アジェンダ（編集中）
 
 ## [前回議事録](meeting-2016.07.26.md)
 
@@ -15,11 +15,30 @@
 
 ###  議論 issue
 * 各リポジトリの issue と any-issue の関連性について
+  * 結論：各リポジトリ毎にissueを立てる。
+  * 全体のissueが見られる  
+    =>やり方はreadmeにまとめる。  
+      たとえば、自分向けの全issueもフィルタをかければ見られる
+  * 手順：[動画](https://gyazo.com/ec4c28fe9cc9a45260c014bdd048a0a4)
 * CHIRIMEN Board の 販売 について
   * 製造販売元とコミュニティの住み分けについて（技術サポート・アナウンス等）
+    * ハードウェア関連：CHIRIMEN 本体の製品不良は、こちらへ
+    * ソフトウェア関連：CHIRIMENコミュニティ（slack、SNSなど）
+    * 確認方法（問題切り分けページ）をつくろう
+    * [ chirimen.open.hardware@gmail.com To Slack #119 ](https://github.com/chirimen-oh/any-issues/issues/119)  
+    chirimen.open.hardware@gmail.com で、受信メールをslackへ転送できるように確認。
   * [ ボードに正しいB2G OSが書き込まれていない #113 ](https://github.com/chirimen-oh/any-issues/issues/113)
+    * 08/08 release したイメージを First release とする。
+    * macOSでの手順は、引き続き準備継続
   * [ CHRIMEN Board 発売記念イベント 企画 #109 ](https://github.com/chirimen-oh/any-issues/issues/109)
+    * 09/17 開催決定
+    * メイン準備： @gurezo
+    * サポート　： @MSakamaki さん
+    * 会場担当　： @sizuhiko さん
   * [ CHIRIMENの名前統一 #107 ](https://github.com/chirimen-oh/any-issues/issues/107)
+    * 公式サイトの記載に合わせる。　=> 「CHIRIMEN Open Hardware」
+
+
 * Maker Faire Tokyo 2016 での CHIRIMEN 紹介 ＆ ディスカッション内容
   * アナログ機器用のコードが現時点でない
   * チュートリアルを充実させた方が良いのではないか？
@@ -51,9 +70,11 @@
  * 06日：済-Maker Faire Tokyo 2016(初日)
  * 07日：済-Maker Faire Tokyo 2016(最終日)
 * 09 月
+  * 03日：中央大学生向け、集中オープンプロジェクト演習
+  * 10日：中央大学生向け、集中オープンプロジェクト演習
+  * 17日：中央大学生向け、集中オープンプロジェクト演習
+  * 17日：CHRIMEN Board 発売記念イベント
 * 10 月
- * 15日 ABC 2016 Autumn 参加して、xx記念イベントを行う？
- * 22日 に単独イベント（xx記念）を行う？
 * 11 月
 * 12 月
 
@@ -71,7 +92,8 @@
 ## その他
 * [議論メモ 07/02](https://public.etherpad-mozilla.org/p/chirimen-20160702)
 * [議論メモ 07/26](https://public.etherpad-mozilla.org/p/chirimen-20160726)
-* mozilla festival　8/1応募期限
+* [議論メモ 08/08](https://public.etherpad-mozilla.org/p/chirimen-20160808)
+* mozilla festival　@gurezo,
 * 専門学校のオンラインチューター支援構想
 * 中央大学生向け、集中オープンプロジェクト演習：9/2,3,10,16,17
  * 初日：中央大学
