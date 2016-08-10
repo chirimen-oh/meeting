@@ -6,14 +6,17 @@
 ### CHIRIMEN の github について
 #### 完了 issue
 * [ slack 参加フォームを作る #19 ](https://is.gd/5aD5TE)
-* [ twitterとslackの連携 #108 ](https://github.com/chirimen-oh/any-issues/issues/108)
-* [ MFT2016 ブースイベントのタイムスケジュール作成依頼 #101 ](https://github.com/chirimen-oh/any-issues/issues/101)
+* [ Maker Faire Tokyo 2016 KDDIブース看板デザイン #94 ](https://github.com/chirimen-oh/any-issues/issues/94)
 * [ タッチ＆トライ用PC #99 ](https://github.com/chirimen-oh/any-issues/issues/99)
+* [ MFT2016 ブースイベントのタイムスケジュール作成依頼 #101 ](https://github.com/chirimen-oh/any-issues/issues/101)
 * [ コミュニティ名刺希望者 #100 ](https://is.gd/sE9RWz)
+* [ 定期チャンネル案内 #105 ](https://github.com/chirimen-oh/any-issues/issues/105)
+* [ twitterとslackの連携 #108 ](https://github.com/chirimen-oh/any-issues/issues/108)
 
 ###  議論 issue
 * 各リポジトリの issue と any-issue の関連性について
 * CHIRIMEN Board の 販売 について
+  * 製造販売元とコミュニティの住み分けについて（技術サポート・アナウンス等）
   * [ ボードに正しいB2G OSが書き込まれていない #113 ](https://github.com/chirimen-oh/any-issues/issues/113)
   * [ CHRIMEN Board 発売記念イベント 企画 #109 ](https://github.com/chirimen-oh/any-issues/issues/109)
   * [ CHIRIMENの名前統一 #107 ](https://github.com/chirimen-oh/any-issues/issues/107)
