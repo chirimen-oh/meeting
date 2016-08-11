@@ -19,7 +19,9 @@
   * 全体のissueが見られる  
     =>やり方はreadmeにまとめる。  
       たとえば、自分向けの全issueもフィルタをかければ見られる
-  * 手順：[動画](https://gyazo.com/ec4c28fe9cc9a45260c014bdd048a0a4)
+  * 手順
+    * [github ページの issues をクリックしてフィルターをかける。](./etc/issues-select.mp4)
+    * [github ページの「Search」に検索条件を入力してフィルターをかける。](./etc/issue-input.mp4)
 * CHIRIMEN Board の 販売 について
   * 製造販売元とコミュニティの住み分けについて（技術サポート・アナウンス等）
     * ハードウェア関連：CHIRIMEN 本体の製品不良は、こちらへ
@@ -32,14 +34,14 @@
     * macOSでの手順は、引き続き準備継続
   * [ CHRIMEN Board 発売記念イベント 企画 #109 ](https://github.com/chirimen-oh/any-issues/issues/109)
     * 09/17 開催決定
-    * メイン準備： @gurezo
-    * サポート　： @MSakamaki さん
-    * 会場調整　： @sizuhiko さん
+    * メイン準備： [@gurezo](https://github.com/orgs/chirimen-oh/people/gurezo)
+    * サポート　： [@MSakamaki](https://github.com/orgs/chirimen-oh/people/MSakamaki) さん
+    * 会場調整　： [@sizuhiko](https://github.com/orgs/chirimen-oh/people/sizuhiko) さん
     * [エイドステーションの利用に関して](https://www.switch-science.com/info/aidstation/)
       * Q：いつまでに申し込みが必要ですか？
       * A：エイドステーションでの在庫確保期間はイベントの前後15日間としておりますので、  
         商品のお申し込み手続きはイベントの1~２週間前くらいにお願いします。  
-        必要時期が近い場合に、必要となる日程の5営業日前までにお申し込みください。
+        必要時期が近い場合に、必要となる日程の5営業日前までにお申し込みください。    * 09/17 開催決定
   * [ CHIRIMENの名前統一 #107 ](https://github.com/chirimen-oh/any-issues/issues/107)
     * 公式サイトの記載に合わせる。　=> 「CHIRIMEN Open Hardware」
 * Maker Faire Tokyo 2016 での CHIRIMEN 紹介 ＆ ディスカッション内容
@@ -99,13 +101,13 @@
 * w/ fabcafe
 * ICC (w/ 明治大渡辺先生）
 * 東京テクニカルカレッジ授業(11,12月?)
-* html5 conference＠東京電気大(9/3)
+* html5 conference＠東京電機大(9/3)
 
 ## その他
 * [議論メモ 07/02](https://public.etherpad-mozilla.org/p/chirimen-20160702)
 * [議論メモ 07/26](https://public.etherpad-mozilla.org/p/chirimen-20160726)
 * [議論メモ 08/08](https://public.etherpad-mozilla.org/p/chirimen-20160808)
-* mozilla festival　@gurezo, @WhiteHawk-taka, @kazygumi で、チームエントリー
+* mozilla festival　[@gurezo](https://github.com/orgs/chirimen-oh/people/gurezo), [@WhiteHawk-taka](https://github.com/orgs/chirimen-oh/people/WhiteHawk-taka), [@kazygumi](https://github.com/orgs/chirimen-oh/people/kazygumi) で、チームエントリー
   * 抽選結果待ち
 * 専門学校のオンラインチューター支援構想
 * 中央大学生向け、集中オープンプロジェクト演習：9/2,3,10,16,17
