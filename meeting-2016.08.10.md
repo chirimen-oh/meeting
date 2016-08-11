@@ -20,8 +20,8 @@
     =>やり方はreadmeにまとめる。  
       たとえば、自分向けの全issueもフィルタをかければ見られる
   * 手順
-    * [github ページの issues をクリックしてフィルターをかける。](./etc/issues-select.mp4)
-    * [github ページの「Search」に検索条件を入力してフィルターをかける。](./etc/issue-input.mp4)
+    * [github ページの issues をクリックしてフィルターをかける。](./etc/issues-select.gif)
+    * [github ページの「Search」に検索条件を入力してフィルターをかける。](./etc/issue-input.gif)
 * CHIRIMEN Board の 販売 について
   * 製造販売元とコミュニティの住み分けについて（技術サポート・アナウンス等）
     * ハードウェア関連：CHIRIMEN 本体の製品不良は、こちらへ
