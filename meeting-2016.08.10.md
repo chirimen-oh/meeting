@@ -37,9 +37,9 @@
     * macOSでの手順は、引き続き準備継続
   * [ CHRIMEN Board 発売記念イベント 企画 #109 ](https://github.com/chirimen-oh/any-issues/issues/109)
     * 09/17 開催決定
-    * メイン準備： [@gurezo](https://github.com/orgs/chirimen-oh/people/gurezo)
-    * サポート　： [@MSakamaki](https://github.com/orgs/chirimen-oh/people/MSakamaki) さん
-    * 会場調整　： [@sizuhiko](https://github.com/orgs/chirimen-oh/people/sizuhiko) さん
+    * メイン準備： [@gurezo](https://github.com/gurezo)
+    * サポート　： [@MSakamaki](https://github.com/MSakamaki) さん
+    * 会場調整　： [@sizuhiko](https://github.com/sizuhiko) さん
     * [エイドステーションの利用に関して](https://www.switch-science.com/info/aidstation/)
       * Q：いつまでに申し込みが必要ですか？
       * A：エイドステーションでの在庫確保期間はイベントの前後15日間としておりますので、  
@@ -110,7 +110,7 @@
 * [議論メモ 07/02](https://public.etherpad-mozilla.org/p/chirimen-20160702)
 * [議論メモ 07/26](https://public.etherpad-mozilla.org/p/chirimen-20160726)
 * [議論メモ 08/08](https://public.etherpad-mozilla.org/p/chirimen-20160808)
-* mozilla festival　[@gurezo](https://github.com/orgs/chirimen-oh/people/gurezo), [@WhiteHawk-taka](https://github.com/orgs/chirimen-oh/people/WhiteHawk-taka), [@kazygumi](https://github.com/orgs/chirimen-oh/people/kazygumi) で、チームエントリー
+* mozilla festival　[@gurezo](https://github.com/gurezo), [@WhiteHawk-taka](https://github.com/WhiteHawk-taka), [@kazygumi](https://github.com/kazygumi) で、チームエントリー
   * 抽選結果待ち
 * 専門学校のオンラインチューター支援構想
 * 中央大学生向け、集中オープンプロジェクト演習：9/2,3,10,16,17
