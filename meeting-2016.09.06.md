@@ -1,4 +1,4 @@
-# アジェンダ（実施前・作成中）
+# アジェンダ（実施前）
 
 ## [前回議事録](meeting-2016.08.10.md)
 
@@ -35,7 +35,8 @@
 * [ コラボレーションオファーリクエストについて #135 ](https://github.com/chirimen-oh/any-issues/issues/135)
 * [ Polyfill に関する情報について #125 ](https://github.com/chirimen-oh/any-issues/issues/125)
 * [ ボードに正しいB2G OSが書き込まれていない #113 ](https://github.com/chirimen-oh/any-issues/issues/113)
-  * macOSでの手順は、引き続き準備継続 => virtual box + extension pack 環境に ubuntuで、統一する？
+  * macOSでの手順は、引き続き準備継続  
+  　=> virtual box + extension pack に ubuntu　環境ファイルを配布する形で、統一する？
 * [ chirimen-oh organization に contributor team とか作る？ #132 ](https://github.com/chirimen-oh/any-issues/issues/132)
 * [Hello Real Worldを作る #116](https://github.com/chirimen-oh/any-issues/issues/116)
 * [ B2G/Gecko version を FAQ に記載 #131 ](https://github.com/chirimen-oh/any-issues/issues/131)
