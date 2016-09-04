@@ -33,6 +33,7 @@
   * [ 発売イベント買い出しツアーリスト作成 #134 ](https://github.com/chirimen-oh/any-issues/issues/134)
 * 中央大学生向け、集中オープンプロジェクト演習：初回実施振り返り・KPT
 * [ コラボレーションオファーリクエストについて #135 ](https://github.com/chirimen-oh/any-issues/issues/135)
+  * [ B2G OS & Chirimen Collaboration #5 ](https://github.com/chirimen-oh/Support-And-FAQ/issues/5)
 * [ Polyfill に関する情報について #125 ](https://github.com/chirimen-oh/any-issues/issues/125)
 * [ ボードに正しいB2G OSが書き込まれていない #113 ](https://github.com/chirimen-oh/any-issues/issues/113)
   * macOSでの手順は、引き続き準備継続  
