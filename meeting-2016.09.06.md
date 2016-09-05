@@ -42,7 +42,7 @@
 * [Hello Real Worldを作る #116](https://github.com/chirimen-oh/any-issues/issues/116)
 * [ B2G/Gecko version を FAQ に記載 #131 ](https://github.com/chirimen-oh/any-issues/issues/131)
 * [ replace boot logo(Tux) and recovery background(Android robot) with CHIRIMEN logo #114 ](https://github.com/chirimen-oh/any-issues/issues/114)
-* ちりめんケースとGPIOコンフィグレーション
+* ちりめんケース入門キット等とGPIOコンフィグレーション　[関連イシュー](https://github.com/chirimen-oh/any-issues/issues/130)
 
 ### CHIRIMEN の 主体のイベント活動 について
 * 現状保留
