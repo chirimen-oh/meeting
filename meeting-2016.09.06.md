@@ -74,11 +74,12 @@
 * 12 月
 
 ## 出展可能性のあるイベント候補
-* mozilla festival
-* Open Research Forum＠ミッドタウン(SFCの発表会 11/18-20くらい)
+* [mozilla festival 2016](https://mozillafestival.org/) (2016/10/28-30＠ロンドン)
+* [Open Research Forum 2016](http://orf.sfc.keio.ac.jp/2016/) (SFCの発表会 2016/11/18-19＠東京ミッドタウン)
 * w/ fabcafe
 * ICC (w/ 明治大渡辺先生）
-* 東京テクニカルカレッジ授業(11/4~12/9,毎週金13:00~16:00)
+* 東京テクニカルカレッジ授業(2016/11/4~12/9,毎週金13:00~16:00)
+* [OGAKI mini maker faire](http://ommf.iamas.ac.jp/) (2016/12/03-04＠大垣ソフトピアジャパン（岐阜）、申込は9/30まで）
 
 ## その他
 * [議論メモ 07/02](https://public.etherpad-mozilla.org/p/chirimen-20160702)
