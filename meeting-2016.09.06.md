@@ -43,6 +43,7 @@
 * [ B2G/Gecko version を FAQ に記載 #131 ](https://github.com/chirimen-oh/any-issues/issues/131)
 * [ replace boot logo(Tux) and recovery background(Android robot) with CHIRIMEN logo #114 ](https://github.com/chirimen-oh/any-issues/issues/114)
 * ちりめんケース入門キット等とGPIOコンフィグレーション　[関連イシュー](https://github.com/chirimen-oh/any-issues/issues/130)
+* [専門学校東京テクニカルカレッジの授業協力](https://github.com/chirimen-oh/any-issues/issues/136)
 
 ### CHIRIMEN の 主体のイベント活動 について
 * 現状保留
