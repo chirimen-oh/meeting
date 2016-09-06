@@ -76,7 +76,7 @@
 * Open Research Forum＠ミッドタウン(SFCの発表会 11/18-20くらい)
 * w/ fabcafe
 * ICC (w/ 明治大渡辺先生）
-* 東京テクニカルカレッジ授業(11,12月?)
+* 東京テクニカルカレッジ授業(11/4~12/9,毎週金13:00~16:00)
 
 ## その他
 * [議論メモ 07/02](https://public.etherpad-mozilla.org/p/chirimen-20160702)
@@ -85,5 +85,6 @@
 * mozilla festival　[@gurezo](https://github.com/gurezo), [@WhiteHawk-taka](https://github.com/WhiteHawk-taka), [@kazygumi](https://github.com/kazygumi) で、チームエントリー
   * 抽選結果待ち
 * 専門学校のオンラインチューター支援構想
+  * 支援者のスケジュールを決めていきたい
 * 中央大学生向け、集中オープンプロジェクト演習：9/2,3,10,16,17
  * 初日：中央大学、以降、MJ
