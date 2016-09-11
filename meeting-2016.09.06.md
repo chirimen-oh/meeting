@@ -1,4 +1,4 @@
-# アジェンダ（編集中）
+# アジェンダ
 
 ## [前回議事録](meeting-2016.08.10.md)
 
@@ -78,6 +78,9 @@
 * [ replace boot logo(Tux) and recovery background(Android robot) with CHIRIMEN logo #114 ](https://github.com/chirimen-oh/any-issues/issues/114)
 * ちりめんケース入門キット等とGPIOコンフィグレーション　[関連イシュー](https://github.com/chirimen-oh/any-issues/issues/130)
 * [専門学校東京テクニカルカレッジの授業協力](https://github.com/chirimen-oh/any-issues/issues/136)
+  * オンラインチューター募集
+  * CHIRIMEN コードチェック シュミレーターをうまく利用できないか？  
+    [MSakamaki](https://github.com/MSakamaki) さん作成のシュミレータの事
 * B2G 以外の計画
   * Android
   * Rasbian
