@@ -70,7 +70,7 @@
     => virtual box + extension pack に ubuntu　環境ファイルを配布する形で、統一する？  
     => Mac OSXだとまっさらな時(何もイメージが焼かれていない？ボード)だと  
        USB認識されないので、これでは解決しない  
-    ※ ファーム焼き用の Ubuntu.vdi ファイルを準備済み
+    ※ [ファーム焼き用の Ubuntu.vdi ファイル](https://drive.google.com/open?id=0B4V6iMhRJyKObjV3bmZDZVN4d1k)を準備済み
 * [ chirimen-oh organization に contributor team とか作る？ #132 ](https://github.com/chirimen-oh/any-issues/issues/132)
 * [Hello Real Worldを作る #116](https://github.com/chirimen-oh/any-issues/issues/116)
   * [dadaa](https://github.com/dadaa) さんと [naokisekiguchi](https://github.com/naokisekiguchi) さんで調整
