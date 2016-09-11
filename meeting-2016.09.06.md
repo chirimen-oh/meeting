@@ -68,7 +68,8 @@
 * [ ボードに正しいB2G OSが書き込まれていない #113 ](https://github.com/chirimen-oh/any-issues/issues/113)
   * macOSでの手順は、引き続き準備継続  
     => virtual box + extension pack に ubuntu　環境ファイルを配布する形で、統一する？  
-    => Mac OSXだとまっさらな時(何もイメージが焼かれていない？ボード)だとUSB認識されないので、これでは解決しない  
+    => Mac OSXだとまっさらな時(何もイメージが焼かれていない？ボード)だと  
+       USB認識されないので、これでは解決しない  
     ※ ファーム焼き用の Ubuntu.vdi ファイルを準備済み
 * [ chirimen-oh organization に contributor team とか作る？ #132 ](https://github.com/chirimen-oh/any-issues/issues/132)
 * [Hello Real Worldを作る #116](https://github.com/chirimen-oh/any-issues/issues/116)
@@ -82,7 +83,7 @@
   * Rasbian
   * Yocto Linux
 * コーディング規約に関して
-  * [Mozilla コーディングスタイルガイド](https://developer.mozilla.org/ja/docs/Mozilla/Developer_Guide/Mozilla_Coding_Style_Guide)
+  * [Mozilla コーディングスタイルガイド](https://developer.mozilla.org/ja/docs/Mozilla/Developer_Guide/Mozilla_Coding_Style_Guide) を基準にする。
   * examplesあたりに書いておく
 
 ### CHIRIMEN の 主体のイベント活動 について
