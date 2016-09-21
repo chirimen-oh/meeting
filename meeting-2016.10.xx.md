@@ -65,9 +65,5 @@
 * [議論メモ 07/26](https://public.etherpad-mozilla.org/p/chirimen-20160726)
 * [議論メモ 08/08](https://public.etherpad-mozilla.org/p/chirimen-20160808)
 * [議論メモ 09/06](https://public.etherpad-mozilla.org/p/chirimen-20160906)
-* mozilla festival　[@gurezo](https://github.com/gurezo), [@WhiteHawk-taka](https://github.com/WhiteHawk-taka), [@kazygumi](https://github.com/kazygumi) で、チームエントリー
-  * 抽選結果待ち => 落選 (T_T)
 * 専門学校のオンラインチューター支援構想
   * 支援者のスケジュールを決めていきたい
-* 中央大学生向け、集中オープンプロジェクト演習：9/2,3,10,16,17
- * 初日：中央大学、以降、MJ
