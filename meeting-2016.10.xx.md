@@ -6,6 +6,7 @@
 ### CHIRIMEN の github について
 #### 完了 issue
 * [CHRIMEN Board 発売記念イベント スタッフ募集 #141](https://github.com/chirimen-oh/any-issues/issues/141)
+* [周辺デバイスページから example リポジトリへリンク](https://github.com/chirimen-oh/any-issues/issues/139)
 * [発売イベント買い出しツアーリスト作成 #134](https://github.com/chirimen-oh/any-issues/issues/134)
 * [sluckのgeneralチャネルでbot/twitterがつぶやきすぎてチャンネルとして機能不全に陥ってない？ #137](https://github.com/chirimen-oh/any-issues/issues/137)
 * [コラボレーションオファーリクエストについて #135](https://github.com/chirimen-oh/any-issues/issues/135)
@@ -13,7 +14,6 @@
 ###  議論 issue
 * [B2GOS & Chirimen Collaboration](https://discourse.mozilla-community.org/t/b2gos-chirimen-collaboration/10749)
 * [セルフ開発環境の構築 #140](https://github.com/chirimen-oh/any-issues/issues/140)
-* [周辺デバイスページから example リポジトリへリンク](https://github.com/chirimen-oh/any-issues/issues/139)
 * [Create CHIRIMEN cording style standard #138](https://github.com/chirimen-oh/any-issues/issues/138)
 * [専門学校東京テクニカルカレッジの授業協力 #136](https://github.com/chirimen-oh/any-issues/issues/136)
 * [chirimen-oh organization に contributor team とか作る？ #132](https://github.com/chirimen-oh/any-issues/issues/132)
