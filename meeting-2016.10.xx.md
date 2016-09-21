@@ -1,0 +1,55 @@
+# アジェンダ
+
+## [前回議事録](meeting-2016.09.06.md)
+
+## ◆ CHIRIMEN の コミュニティ活動 について
+### CHIRIMEN の github について
+#### 完了 issue
+
+###  議論 issue
+### CHIRIMEN の 主体のイベント活動 について
+* 現状保留
+  * [ 企業を含む各種団体からの後援・賛同・貢献について #47  ](https://is.gd/y9GQVO)
+  * [ イベントなどに対するプレス対応について #48  ](https://is.gd/03PdBo)
+
+## コミュニティ・イベント活動のマイルストーン（暫定）
+* 04 月
+ * 30日：済-CHIRIMEN Open Hardware Open Source化
+* 06 月
+ * 08日：済-Interop Tokyo 2016(初日)
+ * 09日：済-Interop Tokyo 2016(二日目)
+ * 10日：済-Interop Tokyo 2016(最終日)
+* 07 月
+ * 30日：済-NodeBots Day 2016 for Tokyo
+* 08 月
+ * 06日：済-Maker Faire Tokyo 2016(初日)
+ * 07日：済-Maker Faire Tokyo 2016(最終日)
+ * 26日：済-takram brew 展示
+* 09 月
+  * 03日：済-中央大学生向け、集中オープンプロジェクト演習
+  * 10日：中央大学生向け、集中オープンプロジェクト演習
+  * 17日：中央大学生向け、集中オープンプロジェクト演習
+  * 17日：CHRIMEN Board 発売記念イベント
+* 10 月
+* 11 月
+* 12 月
+
+## 出展可能性のあるイベント候補
+* [mozilla festival 2016](https://mozillafestival.org/) (2016/10/28-30＠ロンドン)
+* [Open Research Forum 2016](http://orf.sfc.keio.ac.jp/2016/) (SFCの発表会 2016/11/18-19＠東京ミッドタウン)
+* w/ fabcafe
+* ICC (w/ 明治大渡辺先生）
+* 東京テクニカルカレッジ授業(2016/11/4~12/9,毎週金13:00~16:00)
+* [OGAKI mini maker faire](http://ommf.iamas.ac.jp/) (2016/12/03-04＠大垣ソフトピアジャパン（岐阜）、申込は9/30まで）
+
+## その他
+* [議論メモ 07/02](https://public.etherpad-mozilla.org/p/chirimen-20160702)
+* [議論メモ 07/26](https://public.etherpad-mozilla.org/p/chirimen-20160726)
+* [議論メモ 08/08](https://public.etherpad-mozilla.org/p/chirimen-20160808)
+* [議論メモ 09/06](https://public.etherpad-mozilla.org/p/chirimen-20160906)
+* mozilla festival　[@gurezo](https://github.com/gurezo), [@WhiteHawk-taka](https://github.com/WhiteHawk-taka), [@kazygumi](https://github.com/kazygumi) で、チームエントリー
+  * 抽選結果待ち => 落選 (T_T)
+* 専門学校のオンラインチューター支援構想
+  * 支援者のスケジュールを決めていきたい
+* 中央大学生向け、集中オープンプロジェクト演習：9/2,3,10,16,17
+ * 初日：中央大学、以降、MJ
