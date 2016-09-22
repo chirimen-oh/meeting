@@ -13,6 +13,7 @@
 
 ###  議論 issue
 * [B2GOS & Chirimen Collaboration](https://discourse.mozilla-community.org/t/b2gos-chirimen-collaboration/10749)
+* [イベント用資材の管理・運用 #142](https://github.com/chirimen-oh/any-issues/issues/142)
 * [セルフ開発環境の構築 #140](https://github.com/chirimen-oh/any-issues/issues/140)
 * [Create CHIRIMEN cording style standard #138](https://github.com/chirimen-oh/any-issues/issues/138)
 * [専門学校東京テクニカルカレッジの授業協力 #136](https://github.com/chirimen-oh/any-issues/issues/136)
