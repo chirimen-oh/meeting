@@ -13,6 +13,10 @@
 
 ###  議論 issue
 * [B2GOS & Chirimen Collaboration](https://discourse.mozilla-community.org/t/b2gos-chirimen-collaboration/10749)
+  * [B2G/Meeting/2016-09-27](https://wiki.mozilla.org/B2G/Meeting/2016-09-27)
+  * [Telegram](https://web.telegram.org/#/im?p=@B2GOS)
+  * [B2G OS Announcements on Tuesday](https://groups.google.com/forum/?hl=ja#!topic/mozilla.dev.fxos/TVvOsr5Ae0E)
+  * [Re create B2G based on Android](https://discourse.mozilla-community.org/t/re-create-b2g-based-on-android/11114)
 * [イベント用資材の管理・運用 #142](https://github.com/chirimen-oh/any-issues/issues/142)
 * [セルフ開発環境の構築 #140](https://github.com/chirimen-oh/any-issues/issues/140)
 * [Create CHIRIMEN cording style standard #138](https://github.com/chirimen-oh/any-issues/issues/138)
