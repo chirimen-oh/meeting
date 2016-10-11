@@ -18,6 +18,7 @@
   * [B2G OS Announcements on Tuesday](https://groups.google.com/forum/?hl=ja#!topic/mozilla.dev.fxos/TVvOsr5Ae0E)
   * [Re create B2G based on Android](https://discourse.mozilla-community.org/t/re-create-b2g-based-on-android/11114)
 * [CHIRIIMENボードのOSについて #147](https://github.com/chirimen-oh/any-issues/issues/147)
+* [ライセンスに関する検証  #148](https://github.com/chirimen-oh/any-issues/issues/148)
 * [[12/3-4] Ogaki Mini Maker Faire 2016 #146](https://github.com/chirimen-oh/any-issues/issues/146)
 * [イベント用資材の管理・運用 #142](https://github.com/chirimen-oh/any-issues/issues/142)
 * [セルフ開発環境の構築 #140](https://github.com/chirimen-oh/any-issues/issues/140)
