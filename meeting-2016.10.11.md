@@ -1,4 +1,4 @@
-# アジェンダ（実施前）
+# アジェンダ（編集中）
 
 ## [前回議事録](meeting-2016.09.06.md)
 
@@ -17,13 +17,24 @@
   * [Telegram](https://web.telegram.org/#/im?p=@B2GOS)
   * [B2G OS Announcements on Tuesday](https://groups.google.com/forum/?hl=ja#!topic/mozilla.dev.fxos/TVvOsr5Ae0E)
   * [Re create B2G based on Android](https://discourse.mozilla-community.org/t/re-create-b2g-based-on-android/11114)
+  * [marsf](https://github.com/marsf) さん,[kohichi000000](https://github.com/kohichi000000)さんがレビューしてくれたものをポスト
 * [CHIRIIMENボードのOSについて #147](https://github.com/chirimen-oh/any-issues/issues/147)
+  * 各自知見を得たものをこのissueに追記する。
 * [ライセンスに関する検証  #148](https://github.com/chirimen-oh/any-issues/issues/148)
+  * CHIRIMEN Open Hardware利用規約 第一版より
+    * 「MJから」の部分を変える必要がありそう
+    * 「本コミュニティ」の部分を変える必要がありそう
+    * 「本コミュニティ及びMJ」の部分を変える必要がありそう
+    * 次のリンクを読んでおく http://certificate.oshwa.org/
+    * 別途オンラインMTGで、ライセンスに関する議論をする場を設ける。
+    * @kudo さん交えて、議論
 * [[12/3-4] Ogaki Mini Maker Faire 2016 #146](https://github.com/chirimen-oh/any-issues/issues/146)
 * [イベント用資材の管理・運用 #142](https://github.com/chirimen-oh/any-issues/issues/142)
+  * 当分の間、mozilla japan さんに資材を置かせてもらい、そこから発送する。
 * [セルフ開発環境の構築 #140](https://github.com/chirimen-oh/any-issues/issues/140)
 * [Create CHIRIMEN cording style standard #138](https://github.com/chirimen-oh/any-issues/issues/138)
 * [専門学校東京テクニカルカレッジの授業協力 #136](https://github.com/chirimen-oh/any-issues/issues/136)
+  * 開発中の受講システム環境が整ったら、協力者にトライアルのお願いをする。
 * [chirimen-oh organization に contributor team とか作る？ #132](https://github.com/chirimen-oh/any-issues/issues/132)
 * [GPIOの入力をキーボード（のキー）にバインドする機能 #130](https://github.com/chirimen-oh/any-issues/issues/130)
 * [Polyfill に関する情報について #125](https://github.com/chirimen-oh/any-issues/issues/125)
@@ -59,9 +70,10 @@
   * xx日：各種センサー味見会
 * 11 月
 * 12 月
+  * 03日：Ogaki Mini Maker Faire 2016 ?
+  * 04日：Ogaki Mini Maker Faire 2016 ?
 
 ## 出展可能性のあるイベント候補
-* [mozilla festival 2016](https://mozillafestival.org/) (2016/10/28-30＠ロンドン)
 * [Open Research Forum 2016](http://orf.sfc.keio.ac.jp/2016/) (SFCの発表会 2016/11/18-19＠東京ミッドタウン)
 * w/ fabcafe
 * ICC (w/ 明治大渡辺先生）
@@ -73,5 +85,4 @@
 * [議論メモ 07/26](https://public.etherpad-mozilla.org/p/chirimen-20160726)
 * [議論メモ 08/08](https://public.etherpad-mozilla.org/p/chirimen-20160808)
 * [議論メモ 09/06](https://public.etherpad-mozilla.org/p/chirimen-20160906)
-* 専門学校のオンラインチューター支援構想
-  * 支援者のスケジュールを決めていきたい
+* [議論メモ 10/11](https://public.etherpad-mozilla.org/p/chirimen-20161011)
