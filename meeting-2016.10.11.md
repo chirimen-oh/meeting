@@ -1,4 +1,4 @@
-# アジェンダ（編集中）
+# アジェンダ
 
 ## [前回議事録](meeting-2016.09.06.md)
 
@@ -27,7 +27,7 @@
     * 「本コミュニティ及びMJ」の部分を変える必要がありそう
     * 次のリンクを読んでおく http://certificate.oshwa.org/
     * 別途オンラインMTGで、ライセンスに関する議論をする場を設ける。
-    * @kudo さん交えて、議論
+    * @kudodo さん交えて、議論
 * [[12/3-4] Ogaki Mini Maker Faire 2016 #146](https://github.com/chirimen-oh/any-issues/issues/146)
 * [イベント用資材の管理・運用 #142](https://github.com/chirimen-oh/any-issues/issues/142)
   * 当分の間、mozilla japan さんに資材を置かせてもらい、そこから発送する。
@@ -38,9 +38,13 @@
 * [chirimen-oh organization に contributor team とか作る？ #132](https://github.com/chirimen-oh/any-issues/issues/132)
 * [GPIOの入力をキーボード（のキー）にバインドする機能 #130](https://github.com/chirimen-oh/any-issues/issues/130)
 * [Polyfill に関する情報について #125](https://github.com/chirimen-oh/any-issues/issues/125)
+  * ディレクトリ構成（bower_componentsの見直し）
+  * url指定で、サイトを動くようにしたい。（index.htmlだけで動くようにしたい）
 * [Hello Real Worldを作る #116](https://github.com/chirimen-oh/any-issues/issues/116)
 * [replace boot logo(Tux) and recovery background(Android robot) with CHIRIMEN logo #114](https://github.com/chirimen-oh/any-issues/issues/114)
 * [ボードに正しいB2G OSが書き込まれていない #113](https://github.com/chirimen-oh/any-issues/issues/113)
+  * OSのファームイメージ作成は、完了した。
+  * mac のみ手順がドキュメントされていないので、別issueを立てる => [ファームイメージを焼く手順書（mac版） #149](https://github.com/chirimen-oh/any-issues/issues/149)
 
 ### CHIRIMEN の 主体のイベント活動 について
 * 現状保留
@@ -66,15 +70,18 @@
   * 17日：済-中央大学生向け、集中オープンプロジェクト演習
   * 17日：済-CHRIMEN Board 発売記念イベント
 * 10 月
+* 11 月
+  * 05日：[OSC Tokyo 2016 Fall 初日 展示のみ？](www.ospn.jp/osc2016-fall/)
+  * 06日：[OSC Tokyo 2016 Fall 最終日 展示のみ？](www.ospn.jp/osc2016-fall/)
+  * 18日：[Open Research Forum 2016](http://orf.sfc.keio.ac.jp/2016/)
+  * 19日：[Open Research Forum 2016](http://orf.sfc.keio.ac.jp/2016/) 
   * xx日：B2G OS ビルドもくもく会
   * xx日：各種センサー味見会
-* 11 月
 * 12 月
   * 03日：Ogaki Mini Maker Faire 2016 ?
   * 04日：Ogaki Mini Maker Faire 2016 ?
 
 ## 出展可能性のあるイベント候補
-* [Open Research Forum 2016](http://orf.sfc.keio.ac.jp/2016/) (SFCの発表会 2016/11/18-19＠東京ミッドタウン)
 * w/ fabcafe
 * ICC (w/ 明治大渡辺先生）
 * 東京テクニカルカレッジ授業(2016/11/4~12/9,毎週金13:00~16:00)
@@ -86,3 +93,5 @@
 * [議論メモ 08/08](https://public.etherpad-mozilla.org/p/chirimen-20160808)
 * [議論メモ 09/06](https://public.etherpad-mozilla.org/p/chirimen-20160906)
 * [議論メモ 10/11](https://public.etherpad-mozilla.org/p/chirimen-20161011)
+* 専門学校のオンラインチューター支援構想  
+  * 支援者のスケジュールを決めていきたい => [専門学校東京テクニカルカレッジの授業協力 #136](https://github.com/chirimen-oh/any-issues/issues/136)
