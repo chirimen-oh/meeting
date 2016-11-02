@@ -9,6 +9,7 @@
 * [イベント用資材の管理・運用 #142](https://github.com/chirimen-oh/any-issues/issues/142)
 
 ###  議論 issue
+* ドキュメンタリー映画主人公選出
 * CHIRIMEN のブランド利用について申請について（[kimono](https://github.com/chirimen-oh/Cases/tree/master/kimono)）
 * [CHIRIIMENボードのOSについて #147](https://github.com/chirimen-oh/any-issues/issues/147)
   * 各自知見を得たものをこのissueに追記する。
@@ -68,14 +69,13 @@
   * xx日：B2G OS ビルドもくもく会
   * xx日：各種センサー味見会
 * 12 月
-  * 03日：Ogaki Mini Maker Faire 2016 ?
-  * 04日：Ogaki Mini Maker Faire 2016 ?
+  * 03日：[Ogaki Mini Maker Faire 2016](http://ommf.iamas.ac.jp/)
+  * 04日：[Ogaki Mini Maker Faire 2016](http://ommf.iamas.ac.jp/)
 
 ## 出展可能性のあるイベント候補
 * w/ fabcafe
 * ICC (w/ 明治大渡辺先生）
 * 東京テクニカルカレッジ授業(2016/11/4~12/9,毎週金13:00~16:00)
-* [OGAKI mini maker faire](http://ommf.iamas.ac.jp/) (2016/12/03-04＠大垣ソフトピアジャパン（岐阜）、申込は9/30まで）
 
 ## その他
 * [議論メモ 07/02](https://public.etherpad-mozilla.org/p/chirimen-20160702)
