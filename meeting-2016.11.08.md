@@ -36,6 +36,7 @@
 * [ファームイメージを焼く手順書（mac版） #149](https://github.com/chirimen-oh/any-issues/issues/149)
 * [Ubuntu環境でイメージ生成に失敗する #144](https://github.com/chirimen-oh/any-issues/issues/144)
 * [B2G/rockdev/ is not for CMN2015-1 #112](https://github.com/chirimen-oh/any-issues/issues/112)
+* [電子情報通信学会の東京支部教育イベントの公募](https://github.com/chirimen-oh/any-issues/issues/153)
 
 ### CHIRIMEN の 主体のイベント活動 について
 * 現状保留
