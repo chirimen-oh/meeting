@@ -40,6 +40,7 @@
 * [電子情報通信学会の東京支部教育イベントの公募](https://github.com/chirimen-oh/any-issues/issues/153)
 * [Proposal #150](https://github.com/chirimen-oh/any-issues/issues/150)
 * [CHIRIMENの販売に関してOPENで情報共有するチャンネルのリンク、誘導をホームページに置く #151](https://github.com/chirimen-oh/any-issues/issues/151)
+* プロモーションムービ制作
 
 ### CHIRIMEN の 主体のイベント活動 について
 * 現状保留
