@@ -9,6 +9,7 @@
 * [イベント用資材の管理・運用 #142](https://github.com/chirimen-oh/any-issues/issues/142)
 
 ###  議論 issue
+* 発売記念収支報告
 * ドキュメンタリー映画主人公選出
 * CHIRIMEN のブランド利用について申請について（[kimono](https://github.com/chirimen-oh/Cases/tree/master/kimono)）
 * [CHIRIIMENボードのOSについて #147](https://github.com/chirimen-oh/any-issues/issues/147)
