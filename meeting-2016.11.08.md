@@ -85,8 +85,11 @@
   * 締め切り 11/11に申し込み済み。
 * [Proposal #150](https://github.com/chirimen-oh/any-issues/issues/150)
 * [CHIRIMENの販売に関してOPENで情報共有するチャンネルのリンク、誘導をホームページに置く #151](https://github.com/chirimen-oh/any-issues/issues/151)
-  * 新しいチャンネルを作った場合に、どういう風に共有するか？→ #general で当該情報（何？）をピンうち
-  * #general: 最初に入る場所じゃ！
+  * 新しいチャンネルを作った場合に、どういう風に共有するか？
+    * 告知場所
+      * #general
+      * ピン留する
+      * 告知期間：１週間
   * 定期チャンネル案内のGoogle Action Scriptをgithubで管理する
     * 自動連携（Google Action Scriptのソース管理をgithubで、連携する）
 
