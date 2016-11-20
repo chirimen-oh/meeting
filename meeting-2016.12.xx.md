@@ -9,6 +9,8 @@
 * [Ubuntu環境でイメージ生成に失敗する #144](https://github.com/chirimen-oh/any-issues/issues/144)
 * [fixed chirimen-oh/any-issues#144 #3](https://github.com/chirimen-oh/CHIRIMEN-tools/pull/3)
 * [Mac OSX用バイナリ #2](https://github.com/chirimen-oh/CHIRIMEN-tools/pull/2)
+* [Prepare a youtube channel for sharing CHIRIMEN demo #155](https://github.com/chirimen-oh/any-issues/issues/155)
+  * [youtube チャンネル](https://www.youtube.com/channel/UCd7PtdviaJeHfMMFeszx06A)
 
 ###  議論 issue
 * 発売記念収支報告
@@ -21,7 +23,7 @@
   * [radxaさんのイメージダウンロードリンク](http://wiki.radxa.com/Rock/prebuilt_images)
 * [ライセンスに関する検証  #148](https://github.com/chirimen-oh/any-issues/issues/148)
   * CHIRIMEN Open Hardware利用規約 第一版より
-    * [基本的に問題なしです
+    * [基本的に問題なし
     * http://www.oshwa.org/definition/japanese/
     * [oshwa へ申請](http://certificate.oshwa.org/get-certified/)
       * 担当：[@gurezo](https://github.com/gurezo)
@@ -30,6 +32,8 @@
   * ソフトウェアキーボードが課題
   * [marsf](https://github.com/marsf) さん [のソース(ソフトウェアキーボード非表示)を活用](https://github.com/marsf/Phantom-keyboard)
 * [Create CHIRIMEN cording style standard #138](https://github.com/chirimen-oh/any-issues/issues/138)
+  * js に関しては、mozilla の eslint を使用する
+  * 上記 eslint は、CHIRIMEN用カスタマイズ出来る様に空継承をしておく。
 * [専門学校東京テクニカルカレッジの授業協力 #136](https://github.com/chirimen-oh/any-issues/issues/136)
 * [GPIOの入力をキーボード（のキー）にバインドする機能 #130](https://github.com/chirimen-oh/any-issues/issues/130)
 * [Polyfill に関する情報について #125](https://github.com/chirimen-oh/any-issues/issues/125)
@@ -50,6 +54,7 @@
 * [B2G/rockdev/ is not for CMN2015-1 #112](https://github.com/chirimen-oh/any-issues/issues/112)
 * [電子情報通信学会の東京支部教育イベントの公募](https://github.com/chirimen-oh/any-issues/issues/153)
   * 締め切り 11/11に申し込み済み。
+  * ゲームパッド（ハードとソフト）をカリキュラム内容にする
 * [Proposal #150](https://github.com/chirimen-oh/any-issues/issues/150)
 * [CHIRIMENの販売に関してOPENで情報共有するチャンネルのリンク、誘導をホームページに置く #151](https://github.com/chirimen-oh/any-issues/issues/151)
   * 新しいチャンネルを作った場合に、どういう風に共有するか？
@@ -59,6 +64,7 @@
       * 告知期間：１週間
   * 定期チャンネル案内のGoogle Action Scriptをgithubで管理する
     * 自動連携（Google Action Scriptのソース管理をgithubで、連携する）
+* [Web I2C APIの仕様で定義されているAPIが足りない #156](https://github.com/chirimen-oh/any-issues/issues/156)
 
 ### CHIRIMEN の 主体のイベント活動 について
 * 現状保留
@@ -85,15 +91,21 @@
   * 17日：済-CHRIMEN Board 発売記念イベント
 * 10 月
 * 11 月
+  * 04日：[専門学校東京テクニカルカレッジの授業協力 #136](https://github.com/chirimen-oh/any-issues/issues/136)
   * 05日：[OSC Tokyo 2016 Fall 初日 展示のみ？](www.ospn.jp/osc2016-fall/)
   * 06日：[OSC Tokyo 2016 Fall 最終日 展示のみ？](www.ospn.jp/osc2016-fall/)
+  * 11日：[専門学校東京テクニカルカレッジの授業協力 #136](https://github.com/chirimen-oh/any-issues/issues/136)
   * 18日：[Open Research Forum 2016](http://orf.sfc.keio.ac.jp/2016/)
+  * 18日：[専門学校東京テクニカルカレッジの授業協力 #136](https://github.com/chirimen-oh/any-issues/issues/136)
   * 19日：[Open Research Forum 2016](http://orf.sfc.keio.ac.jp/2016/)
-  * xx日：B2G OS ビルドもくもく会
-  * xx日：各種センサー味見会
+  * 25日：[専門学校東京テクニカルカレッジの授業協力 #136](https://github.com/chirimen-oh/any-issues/issues/136)
 * 12 月
+  * 02日：[専門学校東京テクニカルカレッジの授業協力 #136](https://github.com/chirimen-oh/any-issues/issues/136)
   * 03日：[Ogaki Mini Maker Faire 2016](http://ommf.iamas.ac.jp/)
   * 04日：[Ogaki Mini Maker Faire 2016](http://ommf.iamas.ac.jp/)
+  * 09日：[専門学校東京テクニカルカレッジの授業協力 #136](https://github.com/chirimen-oh/any-issues/issues/136)
+  * xx日：B2G OS ビルドもくもく会
+  * xx日：各種センサー味見会
 
 ## 出展可能性のあるイベント候補
 * w/ fabcafe

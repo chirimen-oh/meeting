@@ -30,7 +30,7 @@
     * 次のリンクを読んでおく http://certificate.oshwa.org/
     * 別途オンラインMTGで、ライセンスに関する議論をする場を設ける。
     * [@kudodo](https://github.com/kudodo) さん交えて、議論
-      * [基本的に問題なしです
+      * [基本的に問題なし
       * [「同じライセンスの下で」という翻訳は、原文だと「同じ条件の下で」の方が意味として正しく、問題ないだろうという解釈
       * http://www.oshwa.org/definition/japanese/
     * [oshwa へ申請](http://certificate.oshwa.org/get-certified/)
@@ -57,12 +57,12 @@
   * ソフトウェアキーボードが課題
   * [marsf](https://github.com/marsf) さん [のソース(ソフトウェアキーボード非表示)を活用](https://github.com/marsf/Phantom-keyboard)
 * [Create CHIRIMEN cording style standard #138](https://github.com/chirimen-oh/any-issues/issues/138)
+  * js に関しては、mozilla の eslint を使用する
+  * 上記 eslint は、CHIRIMEN用カスタマイズ出来る様に空継承をしておく。
 * [専門学校東京テクニカルカレッジの授業協力 #136](https://github.com/chirimen-oh/any-issues/issues/136)
   * 開発中の受講システム環境が整ったら、協力者にトライアルのお願いをする。
 * [GPIOの入力をキーボード（のキー）にバインドする機能 #130](https://github.com/chirimen-oh/any-issues/issues/130)
 * [Polyfill に関する情報について #125](https://github.com/chirimen-oh/any-issues/issues/125)
-  * ディレクトリ構成（bower_componentsの見直し）
-  * url指定で、サイトを動くようにしたい。（index.htmlだけで動くようにしたい）
   * I2CとGPIOの両方をインクルードするとonChangeが2回発生しちゃう問題→まだ解消していない
   * 別々のワーカーでGPIOとI2Cをやる方向でISSUEを作る [@dadaa](https://github.com/dadaa)
     * https://github.com/club-wot/WebGPIO/issues/22
@@ -77,12 +77,10 @@
   * Macについては仮想環境で対応する
   * 仮想環境とは別に https://github.com/chirimen-oh/CHIRIMEN-tools/issues/1 を実施したので、別途マニュアルを作る。
     * mergeする（上記issueのPR）。
-* [Ubuntu環境でイメージ生成に失敗する #144](https://github.com/chirimen-oh/any-issues/issues/144)
-  * Ubuntu 14.04は推奨ビルド環境です。issueに記載の通り.shのバグです。
-    * [@dadaa](https://github.com/dadaa) さんが修正、PR済み
 * [B2G/rockdev/ is not for CMN2015-1 #112](https://github.com/chirimen-oh/any-issues/issues/112)
 * [電子情報通信学会の東京支部教育イベントの公募](https://github.com/chirimen-oh/any-issues/issues/153)
   * 締め切り 11/11に申し込み済み。
+  * ゲームパッド（ハードとソフト）をカリキュラム内容にする
 * [Proposal #150](https://github.com/chirimen-oh/any-issues/issues/150)
 * [CHIRIMENの販売に関してOPENで情報共有するチャンネルのリンク、誘導をホームページに置く #151](https://github.com/chirimen-oh/any-issues/issues/151)
   * 新しいチャンネルを作った場合に、どういう風に共有するか？
@@ -118,15 +116,21 @@
   * 17日：済-CHRIMEN Board 発売記念イベント
 * 10 月
 * 11 月
+  * 04日：[専門学校東京テクニカルカレッジの授業協力 #136](https://github.com/chirimen-oh/any-issues/issues/136)
   * 05日：[OSC Tokyo 2016 Fall 初日 展示のみ？](www.ospn.jp/osc2016-fall/)
   * 06日：[OSC Tokyo 2016 Fall 最終日 展示のみ？](www.ospn.jp/osc2016-fall/)
+  * 11日：[専門学校東京テクニカルカレッジの授業協力 #136](https://github.com/chirimen-oh/any-issues/issues/136)
   * 18日：[Open Research Forum 2016](http://orf.sfc.keio.ac.jp/2016/)
+  * 18日：[専門学校東京テクニカルカレッジの授業協力 #136](https://github.com/chirimen-oh/any-issues/issues/136)
   * 19日：[Open Research Forum 2016](http://orf.sfc.keio.ac.jp/2016/)
-  * xx日：B2G OS ビルドもくもく会
-  * xx日：各種センサー味見会
+  * 25日：[専門学校東京テクニカルカレッジの授業協力 #136](https://github.com/chirimen-oh/any-issues/issues/136)
 * 12 月
+  * 02日：[専門学校東京テクニカルカレッジの授業協力 #136](https://github.com/chirimen-oh/any-issues/issues/136)
   * 03日：[Ogaki Mini Maker Faire 2016](http://ommf.iamas.ac.jp/)
   * 04日：[Ogaki Mini Maker Faire 2016](http://ommf.iamas.ac.jp/)
+  * 09日：[専門学校東京テクニカルカレッジの授業協力 #136](https://github.com/chirimen-oh/any-issues/issues/136)
+  * xx日：B2G OS ビルドもくもく会
+  * xx日：各種センサー味見会
 
 ## 出展可能性のあるイベント候補
 * w/ fabcafe
