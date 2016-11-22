@@ -55,7 +55,6 @@
 * [電子情報通信学会の東京支部教育イベントの公募](https://github.com/chirimen-oh/any-issues/issues/153)
   * 締め切り 11/11に申し込み済み。
   * ゲームパッド（ハードとソフト）をカリキュラム内容にする
-* [Proposal #150](https://github.com/chirimen-oh/any-issues/issues/150)
 * [CHIRIMENの販売に関してOPENで情報共有するチャンネルのリンク、誘導をホームページに置く #151](https://github.com/chirimen-oh/any-issues/issues/151)
   * 新しいチャンネルを作った場合に、どういう風に共有するか？
     * 告知場所
@@ -65,6 +64,8 @@
   * 定期チャンネル案内のGoogle Action Scriptをgithubで管理する
     * 自動連携（Google Action Scriptのソース管理をgithubで、連携する）
 * [Web I2C APIの仕様で定義されているAPIが足りない #156](https://github.com/chirimen-oh/any-issues/issues/156)
+* [Proposal #150](https://github.com/chirimen-oh/any-issues/issues/150)
+* [Proposal for alliance #157](https://github.com/chirimen-oh/any-issues/issues/157)
 
 ### CHIRIMEN の 主体のイベント活動 について
 * 現状保留
