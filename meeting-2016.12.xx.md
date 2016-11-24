@@ -11,10 +11,9 @@
 * [Mac OSX用バイナリ #2](https://github.com/chirimen-oh/CHIRIMEN-tools/pull/2)
 * [Prepare a youtube channel for sharing CHIRIMEN demo #155](https://github.com/chirimen-oh/any-issues/issues/155)
   * [youtube チャンネル](https://www.youtube.com/channel/UCd7PtdviaJeHfMMFeszx06A)
+* [Proposal #150](https://github.com/chirimen-oh/any-issues/issues/150)
 
 ###  議論 issue
-* 発売記念収支報告
-  * 金銭情報管理は、現状保留
 * プロモーションムービ制作
   * 今年中につくるぞー
   * 専門学校の学生さんに聞いてみる
@@ -64,13 +63,13 @@
   * 定期チャンネル案内のGoogle Action Scriptをgithubで管理する
     * 自動連携（Google Action Scriptのソース管理をgithubで、連携する）
 * [Web I2C APIの仕様で定義されているAPIが足りない #156](https://github.com/chirimen-oh/any-issues/issues/156)
-* [Proposal #150](https://github.com/chirimen-oh/any-issues/issues/150)
 * [Proposal for alliance #157](https://github.com/chirimen-oh/any-issues/issues/157)
 
 ### CHIRIMEN の 主体のイベント活動 について
 * 現状保留
   * [ 企業を含む各種団体からの後援・賛同・貢献について #47  ](https://is.gd/y9GQVO)
   * [ イベントなどに対するプレス対応について #48  ](https://is.gd/03PdBo)
+  * 金銭情報管理
 
 ## コミュニティ・イベント活動のマイルストーン（暫定）
 * 04 月
