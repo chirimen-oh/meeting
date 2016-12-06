@@ -27,6 +27,7 @@
     * [oshwa へ申請](http://certificate.oshwa.org/get-certified/)
       * 担当：[@gurezo](https://github.com/gurezo)
 * [[12/3-4] Ogaki Mini Maker Faire 2016 #146](https://github.com/chirimen-oh/any-issues/issues/146)
+  * 振り返り
 * [セルフ開発環境の構築 #140](https://github.com/chirimen-oh/any-issues/issues/140)
   * ソフトウェアキーボードが課題
   * [marsf](https://github.com/marsf) さん [のソース(ソフトウェアキーボード非表示)を活用](https://github.com/marsf/Phantom-keyboard)
@@ -52,6 +53,7 @@
     * mergeする（上記issueのPR）。
 * [B2G/rockdev/ is not for CMN2015-1 #112](https://github.com/chirimen-oh/any-issues/issues/112)
 * [電子情報通信学会の東京支部教育イベントの公募](https://github.com/chirimen-oh/any-issues/issues/153)
+  * フィードバック共有  
   * 締め切り 11/11に申し込み済み。
   * ゲームパッド（ハードとソフト）をカリキュラム内容にする
 * [CHIRIMENの販売に関してOPENで情報共有するチャンネルのリンク、誘導をホームページに置く #151](https://github.com/chirimen-oh/any-issues/issues/151)
