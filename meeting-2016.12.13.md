@@ -120,4 +120,4 @@
 * [議論メモ 09/06](https://public.etherpad-mozilla.org/p/chirimen-20160906)
 * [議論メモ 10/11](https://public.etherpad-mozilla.org/p/chirimen-20161011)
 * [議論メモ 11/08](https://public.etherpad-mozilla.org/p/chirimen-20161108)
-* [議論メモ 12/xx](https://public.etherpad-mozilla.org/p/chirimen-201612xx)
+* [議論メモ 12/13](https://public.etherpad-mozilla.org/p/chirimen-20161213)
