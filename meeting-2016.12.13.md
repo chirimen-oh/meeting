@@ -66,6 +66,7 @@
     * 自動連携（Google Action Scriptのソース管理をgithubで、連携する）
 * [Web I2C APIの仕様で定義されているAPIが足りない #156](https://github.com/chirimen-oh/any-issues/issues/156)
 * [Proposal for alliance #157](https://github.com/chirimen-oh/any-issues/issues/157)
+* [CHIRIMENの次期量産販売について #160](https://github.com/chirimen-oh/any-issues/issues/160)
 
 ### CHIRIMEN の 主体のイベント活動 について
 * 現状保留
