@@ -81,7 +81,7 @@
 * [Proposal for alliance #157](https://github.com/chirimen-oh/any-issues/issues/157)
   * 早急な返信を求められている
     * 最新のB2Gに追従できるならコラボしてもいいと思う
-    * B2Gのときの対応( https://public.etherpad-mozilla.org/p/chirimen-To-B2G ) を読んでもらう
+    * B2G Communityのときの対応( https://public.etherpad-mozilla.org/p/chirimen-To-B2G ) を読んでもらう
     * Google翻訳を利用してもらう
     * IRCの利用を検討（？）
 * [CHIRIMENの次期量産販売について #160](https://github.com/chirimen-oh/any-issues/issues/160)
