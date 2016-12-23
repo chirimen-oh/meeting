@@ -146,7 +146,7 @@
   * 28日?：Echigo Rev.1 Touch & Try イベント
 * 2 月
   * 4日?：Echigo Rev.1 Touch & Try イベント
-* 2 月
+* 3 月
   * xx日：ハッカソン
 
 ## 出展可能性のあるイベント候補
