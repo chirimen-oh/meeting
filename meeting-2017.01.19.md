@@ -84,6 +84,8 @@
 * ステッカー発注
   * 2017.01.04 300部発注
 * [GitHubやSlackの国際化 #162](https://github.com/chirimen-oh/any-issues/issues/162)
+* [Web I2C API 品質改善版のコントリビュートについて #164](https://github.com/chirimen-oh/any-issues/issues/164)
+
 
 ### CHIRIMEN の 主体のイベント活動 について
 * 2017.02.04 [CHIRIMEN タッチ ＆ トライ イベント #161](https://github.com/chirimen-oh/any-issues/issues/161)
