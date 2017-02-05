@@ -1,22 +1,16 @@
-# アジェンダ
+# アジェンダ（作成中）
 
-## [前回議事録](meeting-2016.12.22.md)
+## [前回議事録](meeting-2017.01.19.md)
 
 ## ◆ CHIRIMEN の コミュニティ活動 について
 ### CHIRIMEN の github について
 #### 完了 issue
-* [[12/3-4] Ogaki Mini Maker Faire 2016 #146](https://github.com/chirimen-oh/any-issues/issues/146)
-* [ライセンスに関する検証  #148](https://github.com/chirimen-oh/any-issues/issues/148)
-  * [oshwa へ申請](http://certificate.oshwa.org/get-certified/)
-    * 2016.12.31 承認メール
-    * UID:JP000003 [certification-directory](http://certificate.oshwa.org/certification-directory/)
-* [専門学校東京テクニカルカレッジの授業協力 #136](https://github.com/chirimen-oh/any-issues/issues/136)
+* 2017.02.04 [CHIRIMEN タッチ ＆ トライ イベント #161](https://github.com/chirimen-oh/any-issues/issues/161)
+* ステッカー発注 => 2017.01.28 done
 
 ###  議論 issue
 * プロモーションムービ制作
-  * 今年中につくるぞー
-  * 専門学校の学生さんに聞いてみる
-  * インタビュー収録後は、連絡待ち 12/22時点
+  * インタビュー収録後は、連絡待ち 2016.12.22時点
   * その後、不明　[@dadaa](https://github.com/dadaa) さんに確認
 * [CHIRIIMENボードのOSについて #147](https://github.com/chirimen-oh/any-issues/issues/147)
   * 各自知見を得たものをこのissueに追記する。
@@ -46,15 +40,15 @@
     * https://github.com/mozilla-b2g/gaia/pull/31932/files
     * https://bugzilla.mozilla.org/show_bug.cgi?id=1034832
 * [ファームイメージを焼く手順書（mac版） #149](https://github.com/chirimen-oh/any-issues/issues/149)
-  * vm経由で焼く方がスマートでないか（macのバージョン毎に対応するのは非常に手間がかかるので）
   * VM経由で焼く方法を手順にまとめる
+    * [作成途中](https://github.com/chirimen-oh/chirimen-oh.github.io/issues/70)
   * VirtualBoxのイメージ [@gurezo](https://github.com/gurezo) さん
     * 配布可能状態、リンク公開可能です。
   * Vagrant → Issueにした方が良さそう
     * 手が開いてる人お願いします
   * Macについては仮想環境で対応する
   * 仮想環境とは別に https://github.com/chirimen-oh/CHIRIMEN-tools/issues/1 を実施したので、別途マニュアルを作る。
-    * mergeする（上記issueのPR）。
+    * mergeする（上記issueのPR） => 2016.11.19 done
 * [B2G/rockdev/ is not for CMN2015-1 #112](https://github.com/chirimen-oh/any-issues/issues/112)
 * [電子情報通信学会の東京支部教育イベントの公募](https://github.com/chirimen-oh/any-issues/issues/153)
   * フィードバック共有
@@ -64,52 +58,24 @@
     * [@naokisekiguchi](https://github.com/naokisekiguchi) さんがまとめて事務手続きします。
     * 8月頃開催予定
 * [CHIRIMENの販売に関してOPENで情報共有するチャンネルのリンク、誘導をホームページに置く #151](https://github.com/chirimen-oh/any-issues/issues/151)
-  * 新しいチャンネルを作った場合に、どういう風に共有するか？ => 下記の通り（済）
-    * 告知場所
-      * #general
-      * ピン留する
-      * 告知期間：１週間
   * 定期チャンネル案内のGoogle Action Scriptをgithubで管理する
     * 自動連携（Google Action Scriptのソース管理をgithubで、連携する）
 * [Web I2C APIの仕様で定義されているAPIが足りない #156](https://github.com/chirimen-oh/any-issues/issues/156)
 * [Proposal for alliance #157](https://github.com/chirimen-oh/any-issues/issues/157)
-  * 早急な返信を求められている
-    * 最新のB2Gに追従できるならコラボしてもいいと思う
-    * B2G Communityのときの対応( https://public.etherpad-mozilla.org/p/chirimen-To-B2G ) を読んでもらう
-    * Google翻訳を利用してもらう
-    * IRCの利用を検討（？）
-    * 2017.1.4 回答
+  * 2017.1.4 回答 反応なし
 * [CHIRIMENの次期量産販売について #160](https://github.com/chirimen-oh/any-issues/issues/160)
-  * 在庫ゼロ 1/9 時点
-  * 生産する上で、部品が見つからないものがある
-  * 生産する上で、ダメ出しリストが多数ある
-  * 次期生産にあたり、特に枚数作って欲しい
-  * ニーズについて
-    * 複数の企業や教育機関やプロジェクトからのニーズがある。
-  * 次期量産品の要望
-    * メスピンソケットをつけよう
-* ハッカソンについて
-  * 総務省後援でハッカソンをする予定がある
-  * タッチアンドトライと上手くリンクさせたい 2/4
-* ステッカー発注
-  * 2017.01.04 300部発注
-  * 2017.01.21 受取予定 [@gurezo](https://github.com/gurezo)
+* Web X IoT ハッカソン
+  * [サイト公開](https://browserobo.github.io/hackathon2017/)
 * [GitHubやSlackの国際化 #162](https://github.com/chirimen-oh/any-issues/issues/162)
   * issueのタイトルだけ英語で書くくらいから始めてみる
 * [Web I2C API 品質改善版の本線への反映について #164](https://github.com/chirimen-oh/any-issues/issues/164)
   * releaseに-betaとかつけてimageをアップする。
+    * [pre-release](https://github.com/chirimen-oh/release/releases) として配置。 2017.01.20 done
   * releaseレポジトリには、例えば差分のpatchを置いたbranchを作っておくなど、差がわかるようにしておく
   * [CMN2015-1_B2GOS-20170120](https://github.com/chirimen-oh/release/releases/tag/CMN2015-1_B2GOS-20170120)
 
 
 ### CHIRIMEN の 主体のイベント活動 について
-* 2017.02.04 [CHIRIMEN タッチ ＆ トライ イベント #161](https://github.com/chirimen-oh/any-issues/issues/161)
-  * [コンパス](https://chirimen-oh.connpass.com/event/47706/)
-  * レンタル機材をわかるようにするマーキングシールみたいなものが欲しい
-  * スクール内容をどうするか => fabbleが使えないので要検討。
-  * 事前準備
-    * 半田付け
-    * イメージ焼き
 * 現状保留
   * [ 企業を含む各種団体からの後援・賛同・貢献について #47  ](https://is.gd/y9GQVO)
   * [ イベントなどに対するプレス対応について #48  ](https://is.gd/03PdBo)
@@ -118,13 +84,13 @@
 ## コミュニティ・イベント活動のマイルストーン（暫定）
 ### 2017年
 * 1 月
-  * 28日：CHIRIMEN タッチ ＆ トライ イベント事前準備
-    * 半田付け
-    * イメージ焼き
+  * 28日：[CHIRIMEN タッチ ＆ トライ イベント](https://chirimen-oh.connpass.com/event/47706/)事前準備-済
 * 2 月
-  * 04日：[CHIRIMEN タッチ ＆ トライ イベント](https://chirimen-oh.connpass.com/event/47706/)
-  * ??日：CHIRIMEN 学生 イベント
+  * 04日：[CHIRIMEN タッチ ＆ トライ イベント](https://chirimen-oh.connpass.com/event/47706/)-済
 * 3月
+  * 02日：学生向け Web X IoT ハッカソン 事前イベント
+  * 03日：学生向け Web X IoT ハッカソン 事前イベント
+  * 11日：学生向け Web X IoT ハッカソン 事前イベント
   * 18日：ハッカソン
   * 19日：ハッカソン
 
