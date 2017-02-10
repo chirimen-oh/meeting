@@ -73,6 +73,7 @@
     * [pre-release](https://github.com/chirimen-oh/release/releases) として配置。 2017.01.20 done
   * releaseレポジトリには、例えば差分のpatchを置いたbranchを作っておくなど、差がわかるようにしておく
   * [CMN2015-1_B2GOS-20170120](https://github.com/chirimen-oh/release/releases/tag/CMN2015-1_B2GOS-20170120)
+* [WebGPIO/WebI2C Polyfillの chirimen-ohへのforkについて #165](https://github.com/chirimen-oh/any-issues/issues/165)
 
 
 ### CHIRIMEN の 主体のイベント活動 について
