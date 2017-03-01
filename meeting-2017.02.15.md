@@ -60,7 +60,7 @@
     * [@naobsd](https://github.com/naobsd)さんの黒背景ロゴ
     * アニメーションを黒背景
     * いくつかサイズ・フレームレートを試してみる
-　  * privacy_spriteは変更せず、ブラウザはロケットのままにする
+    * privacy_spriteは変更せず、ブラウザはロケットのままにする
 * [ファームイメージを焼く手順書（mac版） #149](https://github.com/chirimen-oh/any-issues/issues/149)
   * VM経由で焼く方法を手順にまとめる
     * [作成途中](https://github.com/chirimen-oh/chirimen-oh.github.io/issues/70)
