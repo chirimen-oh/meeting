@@ -50,7 +50,7 @@
   * examplesサイトへジャンプできるサイトを。参考：https://tadfmac.github.io/live-examples/
   * 継続中
 * [replace boot logo(Tux) and recovery background(Android robot) with CHIRIMEN logo #114](https://github.com/chirimen-oh/any-issues/issues/114)
-  * 手が開いてる人お願いします
+  * ~~手が開いてる人お願いします~~
   * 起動時のペンギンロゴを変える方法を調べればわかるかと
   * Fox Food パッチ情報
     * If you intent to change the boot logo of B2G, this bug/patch should help to understand how to do so:
@@ -103,7 +103,7 @@
   * ブートサニメーションの採択
     * [@kazygumi](https://github.com/kazygumi) さんに作成して頂いたデモを見て採択 => OK
   * 下記手順で 2/24までに終わらせる予定。ご協力よろしくおねがいします！
-    * https://github.com/chirimen-oh/any-issues/issues/167 => 2017.02.
+    * https://github.com/chirimen-oh/any-issues/issues/167 => 2017.03.01 releases!!
 * [WebGPIO/WebI2C Polyfillの chirimen-ohへのforkについて #165](https://github.com/chirimen-oh/any-issues/issues/165)
 　* [@MSakamaki](https://github.com/MSakamaki)さんのご意見を聞かないと => コメント頂いた。
 　* リリース版には対応したPolyfillを含める
