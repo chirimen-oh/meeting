@@ -1,7 +1,7 @@
 # ◆ アジェンダ
 
 ## 各種フィードバック
-- [前回議事録](meeting-2015.12.19.md)
+- [前回議事録](../2015/meeting-2015.12.19.md)
 - アウトプットの置き場所作る 済
   - GitHub の適切な場所
     - [MozOpenHard](https://github.com/MozOpenHard) の下に Begineers レポジトリ作る (あかつかさん)
