@@ -76,8 +76,8 @@
 * [GitHubやSlackの国際化 #162](https://github.com/chirimen-oh/any-issues/issues/162)
   * issueのタイトルだけ英語で書くくらいから始めてみる
 * [WebGPIO/WebI2C Polyfillの chirimen-ohへのforkについて #165](https://github.com/chirimen-oh/any-issues/issues/165)
-　* [@MSakamaki](https://github.com/MSakamaki)さんのご意見を聞かないと => コメント頂いた。
-　* リリース版には対応したPolyfillを含める
+  * [@MSakamaki](https://github.com/MSakamaki)さんのご意見を聞かないと => コメント頂いた。
+  * リリース版には対応したPolyfillを含める
 
 ### CHIRIMEN の 主体のイベント活動 について
 * 現状保留
