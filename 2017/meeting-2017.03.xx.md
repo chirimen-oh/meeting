@@ -6,6 +6,7 @@
 ### CHIRIMEN の github について
 #### 完了 issue
 * [replace boot logo(Tux) and recovery background(Android robot) with CHIRIMEN logo #114](https://github.com/chirimen-oh/any-issues/issues/114)
+* [B2G/rockdev/ is not for CMN2015-1 #112](https://github.com/chirimen-oh/any-issues/issues/112)
 * [Web I2C API 品質改善版の本線への反映について #164](https://github.com/chirimen-oh/any-issues/issues/164)
   * releaseに-betaとかつけてimageをアップする。
     * [pre-release](https://github.com/chirimen-oh/release/releases) として配置。 2017.01.20 done
@@ -55,8 +56,6 @@
   * Macについては仮想環境で対応する
   * 仮想環境とは別に https://github.com/chirimen-oh/CHIRIMEN-tools/issues/1 を実施したので、別途マニュアルを作る。
     * mergeする（上記issueのPR） => 2016.11.19 done
-* [B2G/rockdev/ is not for CMN2015-1 #112](https://github.com/chirimen-oh/any-issues/issues/112)
-  * [@naobsd](https://github.com/naobsd) さん、よろしくお願いします
 * [電子情報通信学会の東京支部教育イベントの公募](https://github.com/chirimen-oh/any-issues/issues/153)
   * フィードバック共有
   * 締め切り 11/11に申し込み済み。
