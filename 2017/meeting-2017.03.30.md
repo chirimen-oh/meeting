@@ -20,14 +20,10 @@
 * [3/1 release #167](https://github.com/chirimen-oh/any-issues/issues/167)
 
 ###  議論 issue
+* Web X IoT ハッカソン
+  * [サイト公開](https://browserobo.github.io/hackathon2017/)
 * [Information of Web x IoT Hackthon Events is Sharing #171](https://github.com/chirimen-oh/any-issues/issues/171)
-* プロモーションムービ制作
-  * インタビュー収録後は、連絡待ち 2016.12.22時点
-  * その後、不明　[@dadaa](https://github.com/dadaa) さんに確認
-    * HAKUTOさんの扱いは確認中（画像も見てもらっている）。
-    * 冒頭の"Mozilla"、(CHIRIMENに関係のない）緑の板が映りこんでいるなどは映像制作会社にコメント済み
-    * 冒頭に「このコミュニティは」とあったときにそれが何を差すの変わらないので１クッション欲しい。
-    * 出演者の性別・年齢層を幅広く出来たらいいな。
+* [CHIRIMENの次期量産販売について #160](https://github.com/chirimen-oh/any-issues/issues/160)
 * [Create CHIRIMEN cording style standard #138](https://github.com/chirimen-oh/any-issues/issues/138)
   * js に関しては、mozilla の eslint を使用する
   * 上記 eslint は、CHIRIMEN用カスタマイズ出来る様に空継承をしておく。
@@ -38,15 +34,24 @@
         * 単純なサンプルはPromiseで書く
         * 応用的な（複数センサーをつなぐ時など）内容の例としてtask.jsを使用した例を入れて、こんな例もあるよと紹介する。
         * 複数センサーを扱うような場合に課題があるという説明も加えて。
+* [WebGPIO/WebI2C Polyfillの chirimen-ohへのforkについて #165](https://github.com/chirimen-oh/any-issues/issues/165)
+  * [@MSakamaki](https://github.com/MSakamaki)さんのご意見を聞かないと => コメント頂いた。
+  * リリース版には対応したPolyfillを含める
+* [Web I2C APIの仕様で定義されているAPIが足りない #156](https://github.com/chirimen-oh/any-issues/issues/156)
+  * PRに解説の図を追記する[@MSakamaki](https://github.com/MSakamaki)
 * [Polyfill に関する情報について #125](https://github.com/chirimen-oh/any-issues/issues/125)
   * I2CとGPIOの両方をインクルードするとonChangeが2回発生しちゃう問題→まだ解消していない
   * 別々のワーカーでGPIOとI2Cをやる方向でISSUEを作る [@dadaa](https://github.com/dadaa)
     * https://github.com/club-wot/WebGPIO/issues/22
     * 上記issueで対応していく。（手元でちょっと試した限りは問題なかった [@naokisekiguchi](https://github.com/naokisekiguchi) さん談）
   * クローズの条件をIssueに追記する（[@naokisekiguchi](https://github.com/naokisekiguchi) さん）→追記しました。
-* [Hello Real Worldを作る #116](https://github.com/chirimen-oh/any-issues/issues/116)
-  * examplesサイトへジャンプできるサイトを。参考：https://tadfmac.github.io/live-examples/
-  * 継続中
+* プロモーションムービ制作
+  * インタビュー収録後は、連絡待ち 2016.12.22時点
+  * その後、不明　[@dadaa](https://github.com/dadaa) さんに確認
+    * HAKUTOさんの扱いは確認中（画像も見てもらっている）。
+    * 冒頭の"Mozilla"、(CHIRIMENに関係のない）緑の板が映りこんでいるなどは映像制作会社にコメント済み
+    * 冒頭に「このコミュニティは」とあったときにそれが何を差すの変わらないので１クッション欲しい。
+    * 出演者の性別・年齢層を幅広く出来たらいいな。
 * [ファームイメージを焼く手順書（mac版） #149](https://github.com/chirimen-oh/any-issues/issues/149)
   * VM経由で焼く方法を手順にまとめる
     * [作成途中](https://github.com/chirimen-oh/chirimen-oh.github.io/issues/70)
@@ -64,20 +69,12 @@
   * 調整中 => 採択された。
     * [@naokisekiguchi](https://github.com/naokisekiguchi) さんがまとめて事務手続きします。
     * 8月頃開催予定
-* [Web I2C APIの仕様で定義されているAPIが足りない #156](https://github.com/chirimen-oh/any-issues/issues/156)
-  * PRに解説の図を追記する[@MSakamaki](https://github.com/MSakamaki)
 * [Proposal for alliance #157](https://github.com/chirimen-oh/any-issues/issues/157)
   * 2017.1.4 回答 反応なし
   * 2017.2.16 close後、コメントあり
   * 2017.3.10 reopen
-* [CHIRIMENの次期量産販売について #160](https://github.com/chirimen-oh/any-issues/issues/160)
-* Web X IoT ハッカソン
-  * [サイト公開](https://browserobo.github.io/hackathon2017/)
 * [GitHubやSlackの国際化 #162](https://github.com/chirimen-oh/any-issues/issues/162)
   * issueのタイトルだけ英語で書くくらいから始めてみる
-* [WebGPIO/WebI2C Polyfillの chirimen-ohへのforkについて #165](https://github.com/chirimen-oh/any-issues/issues/165)
-  * [@MSakamaki](https://github.com/MSakamaki)さんのご意見を聞かないと => コメント頂いた。
-  * リリース版には対応したPolyfillを含める
 
 ### CHIRIMEN の 主体のイベント活動 について
 * 現状保留
@@ -102,6 +99,9 @@
 * [GPIOの入力をキーボード（のキー）にバインドする機能 #130](https://github.com/chirimen-oh/any-issues/issues/130)
   * 優先度低 & 継続
   * 現状保留
+* [Hello Real Worldを作る #116](https://github.com/chirimen-oh/any-issues/issues/116)
+  * examplesサイトへジャンプできるサイトを。参考：https://tadfmac.github.io/live-examples/
+  * 継続中
 
 ## コミュニティ・イベント活動のマイルストーン（暫定）
 ### 2017年
