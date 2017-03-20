@@ -20,6 +20,7 @@
 * [3/1 release #167](https://github.com/chirimen-oh/any-issues/issues/167)
 
 ###  議論 issue
+* [Information of Web x IoT Hackthon Events is Sharing #171](https://github.com/chirimen-oh/any-issues/issues/171)
 * プロモーションムービ制作
   * インタビュー収録後は、連絡待ち 2016.12.22時点
   * その後、不明　[@dadaa](https://github.com/dadaa) さんに確認
@@ -111,10 +112,10 @@
   * 18日：NTT ICCでのトークイベント-済
 * 3月
   * 02日：[学生向け Web X IoT ハッカソン 事前イベント](https://connpass.com/event/49593/)-済
-  * 03日：[学生向け Web X IoT ハッカソン 事前イベント](https://connpass.com/event/49593/)-ト-済
-  * 11日：[学生向け Web X IoT ハッカソン 事前イベント](https://connpass.com/event/49593/)-ト-済
-  * 18日：[Web X IoT ハッカソン](https://browserobo.github.io/hackathon2017/)
-  * 19日：[Web X IoT ハッカソン](https://browserobo.github.io/hackathon2017/)
+  * 03日：[学生向け Web X IoT ハッカソン 事前イベント](https://connpass.com/event/49593/)-済
+  * 11日：[学生向け Web X IoT ハッカソン 事前イベント](https://connpass.com/event/49593/)-済
+  * 18日：[Web X IoT ハッカソン](https://browserobo.github.io/hackathon2017/)-済
+  * 19日：[Web X IoT ハッカソン](https://browserobo.github.io/hackathon2017/)-済
 * 8月
   * 05日：Maker Faire Tokyo 2017(初日)
   * 06日：Maker Faire Tokyo 2017(最終日)
