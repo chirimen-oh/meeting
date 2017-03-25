@@ -54,12 +54,13 @@
     * 出演者の性別・年齢層を幅広く出来たらいいな。
 * [ファームイメージを焼く手順書（mac版） #149](https://github.com/chirimen-oh/any-issues/issues/149)
   * VM経由で焼く方法を手順にまとめる
-    * [作成途中](https://github.com/chirimen-oh/chirimen-oh.github.io/issues/70)
+    * [2017.03.25 merged.](https://github.com/chirimen-oh/chirimen-oh.github.io/issues/70)
   * VirtualBoxのイメージ [@gurezo](https://github.com/gurezo) さん
-    * 配布可能状態、リンク公開可能です。
+    * 2017.02.26以降、リンク公開可能中。Ubuntu 14.04
+    * 2017.03.12以降、リンク公開可能中。Ubuntu 16.04
+    * Macについては仮想環境で対応する=>済
   * Vagrant → Issueにした方が良さそう
     * 手が開いてる人お願いします
-  * Macについては仮想環境で対応する
   * 仮想環境とは別に https://github.com/chirimen-oh/CHIRIMEN-tools/issues/1 を実施したので、別途マニュアルを作る。
     * mergeする（上記issueのPR） => 2016.11.19 done
 * [電子情報通信学会の東京支部教育イベントの公募](https://github.com/chirimen-oh/any-issues/issues/153)
