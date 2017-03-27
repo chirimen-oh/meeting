@@ -56,8 +56,8 @@
   * VM経由で焼く方法を手順にまとめる
     * [2017.03.25 merged.](https://github.com/chirimen-oh/chirimen-oh.github.io/issues/70)
   * VirtualBoxのイメージ [@gurezo](https://github.com/gurezo) さん
-    * 2017.02.26以降、リンク公開可能中。Ubuntu 14.04
-    * 2017.03.12以降、リンク公開可能中。Ubuntu 16.04
+    * 2017.02.26以降、リンク公開可能中。[Ubuntu 14.04](https://drive.google.com/open?id=0B4V6iMhRJyKObjV3bmZDZVN4d1k)
+    * 2017.03.12以降、リンク公開可能中。[Ubuntu 16.04](https://drive.google.com/open?id=0Bw4DSuL6h4j_RzJJb1VMTU9TSnM)
     * Macについては仮想環境で対応する=>済
   * Vagrant → Issueにした方が良さそう
     * 手が開いてる人お願いします
