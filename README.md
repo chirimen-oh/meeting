@@ -9,4 +9,4 @@
 ### make use of
 1. A md file will be added every meeting.
 1. A md file is meeting-yyyy.mm.dd.md(ex:meeting-2016.07.02.md)
-1. a moment in 2016.07.02, don't need to fork/branch. direct change to master branch.
+1. A moment in 2016.07.02, don't need to fork/branch. direct change to master branch.
