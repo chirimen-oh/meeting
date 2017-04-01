@@ -1,12 +1,12 @@
 # meeting
 
-## CHIRIMENマンスリーミーティング用リポジトリです。
+## repository for CHIRIMEN Monthly meeting
 
-### 目的
-- github にも履歴を分かるようにする為
-- slack にも変更通知を連動させる為
+### purpose
+- To make sure that github will also understand the history.
+- Also to make change notice connected with slack.
 
-### 運用
-1. ミーティング開催毎にmdファイルを追加していきます。
-1. ファイル名フォーマットは、meeting-yyyy.mm.dd.md(ex:meeting-2016.07.02.md)
-1. 現時点（2016.07.02）では、特にfork/branchの必要性は、無いと考えている=>直接追加変更
+### make use of
+1. A md file will be added every meeting.
+1. A md file is meeting-yyyy.mm.dd.md(ex:meeting-2016.07.02.md)
+1. a moment in 2016.07.02, don't need to fork/branch. direct change to master branch.
