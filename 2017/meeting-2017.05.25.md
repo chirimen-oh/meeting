@@ -108,6 +108,7 @@
 - 8月
   - 05日：Maker Faire Tokyo 2017(初日)
   - 06日：Maker Faire Tokyo 2017(最終日)
+  - 19日：電子情報通信学会の東京支部教育イベント？
 
 ## その他
 - [議論メモ 01/19](https://public.etherpad-mozilla.org/p/chirimen-20170119)
