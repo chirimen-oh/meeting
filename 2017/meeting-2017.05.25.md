@@ -15,6 +15,7 @@
 - [Enrtry of Maker Faire Tokyo 2017 #184](https://github.com/chirimen-oh/any-issues/issues/184)
 - [Enrty of Android Bazaar and Conference 2017 Spring #185](https://github.com/chirimen-oh/any-issues/issues/185)
 - [Information of Web x IoT Hackthon Events is Sharing #171](https://github.com/chirimen-oh/any-issues/issues/171)
+- [電子情報通信学会の東京支部教育イベントの公募](https://github.com/chirimen-oh/any-issues/issues/153)
 - [CHIRIMENの次期量産販売について #160](https://github.com/chirimen-oh/any-issues/issues/160)
 - [Create CHIRIMEN cording style standard #138](https://github.com/chirimen-oh/any-issues/issues/138)
   - js に関しては、mozilla の eslint を使用する
@@ -35,8 +36,6 @@
 - [Polyfill に関する情報について #125](https://github.com/chirimen-oh/any-issues/issues/125)
   - chirimenクイックスタートのリンクを修正して、close
 - プロモーションムービ制作
-  - 進捗なし
-- [電子情報通信学会の東京支部教育イベントの公募](https://github.com/chirimen-oh/any-issues/issues/153)
   - 進捗なし
 - [Proposal for alliance #157](https://github.com/chirimen-oh/any-issues/issues/157)
   - 進捗なし
