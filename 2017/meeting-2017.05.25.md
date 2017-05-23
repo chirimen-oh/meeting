@@ -106,8 +106,8 @@
   - 08日：IEEE Tokyo Young Professionals hackathon(初日)
   - 09日：IEEE Tokyo Young Professionals hackathon(最終日)
 - 8月
-  - 05日：Maker Faire Tokyo 2017(初日)
-  - 06日：Maker Faire Tokyo 2017(最終日)
+  - 05日：[Maker Faire Tokyo 2017(初日)](http://makezine.jp/event/mft2017/)
+  - 06日：[Maker Faire Tokyo 2017(最終日)](http://makezine.jp/event/mft2017/)
   - 19日：電子情報通信学会の東京支部教育イベント？
 
 ## その他
