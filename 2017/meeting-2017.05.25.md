@@ -45,17 +45,17 @@
 - [security enhancement of Web GPIO API / Web I2C API #177](https://github.com/chirimen-oh/any-issues/issues/178)
 - [ADCの例をexamplesにあげる。そして提供する部品と作例を一致させる (次のハッカソンに向けて) #174](https://github.com/chirimen-oh/any-issues/issues/174)
 - [Arrangement of a document doesn't catch up. #173](https://github.com/chirimen-oh/any-issues/issues/173)
-- 起こったこと：
-  1. fabbleの記事が古くて、古いPolyfillを入れちゃう問題が発生
-  2. examplesが過去の全ての作例に対応できてなくて、古い MozOpenHardリポジトリの作例を引用する場面が
-  3. もともとfabbleに集約していたものが、fabbleの障害によりQiitaやgistなどにドキュメントが発散したけど  
-     fabble側がその後復旧、しかし情報が複数の場所にコピーされた結果、もともとのfabble側の更新が追いつかない事態に。
-  4. `bower install` で入るPolyfillが新しくなれば解決する部分はあるけど、そもそもドキュメントの  
-     メンテナンスどうやっていくか? という問題にも波及する話。
-- 提案
-　- 直近の作業は下記の通り
-　- fabbleで重複記事をQiitaやgistに移したものは消す (重複をなくす意味で)
-  - MozOpenHard側のexamplesもChirimen-Ohに移して消す
+  - 起こったこと：
+    1. fabbleの記事が古くて、古いPolyfillを入れちゃう問題が発生
+    2. examplesが過去の全ての作例に対応できてなくて、古い MozOpenHardリポジトリの作例を引用する場面が
+    3. もともとfabbleに集約していたものが、fabbleの障害によりQiitaやgistなどにドキュメントが発散したけど  
+       fabble側がその後復旧、しかし情報が複数の場所にコピーされた結果、もともとのfabble側の更新が追いつかない事態に。
+    4. `bower install` で入るPolyfillが新しくなれば解決する部分はあるけど、そもそもドキュメントの  
+       メンテナンスどうやっていくか? という問題にも波及する話。
+  - 提案
+  　- 直近の作業は下記の通り
+  　- fabbleで重複記事をQiitaやgistに移したものは消す (重複をなくす意味で)
+    - MozOpenHard側のexamplesもChirimen-Ohに移して消す
 
 ### CHIRIMEN の 主体のイベント活動 について
 - 現状保留
