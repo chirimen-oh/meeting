@@ -12,6 +12,7 @@
 - [internationalization #162](https://github.com/chirimen-oh/any-issues/issues/162)
 
 ###  議論 issue
+- プロモーションムービー第三エディット
 - [Enrtry of Maker Faire Tokyo 2017 #184](https://github.com/chirimen-oh/any-issues/issues/184)
 - [Enrty of Android Bazaar and Conference 2017 Spring #185](https://github.com/chirimen-oh/any-issues/issues/185)
 - [Information of Web x IoT Hackthon Events is Sharing #171](https://github.com/chirimen-oh/any-issues/issues/171)
