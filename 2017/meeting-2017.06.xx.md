@@ -1,20 +1,15 @@
-# アジェンダ
+# アジェンダ(実施前)
 
-## [前回議事録](meeting-2017.03.30.md)
+## [前回議事録](meeting-2017.05.25.md)
 
 ## ◆ CHIRIMEN の コミュニティ活動 について
 ### CHIRIMEN の github について
 #### 完了 issue
-- [meeting repository README translation to english #183](https://github.com/chirimen-oh/any-issues/issues/183)
-- [Prepare a template for any-issues #179](https://github.com/chirimen-oh/any-issues/issues/179)
-- [Set Team Icon for Slack #169](https://github.com/chirimen-oh/any-issues/issues/169)
-- [firmware flashing guide for Mac OS X/macOS #149](https://github.com/chirimen-oh/any-issues/issues/149)
-- [internationalization #162](https://github.com/chirimen-oh/any-issues/issues/162)
+- [Enrty of Android Bazaar and Conference 2017 Spring #185](https://github.com/chirimen-oh/any-issues/issues/185)
 
 ###  議論 issue
-- プロモーションムービー第三エディット
+- [IEEE Tokyo Young Professionals hackathon (7/8-9) #187](https://github.com/chirimen-oh/any-issues/issues/187)
 - [Enrtry of Maker Faire Tokyo 2017 #184](https://github.com/chirimen-oh/any-issues/issues/184)
-- [Enrty of Android Bazaar and Conference 2017 Spring #185](https://github.com/chirimen-oh/any-issues/issues/185)
 - [Information of Web x IoT Hackthon Events is Sharing #171](https://github.com/chirimen-oh/any-issues/issues/171)
 - [電子情報通信学会の東京支部教育イベントの公募](https://github.com/chirimen-oh/any-issues/issues/153)
 - [CHIRIMENの次期量産販売について #160](https://github.com/chirimen-oh/any-issues/issues/160)
@@ -28,7 +23,7 @@
         - 単純なサンプルはPromiseで書く
         - 応用的な（複数センサーをつなぐ時など）内容の例としてtask.jsを使用した例を入れて、こんな例もあるよと紹介する。
         - 複数センサーを扱うような場合に課題があるという説明も加えて。
-    - 適用範囲→examples, polyfill        
+    - 適用範囲→examples, polyfill
 - [WebGPIO/WebI2C Polyfillの chirimen-ohへのforkについて #165](https://github.com/chirimen-oh/any-issues/issues/165)
   - fork done at 30 March.
   - ドキュメントやexamples等のリンク修正が残
@@ -38,20 +33,17 @@
   - chirimenクイックスタートのリンクを修正して、close
 - プロモーションムービ制作
   - 進捗なし
-- [Proposal for alliance #157](https://github.com/chirimen-oh/any-issues/issues/157)
-  - 進捗なし
-- [firmware flashing guide for Mac OS X/macOS Using CHIRIMEN-tools(rkflashtool, rkunpack) #182](https://github.com/chirimen-oh/any-issues/issues/182)
-- [firmware flashing guide for Mac OS X/macOS Using Vagrant #181](https://github.com/chirimen-oh/any-issues/issues/181)
 - [720Pなど、他の解像度への対応 #178](https://github.com/chirimen-oh/any-issues/issues/178)
+  - chirimen-oh/linux-rockchip@f7c32cb frame bufferを1280x720にしました [@naobsd](https://github.com/naobsd)さん
 - [security enhancement of Web GPIO API / Web I2C API #177](https://github.com/chirimen-oh/any-issues/issues/178)
 - [ADCの例をexamplesにあげる。そして提供する部品と作例を一致させる (次のハッカソンに向けて) #174](https://github.com/chirimen-oh/any-issues/issues/174)
 - [Arrangement of a document doesn't catch up. #173](https://github.com/chirimen-oh/any-issues/issues/173)
   - 起こったこと：
     1. fabbleの記事が古くて、古いPolyfillを入れちゃう問題が発生
     2. examplesが過去の全ての作例に対応できてなくて、古い MozOpenHardリポジトリの作例を引用する場面が
-    3. もともとfabbleに集約していたものが、fabbleの障害によりQiitaやgistなどにドキュメントが発散したけど  
+    3. もともとfabbleに集約していたものが、fabbleの障害によりQiitaやgistなどにドキュメントが発散したけど
        fabble側がその後復旧、しかし情報が複数の場所にコピーされた結果、もともとのfabble側の更新が追いつかない事態に。
-    4. `bower install` で入るPolyfillが新しくなれば解決する部分はあるけど、そもそもドキュメントの  
+    4. `bower install` で入るPolyfillが新しくなれば解決する部分はあるけど、そもそもドキュメントの
        メンテナンスどうやっていくか? という問題にも波及する話。
   - 提案
   　- 直近の作業は下記の通り
@@ -84,6 +76,10 @@
 - [Hello Real Worldを作る #116](https://github.com/chirimen-oh/any-issues/issues/116)
   - examplesサイトへジャンプできるサイトを。参考：https://tadfmac.github.io/live-examples/
   - 継続中
+- [Proposal for alliance #157](https://github.com/chirimen-oh/any-issues/issues/157)
+  - 進捗なし
+- [firmware flashing guide for Mac OS X/macOS Using CHIRIMEN-tools(rkflashtool, rkunpack) #182](https://github.com/chirimen-oh/any-issues/issues/182)
+- [firmware flashing guide for Mac OS X/macOS Using Vagrant #181](https://github.com/chirimen-oh/any-issues/issues/181)
 
 ## コミュニティ・イベント活動のマイルストーン（暫定）
 ### 2017年
@@ -99,10 +95,10 @@
   - 18日：[Web X IoT ハッカソン](https://browserobo.github.io/hackathon2017/)-済
   - 19日：[Web X IoT ハッカソン](https://browserobo.github.io/hackathon2017/)-済
 - 5月
-  - 15日：[CHIRIMENタッチアンドトライ＠大阪](https://connpass.com/event/56668/)
-  - 28日：[Android Bazaar and Conference 2017 Spring](http://abc.android-group.jp/2017s/)
+  - 15日：[CHIRIMENタッチアンドトライ＠大阪](https://connpass.com/event/56668/)-済
+  - 28日：[Android Bazaar and Conference 2017 Spring](http://abc.android-group.jp/2017s/)-済
 - 6月
-  - 03日：IEEE スタッフ対象事前講習
+  - 03日：IEEE スタッフ対象事前講習-済
 - 7月
   - 08日：IEEE Tokyo Young Professionals hackathon(初日)
   - 09日：IEEE Tokyo Young Professionals hackathon(最終日)
@@ -110,6 +106,8 @@
   - 05日：[Maker Faire Tokyo 2017(初日)](http://makezine.jp/event/mft2017/)
   - 06日：[Maker Faire Tokyo 2017(最終日)](http://makezine.jp/event/mft2017/)
   - 19日：電子情報通信学会の東京支部教育イベント？
+- 10月
+  - 14日：[Android Bazaar and Conference 2017 in KAWASAKI](http://abc.android-group.jp/2017a/)
 
 ## その他
 - [議論メモ 01/19](https://public.etherpad-mozilla.org/p/chirimen-20170119)
