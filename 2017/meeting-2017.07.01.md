@@ -107,7 +107,7 @@
   - 06日：[Maker Faire Tokyo 2017(最終日)](http://makezine.jp/event/mft2017/)
   - 19日：電子情報通信学会の東京支部教育イベント？
 - 10月
-  - 14日：[Android Bazaar and Conference 2017 in KAWASAKI](http://abc.android-group.jp/2017a/)
+  - 14日：[Android Bazaar and Conference 2017 in KAWASAKI](http://abc.android-group.jp/2017a/) ?
 
 ## その他
 - [議論メモ 01/19](https://public.etherpad-mozilla.org/p/chirimen-20170119)
