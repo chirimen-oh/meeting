@@ -101,8 +101,8 @@
 - 6月
   - 03日：IEEE スタッフ対象事前講習-済
 - 7月
-  - 08日：IEEE Tokyo Young Professionals hackathon(初日)
-  - 09日：IEEE Tokyo Young Professionals hackathon(最終日)
+  - 08日：[IEEE Tokyo Young Professionals hackathon](http://sites.ieee.org/sb-keio/ieee-hackathons-2017/)(初日)
+  - 09日：[IEEE Tokyo Young Professionals hackathon](http://sites.ieee.org/sb-keio/ieee-hackathons-2017/)(最終日)
 - 8月
   - 05日：[Maker Faire Tokyo 2017(初日)](http://makezine.jp/event/mft2017/)
   - 06日：[Maker Faire Tokyo 2017(最終日)](http://makezine.jp/event/mft2017/)
