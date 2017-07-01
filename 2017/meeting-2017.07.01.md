@@ -115,3 +115,4 @@
 - [議論メモ 02/15](https://public.etherpad-mozilla.org/p/chirimen-20170215)
 - [議論メモ 03/30](https://public.etherpad-mozilla.org/p/chirimen-20170330)
 - [議論メモ 04/26](https://public.etherpad-mozilla.org/p/chirimen-20170426)
+- [議論メモ 05/25](https://public.etherpad-mozilla.org/p/chirimen-20170525)
