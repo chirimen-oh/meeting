@@ -12,6 +12,7 @@
 - [Enrtry of Maker Faire Tokyo 2017 #184](https://github.com/chirimen-oh/any-issues/issues/184)
 - [Information of Web x IoT Hackthon Events is Sharing #171](https://github.com/chirimen-oh/any-issues/issues/171)
 - [電子情報通信学会の東京支部教育イベントの公募](https://github.com/chirimen-oh/any-issues/issues/153)
+- [CHIRIMEN Open Hardware Terms of Use For License #190](https://github.com/chirimen-oh/any-issues/issues/190)
 - [CHIRIMENの次期量産販売について #160](https://github.com/chirimen-oh/any-issues/issues/160)
 - [Create CHIRIMEN cording style standard #138](https://github.com/chirimen-oh/any-issues/issues/138)
   - js に関しては、mozilla の eslint を使用する
