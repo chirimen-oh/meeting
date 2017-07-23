@@ -81,13 +81,13 @@
 - 概要：https://www.youtube.com/watch?v=XJDAmRs5Mbk&feature=youtu.be
 - 電源：CHIRIMEN用、ディスプレイ用
 - 構成：CHIRIMEN、21インチディスプレイ、Fourbeat
-- 必要スペース：60cm x 60cmくらい
+- 必要スペース：600mm x 600mmくらい
 
 ### 展示物4　chirimen on ラズパイ
 - 概要：ラズパイ上でも同じwebアプリでハードをいじってみる
 - 電源：
 - 構成：
-- 必要スペース：50 x 60mmくらい？
+- 必要スペース：500mm x 600mmくらい？
 
 ### ワークショップ
 - [x] 内容
