@@ -77,7 +77,7 @@
 - 構成：
 - 必要スペース：500mm x 300mm
 
-- ### 展示物3　連打ゲーム
+### 展示物3　連打ゲーム
 - 概要：https://www.youtube.com/watch?v=XJDAmRs5Mbk&feature=youtu.be
 - 電源：CHIRIMEN用、ディスプレイ用
 - 構成：CHIRIMEN、21インチディスプレイ、Fourbeat
@@ -88,6 +88,12 @@
 - 電源：
 - 構成：
 - 必要スペース：500mm x 600mmくらい？
+
+### 展示物4　TBD
+- 概要：レポート等
+- 電源：
+- 構成：
+- 必要スペース：600mm x 600mm 以内
 
 ### ワークショップ
 - [x] 内容
