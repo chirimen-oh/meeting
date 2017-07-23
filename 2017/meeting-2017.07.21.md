@@ -10,13 +10,13 @@
   - [ ] イベントスタッフ募集の調整さん @gurezo
     - [Maker Faire Tokyo 2017 イベントフタッフ募集](https://chouseisan.com/s?h=c03d7aea804443fba59ed8b04f279007)
   - [ ]  8/5
-    - [x]  @gurezo
-    - [x]  @kazy
-    - [ ]  @naokisekiguchi
+    - [x] @gurezo
+    - [x] @kazy
+    - [ ] @naokisekiguchi
   - [ ]  8/6
-    - [x]  gurezo
-    - [x]  kazy
-    - [ ]  @naokisekiguchi
+    - [x] gurezo
+    - [x] kazy
+    - [ ] @naokisekiguchi
 - [ ] 展示物
   - [ ] CheenRimen（ABC2017展示物）
     - OMMF2016のサンタの方が良ければそっちもアプリ入ってます。(その場合Web Audioで音も出るのでスピーカーが必要)
@@ -48,44 +48,46 @@
 
 ## 展示品の概要（必要なスペース、電源等）
 ### チラシスペース
-  概要：チラシ、ステッカー、その他資料
-  電源：無し
-  構成：
-  必要スペース：300mm x 300mm
+- 概要：チラシ、ステッカー、その他資料
+- 電源：無し
+- 構成：
+- 必要スペース：300mm x 300mm
 
 ### 展示物　ケースの展示
-  概要：Open Source Hardware 展示
-  電源：無し
-  構成：Canzasi, kimono を展示
-    Canzasi要る? 持ってる? (追加で必要であれば教えてください Canzasi:protだけ? Canzasi:wrtrも?)
+- 概要：Open Source Hardware 展示
+- 電源：無し
+- 構成：Canzasi, kimono を展示<br>
+    Canzasi要る? 持ってる? <br>
+    (追加で必要であれば教えてください Canzasi:protだけ? Canzasi:wrtrも?)<br>
     あとユニバーサル基板が大量に余ってる.... もし要るのであればMFTの荷物に詰めときます。
-  必要スペース：300mm x 300mm
+- 必要スペース：300mm x 300mm
 
 ### 展示物1　CheenRimen
-  サーバ繋がらなかったら事前に治しときたいので教えてください (自分の展示用にいろいろイジってるので)
+- 概要：
+- 電源：
+- 構成：
+- 必要スペース：500mm x 600mm
+- その他：サーバ繋がらなかったら事前に治しときたいので教えてください<br>
+  (自分の展示用にいろいろイジってるので)<br>
   ※当日言われても対応できないと思うので
-  概要：
-  電源：
-  構成：
-  必要スペース：500mm x 600mm
 
 ### 展示物2　pikox2
-  概要：
-  電源：
-  構成：
-  必要スペース：500mm x 300mm
+- 概要：
+- 電源：
+- 構成：
+- 必要スペース：500mm x 300mm
 
-  ### 展示物3　連打ゲーム
-  概要：https://www.youtube.com/watch?v=XJDAmRs5Mbk&feature=youtu.be
-  電源：CHIRIMEN用、ディスプレイ用
-  構成：CHIRIMEN、21インチディスプレイ、Fourbeat
-  必要スペース：60cm x 60cmくらい
+- ### 展示物3　連打ゲーム
+- 概要：https://www.youtube.com/watch?v=XJDAmRs5Mbk&feature=youtu.be
+- 電源：CHIRIMEN用、ディスプレイ用
+- 構成：CHIRIMEN、21インチディスプレイ、Fourbeat
+- 必要スペース：60cm x 60cmくらい
 
 ### 展示物4　chirimen on ラズパイ
-  概要：ラズパイ上でも同じwebアプリでハードをいじってみる
-  電源：
-  構成：
-  必要スペース：50 x 60mmくらい？
+- 概要：ラズパイ上でも同じwebアプリでハードをいじってみる
+- 電源：
+- 構成：
+- 必要スペース：50 x 60mmくらい？
 
 ### ワークショップ
 - [x] 内容
