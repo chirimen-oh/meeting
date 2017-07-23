@@ -9,6 +9,10 @@
 - [ ] スタッフ
   - [ ] イベントスタッフ募集の調整さん @gurezo
     - [Maker Faire Tokyo 2017 イベントフタッフ募集](https://chouseisan.com/s?h=c03d7aea804443fba59ed8b04f279007)
+    - 出展者タグ枚数：5枚
+    - 展示者から優先して渡します
+      - 現時点では、 @gurezo 、 @kazy です
+      - 残３枚は、上記調整さんのスタッフに割り振りたいと考えています。
   - [ ]  8/5
     - [x] @gurezo
     - [x] @kazy
