@@ -159,12 +159,14 @@
   - 08日：[IEEE Tokyo Young Professionals hackathon](http://sites.ieee.org/sb-keio/ieee-hackathons-2017/)(初日)
   - 09日：[IEEE Tokyo Young Professionals hackathon](http://sites.ieee.org/sb-keio/ieee-hackathons-2017/)(最終日)
   - 29日：[International NodeBots Day 2017 in Tokyo](https://nodebots.connpass.com/event/61190/) ?
+    - ボードレンタル希望？
 - 8月
   - 05日：[Maker Faire Tokyo 2017(初日)](http://makezine.jp/event/mft2017/)
   - 06日：[Maker Faire Tokyo 2017(最終日)](http://makezine.jp/event/mft2017/)
   - 19日：電子情報通信学会の東京支部教育イベント？
 - 10月
   - 14日：[Android Bazaar and Conference 2017 in KAWASAKI](http://abc.android-group.jp/2017a/) ?
+  - 24日：TBD ボードレンタル希望
 
 ## その他
 - [議論メモ 01/19](https://public.etherpad-mozilla.org/p/chirimen-20170119)
