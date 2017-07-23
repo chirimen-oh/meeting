@@ -8,6 +8,7 @@
 - [x] テーブルクロス
 - [ ] スタッフ
   - [ ] イベントスタッフ募集の調整さん @gurezo
+    - [Maker Faire Tokyo 2017 イベントフタッフ募集](https://chouseisan.com/s?h=c03d7aea804443fba59ed8b04f279007)
   - [ ]  8/5
     - [x]  @gurezo
     - [x]  @kazy
