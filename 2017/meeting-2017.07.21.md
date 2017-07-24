@@ -61,10 +61,7 @@
 ### 展示物　ケースの展示
 - 概要：Open Source Hardware 展示
 - 電源：無し
-- 構成：Canzasi, kimono を展示<br>
-    Canzasi要る? 持ってる? <br>
-    (追加で必要であれば教えてください Canzasi:protだけ? Canzasi:wrtrも?)<br>
-    あとユニバーサル基板が大量に余ってる.... もし要るのであればMFTの荷物に詰めときます。
+- 構成：kimono を展示
 - 必要スペース：300mm x 300mm
 
 ### 展示物　CheenRimen
