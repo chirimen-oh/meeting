@@ -11,16 +11,20 @@
     - [Maker Faire Tokyo 2017 イベントフタッフ募集](https://chouseisan.com/s?h=c03d7aea804443fba59ed8b04f279007)
     - 出展者タグ枚数：5枚
     - 展示者から優先して渡します
-      - 現時点では、 @gurezo 、 @kazy です
-      - 残３枚は、上記調整さんのスタッフに割り振りたいと考えています。
+      - 現時点では、 @gurezo 、 @kazy 、 @sizuhiko 、  @WhiteHawk-taka です
+      - **出展者タグ残１枚です！早い者勝ちになります！！！**
   - [ ]  8/5
     - [x] @gurezo
     - [x] @kazy
-    - [ ] @naokisekiguchi
+    - [x] @sizuhiko
+    - [x] @WhiteHawk-taka
+    - [ ] @naokisekiguchi （タグは別途確保予定）
   - [ ]  8/6
     - [x] gurezo
     - [x] kazy
-    - [ ] @naokisekiguchi
+    - [x] @sizuhiko
+    - [x] @WhiteHawk-taka
+    - [ ] @naokisekiguchi （タグは別途確保予定）
 - [ ] 展示物
   - [ ] CheenRimen（ABC2017展示物）
     - OMMF2016のサンタの方が良ければそっちもアプリ入ってます。<br>(その場合Web Audioで音も出るのでスピーカーが必要)
