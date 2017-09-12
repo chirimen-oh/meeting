@@ -7,7 +7,7 @@
 ###  議論 ソフトウェアパート
 #### 関連 issue
 - [Proposal for alliance #157](https://github.com/chirimen-oh/any-issues/issues/157)
- - B2G OSをこのまま使うのか？
+ - [WebIDE cann't able to use #192](https://github.com/chirimen-oh/any-issues/issues/192)
  - [A “Boot2Web” standard architecture?](https://discourse.mozilla.org/t/a-boot2web-standard-architecture/11810/3)
    - [webapps or chrome for apps that need to use device APIs?](https://github.com/asppsa/boot2web-design/issues/1)
 - [replacement for CMN2015-1 OS #147](https://github.com/chirimen-oh/any-issues/issues/147 )
