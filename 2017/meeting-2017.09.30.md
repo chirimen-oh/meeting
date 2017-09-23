@@ -26,6 +26,7 @@
 
 ### 議論 ハードウェアパート 16:00~18:00
 #### 関連 issue
+- [When think about a new designed single board computer #193](https://github.com/chirimen-oh/any-issues/issues/193)
 - [CHIRIMENの次期量産販売について #160](https://github.com/chirimen-oh/any-issues/issues/160)
   - [FAQ上、矛盾？に見える箇所を整理したい](https://chirimen.org/docs/ja/FAQ.html)
   - ボードの新規設計について
