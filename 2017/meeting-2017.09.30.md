@@ -1,10 +1,17 @@
 # アジェンダ(実施前)
 
+## タイムスケジュール
+|時間|内容|備考|
+|:----:|:----:|:----|
+|13:30~15:30|議論 |ソフトウェアパート||
+|15:30~16:00|休憩 ||
+|16:00~18:00|議論 |ハードウェアパート・その他||
+
 ## [前回議事録](meeting-2017.07.01.md)
 
 ## ◆ CHIRIMEN の コミュニティ活動 について
 
-###  議論 ソフトウェアパート
+### 議論 ソフトウェアパート 13:30~15:30
 #### 関連 issue
 - [Proposal for alliance #157](https://github.com/chirimen-oh/any-issues/issues/157)
  - [WebIDE cann't able to use #192](https://github.com/chirimen-oh/any-issues/issues/192)
@@ -15,7 +22,9 @@
 - [Implement WebI2C polyfill for node backend #189](https://github.com/chirimen-oh/any-issues/issues/189)
 - [Web I2C APIの仕様で定義されているAPIが足りない #156](https://github.com/chirimen-oh/any-issues/issues/156)
 
-###  議論 ハードウェアパート
+###  休憩 15:30~16:00
+
+### 議論 ハードウェアパート 16:00~18:00
 #### 関連 issue
 - [CHIRIMENの次期量産販売について #160](https://github.com/chirimen-oh/any-issues/issues/160)
   - [FAQ上、矛盾？に見える箇所を整理したい](https://chirimen.org/docs/ja/FAQ.html)
