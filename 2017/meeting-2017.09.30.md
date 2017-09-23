@@ -13,22 +13,21 @@
 
 ### 議論 ソフトウェアパート 13:30~15:30
 #### 関連 issue
-- [Proposal for alliance #157](https://github.com/chirimen-oh/any-issues/issues/157)
- - [WebIDE cann't able to use #192](https://github.com/chirimen-oh/any-issues/issues/192)
- - [A “Boot2Web” standard architecture?](https://discourse.mozilla.org/t/a-boot2web-standard-architecture/11810/3)
-   - [webapps or chrome for apps that need to use device APIs?](https://github.com/asppsa/boot2web-design/issues/1)
+- [WebIDE cann't able to use #192](https://github.com/chirimen-oh/any-issues/issues/192)
+  - [Proposal for alliance #157](https://github.com/chirimen-oh/any-issues/issues/157)
+  - [A “Boot2Web” standard architecture?](https://discourse.mozilla.org/t/a-boot2web-standard-architecture/11810/3)
 - [replacement for CMN2015-1 OS #147](https://github.com/chirimen-oh/any-issues/issues/147 )
 - [Implement WebGPIO polyfill for node backend #188](https://github.com/chirimen-oh/any-issues/issues/188)
 - [Implement WebI2C polyfill for node backend #189](https://github.com/chirimen-oh/any-issues/issues/189)
-- [Web I2C APIの仕様で定義されているAPIが足りない #156](https://github.com/chirimen-oh/any-issues/issues/156)
+  - [Web I2C APIの仕様で定義されているAPIが足りない #156](https://github.com/chirimen-oh/any-issues/issues/156)
 
 ###  休憩 15:30~16:00
 
 ### 議論 ハードウェアパート 16:00~18:00
 #### 関連 issue
-- [When think about a new designed single board computer #193](https://github.com/chirimen-oh/any-issues/issues/193)
 - [CHIRIMENの次期量産販売について #160](https://github.com/chirimen-oh/any-issues/issues/160)
   - [FAQ上、矛盾？に見える箇所を整理したい](https://chirimen.org/docs/ja/FAQ.html)
+- [When think about a new designed single board computer #193](https://github.com/chirimen-oh/any-issues/issues/193)
 
 ###  議論 その他
 #### 関連 issue
