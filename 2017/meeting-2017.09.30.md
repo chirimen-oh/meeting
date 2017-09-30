@@ -1,4 +1,4 @@
-# アジェンダ(実施前)
+# アジェンダ
 
 ## タイムスケジュール
 |時間|内容|備考|
@@ -71,3 +71,4 @@
 - [議論メモ 05/25](https://public.etherpad-mozilla.org/p/chirimen-20170525)
 - [議論メモ 07/01](https://public.etherpad-mozilla.org/p/chirimen-20170701)
 - [議論メモ 07/21](https://public.etherpad-mozilla.org/p/chirimen-20170721)
+- [議論メモ 09/30](https://public.etherpad-mozilla.org/p/chirimen-20170930)
