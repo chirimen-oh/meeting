@@ -9,7 +9,7 @@
 |xx:xx~xx:xx|議論 |Remote CHIRIMEN||
 |xx:xx~21:00|議論 |Maker Faire 2018||
 
-## [前回議事録](../meeting-2017.09.30.md)
+## [前回議事録](../2017/meeting-2017.09.30.md)
 
 ## ◆ CHIRIMEN の コミュニティ活動 について
 
