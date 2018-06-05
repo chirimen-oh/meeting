@@ -34,6 +34,7 @@
 ### Others
 - Mozilla Festival 2018 : someone
 - This year's Web x IoT
+- Others
 
 ## その他
 - [議論メモ 01/19](https://public.etherpad-mozilla.org/p/chirimen-20170119)
