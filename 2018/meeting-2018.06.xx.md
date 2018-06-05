@@ -3,11 +3,11 @@
 ## タイムスケジュール
 |時間|種別|テーマ|
 |:----:|:----:|:----|
-|18:00~|議論 |CHIRIMEN for Raspberry Pi3 update||
-|18:00~|報告 |Tutorials for CHIRIMEN for Raspberry PI3||
-|18:00~|報告 |Web x IoT Makert Challenge 2017||
-|18:00~|議論 |Remote CHIRIMEN||
-|18:00~|議論 |Maker Faire 2018||
+|18:00~xx:xx|議論 |CHIRIMEN for Raspberry Pi3 update||
+|xx:xx~xx:xx|報告 |Tutorials for CHIRIMEN for Raspberry PI3||
+|xx:xx~xx:xx|報告 |Web x IoT Makert Challenge 2017||
+|xx:xx~xx:xx|議論 |Remote CHIRIMEN||
+|xx:xx~21:00|議論 |Maker Faire 2018||
 
 ## [前回議事録](../meeting-2017.09.30.md)
 
