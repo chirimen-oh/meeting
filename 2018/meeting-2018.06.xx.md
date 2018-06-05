@@ -3,11 +3,12 @@
 ## タイムスケジュール
 |時間|種別|テーマ|
 |:----:|:----:|:----|
-|18:00~xx:xx|議論 |CHIRIMEN for Raspberry Pi3 update||
+|18:00~xx:xx|報告 |CHIRIMEN for Raspberry Pi3 update||
 |xx:xx~xx:xx|報告 |Tutorials for CHIRIMEN for Raspberry PI3||
 |xx:xx~xx:xx|報告 |Web x IoT Makert Challenge 2017||
-|xx:xx~xx:xx|議論 |Remote CHIRIMEN||
-|xx:xx~21:00|議論 |Maker Faire 2018||
+|xx:xx~xx:xx|報告 |Remote CHIRIMEN||
+|xx:xx~xx:xx|議論 |Maker Faire 2018||
+|xx:xx~21:00|議論 |Others||
 
 ## [前回議事録](../2017/meeting-2017.09.30.md)
 
@@ -30,6 +31,9 @@
 ### Maker Faire 2018
 - CHIRIMEN Booth Plan : hiyohiyo
 
+### Others
+- Mozilla Festival 2018 : someone
+- This year's Web x IoT
 
 ## その他
 - [議論メモ 01/19](https://public.etherpad-mozilla.org/p/chirimen-20170119)
