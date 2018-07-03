@@ -17,15 +17,15 @@
 ## [前回議事録](../2017/meeting-2017.09.30.md)
 
 ## 参加者
-* miyazaki(hiyohiyo)
-* nogaito
-* sekiguti
-* suzuhiko
-* kajii smarthost
-* fukaumi 
-* mitamoto
-* satoru
-* koichi
+* hiyohiyo
+* noga335
+* na-sekiguti
+* sizuhiko
+* kazy
+* naobsd 
+* t.mitamoto
+* satakagi
+* kotakagi
 
 ## ◆ CHIRIMEN の コミュニティ活動 について
 
