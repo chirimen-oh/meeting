@@ -6,8 +6,8 @@
 ## タイムスケジュール
 |時間|種別|テーマ|
 |:----:|:----:|:----|
-|19:00~19:30|others|自己紹介||
-|19:00~19:30|報告 |CHIRIMEN for Raspberry Pi3 update||
+|19:00~19:20|others|自己紹介||
+|19:20~19:30|報告 |CHIRIMEN for Raspberry Pi3 update||
 |xx:xx~xx:xx|報告 |Tutorials for CHIRIMEN for Raspberry PI3||
 |xx:xx~xx:xx|報告 |Web x IoT Makert Challenge 2017||
 |xx:xx~xx:xx|報告 |Remote CHIRIMEN||
@@ -15,6 +15,17 @@
 |xx:xx~21:00|議論 |Others||
 
 ## [前回議事録](../2017/meeting-2017.09.30.md)
+
+## 参加者
+* miyazaki(hiyohiyo)
+* nogaito
+* sekiguti
+* suzuhiko
+* kajii smarthost
+* fukaumi 
+* mitamoto
+* satoru
+* koichi
 
 ## ◆ CHIRIMEN の コミュニティ活動 について
 
