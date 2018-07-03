@@ -6,7 +6,8 @@
 ## タイムスケジュール
 |時間|種別|テーマ|
 |:----:|:----:|:----|
-|18:00~xx:xx|報告 |CHIRIMEN for Raspberry Pi3 update||
+|19:00~19:30|others|自己紹介||
+|19:00~19:30|報告 |CHIRIMEN for Raspberry Pi3 update||
 |xx:xx~xx:xx|報告 |Tutorials for CHIRIMEN for Raspberry PI3||
 |xx:xx~xx:xx|報告 |Web x IoT Makert Challenge 2017||
 |xx:xx~xx:xx|報告 |Remote CHIRIMEN||
