@@ -19,6 +19,7 @@
   - https://chirimen.org/chirimen-TY51822r3/
 - JSで制御するBluetoothと基板の勉強会 LT練習
   - CHIRIMEN for TY51822r3 を紹介
+  - https://html5j-robot.connpass.com/event/117812/
 - 前回の振り返り方と今後の進め方 (dynamis)
   - 前回のミーティングで合意したことの進捗や未実施の内容について改めてどうすすめるか。
   - すでにSlackなどで話しながら随時行われてる、contribドライバやチュートリアルで高度すぎるとの声があるsectionの扱い
