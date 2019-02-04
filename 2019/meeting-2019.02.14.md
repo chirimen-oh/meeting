@@ -7,8 +7,8 @@
 |19:00~19:20|others|自己紹介||
 |19:20~19:30|報告|Web×IoT メイカーズチャレンジの情報共有|hiyohiyo/satakagi|
 |19:30~19:40|報告|CHIRIMEN for TY51822r3の紹介|hiyohiyo/tadfmac|
-|19:40~19:50|報告|JSで制御するBluetoothと基板の勉強会 LT練習|hiyohiyo|
-|19:50~20:00|報告|||
+|19:30~19:40|報告|WebGPIO / micro:bit |stakagi|
+|19:50~20:00|報告|JSで制御するBluetoothと基板の勉強会 LT練習|hiyohiyo|
 |20:00~21:00|議論|前回の振り返り方と今後の進め方|dynamis|
 
 ## 参加者
