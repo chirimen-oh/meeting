@@ -22,7 +22,7 @@
   - CHIRIMEN ファミリーとしての承認をいただきたい。
   - https://chirimen.org/chirimen-TY51822r3/
   - issues / WebGPIO, WebI2C (API競合, CHIRIMEN RPi3と共存難)
-- [https://gist.github.com/satakagi/c34aa77bcb58099be37c22999fd51772](WebGPIO, etc. sensors, AnalogPIN via WebBT / micro:bit) (satakagi)
+- [WebGPIO, etc. sensors, AnalogPIN via WebBT / micro:bit](https://gist.github.com/satakagi/c34aa77bcb58099be37c22999fd51772) (satakagi)
   - issues / WebGPIO (Analog-IN、PWM-OUTが考慮されてないとか)
   - Web I2C への検討
   - CHIRIMENファミリーとして承認するには？
