@@ -23,7 +23,7 @@
   - https://chirimen.org/chirimen-TY51822r3/
   - issues / WebGPIO, WebI2C (API競合, CHIRIMEN RPi3と共存難)
 - WebGPIO, etc. sensors, AnalogPIN via WebBT / micro:bit (satakagi)
-  - issues / WebGPIO (Analog/Inが考慮されてないとか)
+  - issues / WebGPIO (Analog-IN、PWM-OUTが考慮されてないとか)
   - Web I2C への検討
   - CHIRIMENファミリーとして承認するには？
 - JSで制御するBluetoothと基板の勉強会 LT練習
