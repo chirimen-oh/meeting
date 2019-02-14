@@ -7,8 +7,8 @@
 |19:00~19:20|others|自己紹介||
 |19:20~19:30|報告|Web×IoT メイカーズチャレンジの情報共有|hiyohiyo/satakagi|
 |19:30~19:40|報告|CHIRIMEN for TY51822r3の紹介|hiyohiyo/tadfmac|
-|19:40~19:50|報告|WebGPIO etc. via webBT / micro:bit |stakagi|
-|19:50~21:30|議論|前回の振り返り方と今後の進め方|dynamis|
+|19:40~20:10|報告|WebGPIO etc. via webBT / micro:bit |stakagi|
+|20:10~22:10|議論|前回の振り返り方と今後の進め方|dynamis|
 
 ## 参加者
 * sizuhiko
