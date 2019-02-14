@@ -22,6 +22,7 @@
   - https://chirimen.org/chirimen-TY51822r3/
   - JSで制御するBluetoothと基板の勉強会でLT予定 https://html5j-robot.connpass.com/event/117812/
   - issues / WebGPIO, WebI2C (API競合, CHIRIMEN RPi3と共存難)
+  - 本家スイッチサイエンスでは売り切れちゃったけど、[協立エレショップ](http://eleshop.jp/shop/g/gG31311/)に5こ在庫あり
 - [WebGPIO, etc. sensors, AnalogPIN via WebBT / micro:bit](http://chirimen.org/webGPIO-etc-on-microbit-via-webBluetooth/) (satakagi)
   - issues / WebGPIO (Analog-IN、PWM-OUTが考慮されてないとか)
   - ToDo: Web I2C etc.
