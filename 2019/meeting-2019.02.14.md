@@ -27,6 +27,7 @@
   - issues / WebGPIO (Analog-IN、PWM-OUTが考慮されてないとか)
   - ToDo: Web I2C etc.
   - CHIRIMENファミリーとして承認するには？
+  - [動画](https://chirimen-oh.slack.com/files/U0ABYSU2D/FFXBK8VNU/vid_20190205_103056c.mp4)
 - 前回の振り返り方と今後の進め方 (dynamis)
   - 前回のミーティングで合意したことの進捗や未実施の内容について改めてどうすすめるか。
   - すでにSlackなどで話しながら随時行われてる、contribドライバやチュートリアルで高度すぎるとの声があるsectionの扱い
