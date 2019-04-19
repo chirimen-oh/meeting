@@ -15,7 +15,9 @@
   - [Maker Faire Tokyo 2016 KDDIブース看板デザイン #94](https://github.com/chirimen-oh/any-issues/issues/94)
   - [Maker Faire Tokyo 2016 スタッフ募集 #51](https://github.com/chirimen-oh/any-issues/issues/51)
   - [(8/6-7) Maker Faire Tokyo 2016 #38](https://github.com/chirimen-oh/any-issues/issues/38)
-- TBD
+- スターターキット(dynamis)
+- ビルドアップデート(dynamis)
+- チュートリアルdynamis)
 
 
 ## 議事録
