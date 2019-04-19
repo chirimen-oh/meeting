@@ -4,8 +4,10 @@
  ## タイムスケジュール
 |時間|種別|テーマ|担当者|
 |:----:|:----:|:----|:----|
-|19:30~19:40|others|自己紹介||
-|19:50~20:50|議論|Maker Faire Tokyo 2019|gurezo|
+|19:30~20:00|議論|Maker Faire Tokyo 2019|gurezo|
+|20:00~20:30|議論|スターターキット|dynamis|
+|20:30~21:00|議論|ビルドアップデート|dynamis|
+|21:00~21:30|議論|チュートリアル|dynamis|
 
 ## 参加者
 ## 議題
@@ -17,7 +19,7 @@
   - [(8/6-7) Maker Faire Tokyo 2016 #38](https://github.com/chirimen-oh/any-issues/issues/38)
 - スターターキット(dynamis)
 - ビルドアップデート(dynamis)
-- チュートリアルdynamis)
+- チュートリアル(dynamis)
 
 
 ## 議事録
