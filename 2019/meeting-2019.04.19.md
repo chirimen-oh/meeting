@@ -22,7 +22,7 @@
 - チュートリアル(dynamis)
 
 
-## （仮・編集中）議事録
+## 議事録
 ### Web x IoTメーカーチャレンジフィードバック
 - 札幌は色々苦労した模様
 - 今年度は、準備早い
@@ -71,7 +71,7 @@
 - ブランチ管理するか？
   - 今後は、ブランチ作成でNetlfyでやりたい
 - 画像は以下のサービスを使いたい
-  -https://www.cloudflare.com/ja-jp/
+  - https://www.cloudflare.com/ja-jp/
 - 言語変換サイトにして、英語版にする？
   - Google translateの使用実績あり
 - 2019.08のMaker Faireには間に合わせたい
