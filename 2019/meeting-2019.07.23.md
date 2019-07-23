@@ -16,15 +16,30 @@
 - gurezo さん, satakagi さん
 
 ## 議題
-- ビルドアップデート(dynamis)
-  - 7/10
-- チュートリアル(dynamis)
-- スターターキット(dynamis)
-- Maker Faire Tokyo 2019出展について (gurezo)
-  - ブースエリア
-    - ハンズオンスペース
-  - [2018年版チラシの作成 #202](https://github.com/chirimen-oh/any-issues/issues/202)  
-  - [Maker Faire Tokyo 2017 (8/5-6) #184](https://github.com/chirimen-oh/any-issues/issues/184)
-  - [Maker Faire Tokyo 2016 KDDIブース看板デザイン #94](https://github.com/chirimen-oh/any-issues/issues/94)
-  - [Maker Faire Tokyo 2016 スタッフ募集 #51](https://github.com/chirimen-oh/any-issues/issues/51)
-  - [(8/6-7) Maker Faire Tokyo 2016 #38](https://github.com/chirimen-oh/any-issues/issues/38)
+### ビルドアップデート(dynamis)
+- 7/10版で再作成
+
+### チュートリアル(dynamis)
+- 変更点の説明
+- 講師陣は、サイトのレイアウト、導線の変更を把握しておくこと
+- チュートリアルを印刷する
+  - ipadなどで、サイトを見せる
+
+### スターターキット(dynamis)
+- 売価について
+  - 3500円
+
+### Maker Faire Tokyo 2019出展について (gurezo)
+- ブースエリア
+  - ハンズオンスペース
+  - スターターキット
+    - 売り子
+  - KDDIブースエリア
+    - イメージ動画とチラシ
+  - [Maker Faire Tokyo 2019 スタッフ募集 #205](https://github.com/chirimen-oh/any-issues/issues/205)      
+  - 過去issue
+    - [2018年版チラシの作成 #202](https://github.com/chirimen-oh/any-issues/issues/202)  
+    - [Maker Faire Tokyo 2017 (8/5-6) #184](https://github.com/chirimen-oh/any-issues/issues/184)
+    - [Maker Faire Tokyo 2016 KDDIブース看板デザイン #94](https://github.com/chirimen-oh/any-issues/issues/94)
+    - [Maker Faire Tokyo 2016 スタッフ募集 #51](https://github.com/chirimen-oh/any-issues/issues/51)
+    - [(8/6-7) Maker Faire Tokyo 2016 #38](https://github.com/chirimen-oh/any-issues/issues/38)
