@@ -13,7 +13,7 @@
 ## 参加者
 - hiyohiyo さん, sizuhikoさん, okudaさん, 
 - 白鷹さん, dynamis さん, koheiさん, honda さん, 
-- gurezo さん, satakagi さん
+- gurezo さん, satakagi さん, noguchi さん
 
 ## 議題
 ### ビルドアップデート(dynamis)
