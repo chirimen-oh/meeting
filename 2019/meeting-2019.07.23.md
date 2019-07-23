@@ -61,3 +61,7 @@
 ### コントリビューター案
 - tutorialページに追記していく
 - @tadfmacさんが公開しているExample集のようなページをcontribute集に入れる
+
+### 名前について
+- 将来的にRaspberry Pi 3の3を外す
+- Raspberry Pi 4流通し始めてからPi 4の作業をする
