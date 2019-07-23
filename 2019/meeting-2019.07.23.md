@@ -33,6 +33,9 @@
 - 講師陣は、サイトのレイアウト、導線の変更を把握しておくこと
 - チュートリアルを印刷する
   - ipadなどで、サイトを見せる
+- Micro:bitのサンプル完成 @satakagi
+  - [chirimen-micro-bit](http://chirimen.org/chirimen-micro-bit/guidebooks/startup.html)
+
 
 ### スターターキット(dynamis)
 - 売価について
