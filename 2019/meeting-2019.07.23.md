@@ -1,5 +1,5 @@
 ## 開催日と場所
-2019年7月xx日　WebDINO Japan
+2019年7月23日　WebDINO Japan
 
  ## タイムスケジュール
 |時間|種別|テーマ|担当者|
@@ -11,11 +11,18 @@
 |20:20~20:40|議論|Maker Faire Tokyo 2019|-|
 
 ## 参加者
+- hiyohiyo さん, sizuhikoさん, okudaさん, 
+- 白鷹さん, dynamis さん, koheiさん, honda さん, 
+- gurezo さん, satakagi さん
+
 ## 議題
 - ビルドアップデート(dynamis)
+  - 7/10
 - チュートリアル(dynamis)
 - スターターキット(dynamis)
 - Maker Faire Tokyo 2019出展について (gurezo)
+  - ブースエリア
+    - ハンズオンスペース
   - [2018年版チラシの作成 #202](https://github.com/chirimen-oh/any-issues/issues/202)  
   - [Maker Faire Tokyo 2017 (8/5-6) #184](https://github.com/chirimen-oh/any-issues/issues/184)
   - [Maker Faire Tokyo 2016 KDDIブース看板デザイン #94](https://github.com/chirimen-oh/any-issues/issues/94)
