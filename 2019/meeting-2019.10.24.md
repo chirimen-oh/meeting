@@ -14,7 +14,9 @@
 
 ## 参加者
 - 浅井さん、渡辺さん、本田さん、星さん、
-- 宮崎さん、宮本さん
+- 宮崎さん、宮本さん、野口さん、悟さん
+- 小玉さん、岸田さん
+
 
 ## 議題
 ### Raspberry Pi 4, Jetson Nano のサポートについて
@@ -35,8 +37,6 @@
     - chirimen-raspi3 => リネーム：enviroment or platform?
   - テスト基盤
     - 参考：[BitTradeOne ラズベリーパイ専用学習リモコン基板 [ 完成品 ] ADRSIR](https://www.amazon.co.jp/gp/product/B077ZNDW79/)
-
-
 
 ### 土曜日におさわり会・もくもく会の開催について
  - CHIRIMEN サポートデバイスも増えドキュメントも増えてきたのでもっと使ってもらいたい知ってもらいたいアピールしたい
