@@ -24,7 +24,7 @@
   - Jetson Nanoデモ
   - CHIRIMEN for Jetson Nano承認
     - β版の作成を考える
-  - [ライセンス](http://wiki.seeedstudio.com/jp/license/)
+  - [ライセンス](http://wiki.seeedstudio.com/jp/license/) => **要確認**
 - npm パッケージ公開
   - [node web GPIO](https://www.npmjs.com/package/node-web-gpio)
   - [node web I2C](npmjs.com/package/node-web-i2c)
@@ -34,13 +34,14 @@
  - Raspberry Piの管理
   - リポジトリ名
     - Raspberry Pi4、現在のドライバー利用可能
-    - chirimen-raspi3 => リネーム：enviroment or platform?
+    - chirimen-raspi3 => リネーム：chirimen
   - テスト基盤
     - 参考：[BitTradeOne ラズベリーパイ専用学習リモコン基板 [ 完成品 ] ADRSIR](https://www.amazon.co.jp/gp/product/B077ZNDW79/)
 
 ### 土曜日におさわり会・もくもく会の開催について
 - CHIRIMEN サポートデバイスも増えドキュメントも増えてきたのでもっと使ってもらいたい知ってもらいたいアピールしたい
   - もくもく会を開催する方向　２ヶ月に１回くらい？
+  - 浅井さんアナウンス待ち
 - WebSite やドキュメントの改善をすべき点は一杯あるので集まってみんなで実施する時間を作りたい
 
 
@@ -49,8 +50,8 @@
   - micro:bitで、接続ミスが発生したケースあり
 - [16:9 以外のディスプレイでの利用を考慮した壁紙・設定に #83](https://github.com/chirimen-oh/chirimen-raspi3/issues/83)
   - スターターキットにピンアサインを印刷する
-  - スクリプトを書く？
-  - 左にピンアサインを移動する => tadfmac
+  - 画像再作成 => 小玉さん
+  - 画像サイズ用スクリプトを書く => 宮本さん
 - スペックをきちんとしたい
 - エラーハンドリングをきちんとしたい
 - @chrimenで、npm パッケージを再作成する
@@ -59,6 +60,7 @@
 ### 公式サイト
 - トップページを書く
 - [issue89](https://github.com/chirimen-oh/chirimen-oh.github.io/issues/89)
+- ロゴアニメーションのファイルを梶井さんに確認
 
 ### 技術書典参加
 - 02/29-03/01 どちらか選択できる
