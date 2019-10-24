@@ -26,8 +26,8 @@
     - β版の作成を考える
   - [ライセンス](http://wiki.seeedstudio.com/jp/license/)
 - npm パッケージ公開
-  - node web GPIO
-  - node web I2C
+  - [node web GPIO](https://www.npmjs.com/package/node-web-gpio)
+  - [node web I2C](npmjs.com/package/node-web-i2c)
 
 - 技適通過してる (多分現在量産中) Pi4 をそろそろサポートしたいよね。実は 21 日に海外から来る人が Rpi4 1/4GB モデル両方持ってくるからテストしてもらえるんだ。(海外居住者が持ち込んで基地局建てるのは合法だったよね？)
   - Raspberry Pi4、現在のドライバー利用可能
@@ -39,12 +39,24 @@
     - 参考：[BitTradeOne ラズベリーパイ専用学習リモコン基板 [ 完成品 ] ADRSIR](https://www.amazon.co.jp/gp/product/B077ZNDW79/)
 
 ### 土曜日におさわり会・もくもく会の開催について
- - CHIRIMEN サポートデバイスも増えドキュメントも増えてきたのでもっと使ってもらいたい知ってもらいたいアピールしたい
- - WebSite やドキュメントの改善をすべき点は一杯あるので集まってみんなで実施する時間を作りたい
+- CHIRIMEN サポートデバイスも増えドキュメントも増えてきたのでもっと使ってもらいたい知ってもらいたいアピールしたい
+  - もくもく会を開催する方向　２ヶ月に１回くらい？
+- WebSite やドキュメントの改善をすべき点は一杯あるので集まってみんなで実施する時間を作りたい
+
 
 ### Web x IoT Makers Challenge 利用からのフィードバックとか
+- 長野の講習会のお話
+  - micro:bitで、接続ミスが発生したケースあり
+- [16:9 以外のディスプレイでの利用を考慮した壁紙・設定に #83](https://github.com/chirimen-oh/chirimen-raspi3/issues/83)
+  - スターターキットにピンアサインを印刷する
+  - スクリプトを書く？
+  - 左にピンアサインを移動する => tadfmac
+- 
 
 ### 公式サイト
+- 
+
+
 
 ### PolyFill
 
