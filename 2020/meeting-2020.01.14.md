@@ -33,6 +33,6 @@
 - 価格 
 - 費用 35p 100 \17000(nikko kikaku), 7/11 multiColorCopy, PrintPack
 - マスコットキャラw
-- 同人ハードw 原価は\10000+
+- 同人ハードw 原価は\1000+
 
  
