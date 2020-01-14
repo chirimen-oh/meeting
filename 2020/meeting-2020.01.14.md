@@ -31,8 +31,8 @@
 - 印刷
 - 部数 100-200
 - 価格 
-- 費用 35p 100 17000(nikko kikaku), 7/11 multiColorCopy, PrintPack
+- 費用 35p 100 \17000(nikko kikaku), 7/11 multiColorCopy, PrintPack
 - マスコットキャラw
-- 同人ハードw
+- 同人ハードw 原価は\10000+
 
  
