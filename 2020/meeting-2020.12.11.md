@@ -17,6 +17,9 @@
 
 ## 議題
 * RPi SDイメージ更新リリース
+ 
+ https://www.raspberrypi.org/forums/viewtopic.php?t=276693
+
 * chirimen-drivers
   * ES Module 
   * Examples引っ越し
