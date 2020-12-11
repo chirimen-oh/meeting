@@ -16,6 +16,15 @@
 
 
 ## 議題
+* RPi SDイメージ更新リリース
+* chirimen-drivers
+  * ES Module 
+  * Examples引っ越し
+  * 行動規範
+* microbit
+  * V2　公式サポート
+  * PWM API
+
 
 ### TBD
 
