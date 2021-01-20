@@ -69,7 +69,11 @@
 - 振り返り
 
 ### サポートデバイス
+- TBD
 
+### ハッカソンイベントエントリー
+- [NRIハッカソン bit.Connect - Hack for NEWSTYLE](https://bitconnect.nri.co.jp/)
+- [Yahoo! JAPAN Hack Day 2021 Online](https://hackday.jp/)
 
 ### Next
 
