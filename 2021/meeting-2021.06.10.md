@@ -1,4 +1,4 @@
-# CHIRIMEN meeting 202102
+# CHIRIMEN meeting 202106
 
 ## 開催日と場所
 2021年06月10日 Zoom
