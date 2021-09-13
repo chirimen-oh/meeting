@@ -91,6 +91,8 @@
     - リポジトリイメージ： https://github.com/chirimen/chirimen-lite @kou029w 
 - カスタムイメージの登録
     - フォーラムにポストしてのその後の確認
+    - 投稿がロックされていたので、再投稿
+        - https://github.com/chirimen-oh/chirimen/issues/87#issuecomment-918252700
 - スターターキットのパッケージング
     - RasPi 向けのイメージは 8 月の最新版で
     - PiZero ユーザ向けのものは保留しておき必要になったタイミングにて
