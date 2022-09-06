@@ -13,7 +13,7 @@
 | 20:15~20:35 | 議論 | [#4](https://github.com/chirimen-oh/meeting/issues/4)                                                     | -      |
 | 20:35~20:45 | 議論 | [#5](https://github.com/chirimen-oh/meeting/issues/5)                                                     | -      |
 | 20:45~20:55 | 議論 | [#11](https://github.com/chirimen-oh/meeting/issues/11)                                                   | -      |
-| 20:45~20:55 | 議論 | [#12](https://github.com/chirimen-oh/meeting/issues/12)                                                   | -      |
+| 20:45~20:55 | 議論 | [#13](https://github.com/chirimen-oh/meeting/issues/13)                                                   | -      |
 | 21:15~21:30 | 議論 | フリーテーマ :<br> スターターキットの商品化？<br>技術書典で同人誌＋組み立てキット<br>11でオフラインで物販した | -      |
 
 ## 参加者 (alphabetical order)
@@ -34,14 +34,17 @@
     - node版とブラウザ版の互換のAPI化はできない？
     - カメラのサンプルを作るのはノード版だけで良い？
     - [ カメラのサンプルを作る #1 ](https://github.com/chirimen-oh/tutorial.chirimen.org/issues/1)
+    - => サンプルを作るのみ（@satakagi）
 - PiZero版の開発環境(USBOTG直結する)のコンソールが、最近のChromeで文字消えする
     - CHIRIMEN PiZeroのコンソールについて、MacOSのChromeで文字化け（文字消え）が起きるとの報告が複数来ています。
     - https://webiotmakerschallenge.slack.com/archives/C031RJPCEBW/p1644718373320289
-- このスレッドの中に記載していますが、XTerm.jsをただ最新リリースにしても文字消えはなおらないようなのですが、さらにXTerm.jsの設定で影響が出そうなところをいろいろいじったものを置いてあります。
-    - オリジナルで同じ症状が出るかどうか
-        - https://chirimen.org/PiZeroWebSerialConsole/PiZeroWebSerialConsole.html
-        - いろいろいじったものではどうか
-            - https://chirimen.org/PiZeroWebSerialConsole/PiZeroWebSerialConsole_xtLatest.html
+    - => mac OS でなければ、問題が出ない
+    - => mac ユーザが検証する
+        - このスレッドの中に記載していますが、XTerm.jsをただ最新リリースにしても文字消えはなおらないようなのですが、さらにXTerm.jsの設定で影響が出そうなところをいろいろいじったものを置いてあります。
+            - オリジナルで同じ症状が出るかどうか
+                - https://chirimen.org/PiZeroWebSerialConsole/PiZeroWebSerialConsole.html
+            - いろいろいじったものではどうか
+                - https://chirimen.org/PiZeroWebSerialConsole/PiZeroWebSerialConsole_xtLatest.html
 
 ### [#4](https://github.com/chirimen-oh/meeting/issues/4)
 - パーツリストを更新する
@@ -55,10 +58,66 @@
     - https://github.com/chirimen-oh/chirimen.org/commit/728a5ff60b104dff927b5294c98704707a66438d
         - この更新が反映されなかった感じでした(https://tutorial.chirimen.org/raspi/section1 の、３のbの実態配線図）
 - [ チュートリアルサイトのパーツ画像変換バグ確認 #108 ](https://github.com/chirimen-oh/chirimen.org/issues/108)
+    - => 画像をそのままで表示する処置で対応済み
+
+### [#5](https://github.com/chirimen-oh/meeting/issues/5)
+- 次回の Web IoT Makers Challenge までに やりたいこと
+    - node-web-gpio/i2c
+        - 202x.10月頃にLTSのタイミングで、最新リリース(v18.x系)したい
+    - Raspberry Pi 3/4 系の Node v16.x or v18.x 系の検証を終わらせたい
+    - Rasbian OS アップデート
+    - ハード調達したい（切実
+
+### [#11](https://github.com/chirimen-oh/meeting/issues/11)
+- Web IoT Makers Challenge は、やらない
+    - chrome 拡張機能で、ログを保存できる
+- 現時点で、discussion 必要ない
+- 過去ログが必要であれば、Github Discussion を使う
+    - https://github.com/orgs/chirimen-oh/teams/chirimen-staff/discussions を活用する
+
+### [#13](https://github.com/chirimen-oh/meeting/issues/13)
+- 在庫確認をお願いします。@dynamis さん、@shinoda さん
+    - テーブルクロス
+    - 薄い本
+    - 全部のせボード（基盤のみ、部品セット付き）
+    - スターターキット
+    - ※在庫の有無で、商品登録を調整します。
 
 ### [Raspberry Pi OS 2022.01.28 64bit 版 setup.sh](https://github.com/chirimen-oh/chirimen/issues/118) 
 - 進捗ありません。ごめんなさい。
 - 落ち着いて作成します。
+
+### Web IoT Makers Challenge
+- 壁紙を変えたい
+- CHIRIMEN のみにしたい。
+    - 2021.01.?? に直っている
+    - イメージ reelase 2021.08.21 に直っている
+    - apt-get upgarde しなければ大丈夫？
+- 2022-04-07が最新でイメージを作りたい
+    - https://downloads.raspberrypi.org/raspios_arm64/images/raspios_arm64-2022-04-07/
+- Node 問題
+    - サポート期限：2023-04-30まで
+    - 該当ライブラリの調査
+    - https://github.com/chirimen-oh/chirimen/issues/121
+    - v16.x or v18.x を調査
+    - node-web-gpio/i2cからバックポートする？
+        - 当時の issue https://github.com/chirimen-oh/chirimen/pull/98
+            - 該当 issue https://github.com/EnotionZ/gpio/issues/62
+            - pr https://github.com/EnotionZ/gpio/pull/63
+            - => v16.x 以上でテストしてみる
+- オフラインミーティングをやりたい（状況次第）
+
+### 大垣 Mini Maker Faire 参加
+- 2023 応募開始(2022.12)
+- 2024 応募開始(2024.12)
+    - @tadfmac
+    - @WhiteHawk-taka
+
+### バージョンアップや最新イメージの目標期限
+- 2022.12 月中に全てクリアになっていると嬉しい
+
+### 次回MTG
+- 2022.09.26~2022.10.05の間で調整さん
 
 ### HackMD
 #### 前回
