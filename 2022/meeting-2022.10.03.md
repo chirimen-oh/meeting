@@ -17,7 +17,8 @@
 
 ## 参加者 (alphabetical order)
 
-- @dynamis
+- @Aritaka-hub
+- @elie-j
 - @kou029w
 - @satakagi
 - @sizuhiko
