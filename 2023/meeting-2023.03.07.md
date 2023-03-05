@@ -2,24 +2,23 @@
 
 [![hackmd-github-sync-badge](https://hackmd.io/-O2Gu3BbQhOz8nF-AOk4Ng/badge)](https://hackmd.io/-O2Gu3BbQhOz8nF-AOk4Ng)
 
-
 ## 開催日と場所
 
 2021 年 09 月 13 日 Zoom
 
 ## タイムスケジュール
 
-|    時間     | 種別 | テーマ                                                                                                                                                       | 担当者 |
-| :---------: | :--: | :----------------------------------------------------------------------------------------------------------------------------------------------------------- | :----- |
-| 19:30~19:35 | 議論 | 挨拶                                                                                                                                                         | -      |
-| 19:55~20:15 | 議論 | [#3](https://github.com/chirimen-oh/meeting/issues/3) +pizero tutorial の件                                                                                  | -      |
-| 20:15~20:35 | 議論 | [#5](https://github.com/chirimen-oh/meeting/issues/5)                                                                                                        | -      |
-| 20:35~20:45 | 議論 | [#14](https://github.com/chirimen-oh/meeting/issues/14)                                                                                                      | -      |
-| 20:45~20:55 | 議論 | [#15](https://github.com/chirimen-oh/meeting/issues/15)                                                                                                      | -      |
-| 20:45~20:55 | 議論 | [Node v16.x or v18.x 対応](https://github.com/chirimen-oh/chirimen/issues/121)                                                                               | -      |
-| 20:45~20:55 | 議論 | [Raspberry Pi OS 2023.02.22 32bit 版 setup.sh #125](https://github.com/chirimen-oh/chirimen/issues/125)](https://github.com/chirimen-oh/chirimen/issues/125) | -      |
-| 20:45~20:55 | 議論 | [Raspberry Pi OS 2023.02.22 64bit 版 setup.sh #122](https://github.com/chirimen-oh/chirimen/issues/122)                                                      | -      |
-| 21:15~21:30 | 議論 | フリーテーマ :<br> スターターキットの商品化？<br>技術書典で同人誌＋組み立てキット<br>11 でオフラインで物販した                                               | -      |
+|    時間     | 種別 | テーマ                                                                                                         | 担当者 |
+| :---------: | :--: | :------------------------------------------------------------------------------------------------------------- | :----- |
+| 19:30~19:35 | 議論 | 挨拶                                                                                                           | -      |
+| 19:55~20:15 | 議論 | [#3](https://github.com/chirimen-oh/meeting/issues/3) +pizero tutorial の件                                    | -      |
+| 20:15~20:35 | 議論 | [#5](https://github.com/chirimen-oh/meeting/issues/5)                                                          | -      |
+| 20:35~20:45 | 議論 | [#14](https://github.com/chirimen-oh/meeting/issues/14)                                                        | -      |
+| 20:45~20:55 | 議論 | [#15](https://github.com/chirimen-oh/meeting/issues/15)                                                        | -      |
+| 20:45~20:55 | 議論 | [Node v16.x or v18.x 対応](https://github.com/chirimen-oh/chirimen/issues/121)                                 | -      |
+| 20:45~20:55 | 議論 | [Raspberry Pi OS 2023.02.22 32bit 版 setup.sh #125](https://github.com/chirimen-oh/chirimen/issues/125)        | -      |
+| 20:45~20:55 | 議論 | [Raspberry Pi OS 2023.02.22 64bit 版 setup.sh #122](https://github.com/chirimen-oh/chirimen/issues/122)        | -      |
+| 21:15~21:30 | 議論 | フリーテーマ :<br> スターターキットの商品化？<br>技術書典で同人誌＋組み立てキット<br>11 でオフラインで物販した | -      |
 
 ## 参加者 (alphabetical order)
 
