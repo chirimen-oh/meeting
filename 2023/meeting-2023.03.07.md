@@ -1,5 +1,8 @@
 # CHIRIMEN meeting 2022.10.03
 
+[![hackmd-github-sync-badge](https://hackmd.io/-O2Gu3BbQhOz8nF-AOk4Ng/badge)](https://hackmd.io/-O2Gu3BbQhOz8nF-AOk4Ng)
+
+
 ## 開催日と場所
 
 2021 年 09 月 13 日 Zoom
