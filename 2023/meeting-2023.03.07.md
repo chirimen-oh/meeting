@@ -1,4 +1,4 @@
-# CHIRIMEN meeting 2022.10.03
+# CHIRIMEN meeting 2023.03.07
 
 [![hackmd-github-sync-badge](https://hackmd.io/-O2Gu3BbQhOz8nF-AOk4Ng/badge)](https://hackmd.io/-O2Gu3BbQhOz8nF-AOk4Ng)
 
@@ -8,17 +8,16 @@
 
 ## タイムスケジュール
 
-|    時間     | 種別 | テーマ                                                                                                         | 担当者 |
-| :---------: | :--: | :------------------------------------------------------------------------------------------------------------- | :----- |
-| 19:30~19:35 | 議論 | 挨拶                                                                                                           | -      |
-| 19:55~20:15 | 議論 | [#3](https://github.com/chirimen-oh/meeting/issues/3) +pizero tutorial の件                                    | -      |
-| 20:15~20:35 | 議論 | [#5](https://github.com/chirimen-oh/meeting/issues/5)                                                          | -      |
-| 20:35~20:45 | 議論 | [#14](https://github.com/chirimen-oh/meeting/issues/14)                                                        | -      |
-| 20:45~20:55 | 議論 | [#15](https://github.com/chirimen-oh/meeting/issues/15)                                                        | -      |
-| 20:45~20:55 | 議論 | [Node v16.x or v18.x 対応](https://github.com/chirimen-oh/chirimen/issues/121)                                 | -      |
-| 20:45~20:55 | 議論 | [Raspberry Pi OS 2023.02.22 32bit 版 setup.sh #125](https://github.com/chirimen-oh/chirimen/issues/125)        | -      |
-| 20:45~20:55 | 議論 | [Raspberry Pi OS 2023.02.22 64bit 版 setup.sh #122](https://github.com/chirimen-oh/chirimen/issues/122)        | -      |
-| 21:15~21:30 | 議論 | フリーテーマ :<br> スターターキットの商品化？<br>技術書典で同人誌＋組み立てキット<br>11 でオフラインで物販した | -      |
+|    時間     | 種別 | テーマ                                                                                                  | 担当者 |
+| :---------: | :--: | :------------------------------------------------------------------------------------------------------ | :----- |
+| 19:30~19:35 | 議論 | 挨拶                                                                                                    | -      |
+| 19:55~20:15 | 議論 | [#3](https://github.com/chirimen-oh/meeting/issues/3) + pizero tutorial の件                            | -      |
+| 20:15~20:35 | 議論 | [#5](https://github.com/chirimen-oh/meeting/issues/5)                                                   | -      |
+| 20:35~20:45 | 議論 | [#14](https://github.com/chirimen-oh/meeting/issues/14)                                                 | -      |
+| 20:45~20:55 | 議論 | [#16](https://github.com/chirimen-oh/meeting/issues/16)                                                 | -      |
+| 20:45~20:55 | 議論 | [Node v16.x or v18.x 対応](https://github.com/chirimen-oh/chirimen/issues/121)                          | -      |
+| 20:45~20:55 | 議論 | [Raspberry Pi OS 2023.02.22 32bit 版 setup.sh #125](https://github.com/chirimen-oh/chirimen/issues/125) | -      |
+| 20:45~20:55 | 議論 | [Raspberry Pi OS 2023.02.22 64bit 版 setup.sh #122](https://github.com/chirimen-oh/chirimen/issues/122) | -      |
 
 ## 参加者 (alphabetical order)
 
@@ -34,39 +33,56 @@
 
 ### [#3](https://github.com/chirimen-oh/meeting/issues/3)
 
+手伝いできる方お願いします
+
 ### [#5](https://github.com/chirimen-oh/meeting/issues/5)
 
-- 次回の Web IoT Makers Challenge までに やりたいこと
-  - node-web-gpio/i2c
-    - 202x.10 月頃に LTS のタイミングで、最新リリース(v18.x 系)したい
-  - Raspberry Pi 3/4 系の Node v16.x or v18.x 系の検証を終わらせたい
-    - 年明けにもくもく会イベント開く？ :cow: :monkey_face::8ball::meat_on_bone: :panda_face: :cake: :tropical_drink:
-    - 2023.01 後半？ :two: :zero: :two: :three: / :zero: :one:
-  - Rasbian OS アップデート(2022.09.26 版):two: :zero: :two: :two: / :zero: :nine: :zero:/:two: :six:
-    - https://downloads.raspberrypi.org/raspios_arm64/images/raspios_arm64-2022-09-26/
-    - https://downloads.raspberrypi.org/raspios_full_armhf/images/raspios_full_armhf-2022-09-26/
-    - [Raspberry Pi OS 2022.09.26 64bit 版 setup.sh #122](https://github.com/chirimen-oh/chirimen/issues/122)
+- https://github.com/chirimen-oh/chirimen/issues/125
+- https://github.com/chirimen-oh/chirimen/issues/122
+- chirimen lite も 2023.02.22 版出た
+  - issue を建てる
+  - カメラが動かないケースが有った（ただし、レアケース
+  - bullseye で、カメラ周りが変わった模様
+- やってい行きましょう！ご協力お願いします
 
 ### [#14](https://github.com/chirimen-oh/meeting/issues/14)
 
-### [#15](https://github.com/chirimen-oh/meeting/issues/15)
+### [#16](https://github.com/chirimen-oh/meeting/issues/16)
+
+- 申し込みしました。
+- 抽選中
+- 新刊は？（chirimen lite を企画する？
+- 在庫処分的な方向はやめる
+- アピールするものを考える
 
 ### [Node v16.x or v18.x 対応](https://github.com/chirimen-oh/chirimen/issues/121)
 
+- chirmen lite のみ対応済み
+- 通常の rasbian まだ
+  - 理想的なタイミングは最新の rasbian にして検証する
+
 ### [Raspberry Pi OS 2023.02.22 32bit 版 setup.sh #125](https://github.com/chirimen-oh/chirimen/issues/125)
+
+- ベストエフォート（デバイスの入手が可能になったら）
 
 ### [Raspberry Pi OS 2023.02.22 64bit 版 setup.sh #122](https://github.com/chirimen-oh/chirimen/issues/122)
 
+- ベストエフォート（デバイスの入手が可能になったら）
+
 ### Web IoT Makers Challenge
+
+- コントリビュートしてくれるヒトは slack の招待メールを送る
+- 03/11 グランプリ決定戦開催！！！！
 
 ### Node.js バージョンアップや OS 最新イメージの目標期限
 
-- 2022.12 月中に全てクリアになっていると嬉しい
-  - ※Pi4 を使う場合
+- chirmen lite のみ対応済み
+
+* ベストエフォート（デバイスの入手が可能になったら）
 
 ### 次回 MTG
 
-- 保留
+- TBD
 
 ### HackMD
 
