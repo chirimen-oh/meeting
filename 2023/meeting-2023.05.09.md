@@ -54,7 +54,8 @@
     * 約3500円
 * ステッカー
     * Web DINOが発注
-        * 校正素材を探す ぐんま〜
+        * ~~校正素材を探す ぐんま〜~~ slack post done
+        * https://chirimen-oh.slack.com/archives/C135PUVR6/p1683634374284769?thread_ts=1683510375.182239&cid=C135PUVR6
     * 50枚グンマーへ
 * チラシ
     * 50枚グンマーへ
