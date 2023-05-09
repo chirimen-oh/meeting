@@ -24,10 +24,7 @@
 - @Aritaka-hub
 - @elie-j
 - @kou029w
-- @satakagi
 - @sizuhiko
-- @tadfmac
-- @WhiteHawk-taka
 
 ## 議題
 
@@ -44,8 +41,23 @@
   - カメラが動かないケースが有った（ただし、レアケース
   - bullseye で、カメラ周りが変わった模様
 - やってい行きましょう！ご協力お願いします
+- https://github.com/chirimen-oh/chirimen.org/issues/85
+- https://github.com/chirimen-oh/chirimen.org/issues/88
+- ドメイン管理の状況を赤塚さんと浅井さんに確認
+- 閉じる条件
+    - https://github.com/chirimen-oh/chirimen.org/issues/88 を終わらせる
+    - https://github.com/chirimen-oh/chirimen.org/issues/88#issuecomment-1540000885
 
 ### [#14](https://github.com/chirimen-oh/meeting/issues/14)
+* https://github.com/chirimen-oh/meeting/issues/14#issuecomment-1493336259
+* スターターキッド（SDナシ）:10セット
+    * 約3500円
+* ステッカー
+    * Web DINOが発注
+        * 校正素材を探す ぐんま〜
+    * 50枚グンマーへ
+* チラシ
+    * 50枚グンマーへ
 
 ### [#16](https://github.com/chirimen-oh/meeting/issues/16)
 
@@ -58,6 +70,7 @@
 ### [Node v16.x or v18.x 対応](https://github.com/chirimen-oh/chirimen/issues/121)
 
 - chirmen lite のみ対応済み
+- v18.x 対応済み
 - 通常の rasbian まだ
   - 理想的なタイミングは最新の rasbian にして検証する
 
