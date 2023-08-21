@@ -66,8 +66,8 @@
 
 #### 前回
 
-- https://hackmd.io/eH1zP0JoTSGxRykHQnKGpg
+- https://hackmd.io/@ICe-ErPVRmeEwSMsjoFUdA/HkHksOIN3
 
 #### 今回
 
-- https://hackmd.io/@ICe-ErPVRmeEwSMsjoFUdA/HkHksOIN3
+- https://hackmd.io/rQZfnzIPQ0Sg-v3aCAnmFw
