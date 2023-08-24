@@ -52,7 +52,29 @@
 - 
 
 ### [#19](https://github.com/chirimen-oh/meeting/issues/19)
-- 新刊：CHIRIMEN を支える技術
+- チュートリアルを印刷をする案
+    - 各イベントにも使える（配布物に使える
+    - 配布物は、内部的に購入した建付け
+    - 多少の差別化は考える
+    - Pi Zero 
+        - ~~ステップ３ (CHIRIMEN環境設定)~~
+            - ~~コメントアウト~~ done
+        - 最新イメージ作成中
+            - https://github.com/chirimen-oh/chirimen-lite/issues/7
+        - 目次が課題？
+        - 表紙どうする？
+        - https://github.com/chirimen-oh/chirimen.org/
+            - 上記の md 活用する
+            - ブランチを作成して作業する
+        - リンクは PDF にする時に注釈する方法がある
+            - https://pandoc.org/
+            - https://qiita.com/sky_y/items/80bcd0f353ef5b8980ee
+        - RE:VIEW を使ってみる？
+            - https://reviewml.org/ja/
+        - 追加ページや挿絵を考える
+            - **お試しPDFを作って、アップデートする**
+    - お手伝いの issue や 調整さんでリマインド
+- 新刊：CHIRIMEN を支える技術 => 一旦後回し
     <details>
     
         1. **はじめに**
@@ -90,12 +112,43 @@
            - 書籍内で言及された資料やウェブリンク、コミュニティの情報へのアクセス方法を提供。    
 
     </details>
+- スターターキット
+    - 現時点で、在庫がない販売はない
+    - 頒布する場合、オマケ頒布
+- 全部乗せ基盤
+    - 販売 OK
+    - ※あまり人気ないかも？
+- スケジュール
+    - 執筆カレンダーを作る @gurezo
+    - たたき台のリミット（9月中
+    - みんなで、ブラッシュアップ（オフライン
+        - 調整さん立てる
+        - 平日か土日かをみんなで考える
+    - DINO の状況：10月以降は、忙しい
+    - 09/30(土)：satakagi さんが DINO に在所
+    - 入稿は DINO にお願い
+        - データを渡す
 
 ### [#20](https://github.com/chirimen-oh/meeting/issues/20)
+- 見送り
+
+### [チュートリアルサイトをコミュニティトップに差し替える #88](https://github.com/chirimen-oh/chirimen.org/issues/88)
+- [@dynamis さんに確認中](https://github.com/chirimen-oh/chirimen.org/issues/88#issuecomment-1691532522)
+
+
+### 確認中
+- Pi Zero と M1 Mac で検証
+    - Web Serial で接続後に無造作に外して、再接続して正しくつながるかどうか？
+    - [M1 Mac で途中で接続を外すと認識できない現象が発生 #22 ](https://github.com/chirimen-oh/PiZeroWebSerialConsole/issues/22)
+    - 2022-12-12-chirimen-lite 版
 
 ### 次回 MTG
 
-- TBD
+- 調整さんを立てる
+    - 新刊作業
+        - 09/30(土)？＋α（別日設定？
+            - 09/30(土)：satakagi さんが DINO に在所
+            - みんなで、ブラッシュアップ（オフライン
 
 ### HackMD
 
