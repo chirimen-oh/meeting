@@ -1,10 +1,10 @@
-# CHIRIMEN meeting 2023.08.24
+# CHIRIMEN meeting 2024.04.09
 
 [![hackmd-github-sync-badge](https://hackmd.io/-O2Gu3BbQhOz8nF-AOk4Ng/badge)](https://hackmd.io/-O2Gu3BbQhOz8nF-AOk4Ng)
 
 ## 開催日と場所
 
-2023 年 05 月 09 日 Zoom
+2024 年 04 月 09 日 Zoom
 
 ## タイムスケジュール
 
