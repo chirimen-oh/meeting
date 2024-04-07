@@ -8,13 +8,14 @@
 
 ## タイムスケジュール
 
-|    時間     | 種別 | テーマ                                                                       | 担当者 |
-| :---------: | :--: | :--------------------------------------------------------------------------- | :----- |
-| 19:30~19:35 | 議論 | 挨拶                                                                         | -      |
-| 19:55~20:15 | 議論 | [#3](https://github.com/chirimen-oh/meeting/issues/3) + pizero tutorial の件 | -      |
-| 20:15~20:35 | 議論 | [#5](https://github.com/chirimen-oh/meeting/issues/5)                        | -      |
-| 20:35~20:45 | 議論 | [#19](https://github.com/chirimen-oh/meeting/issues/19)                      | -      |
-| 20:45~20:55 | 議論 | [#20](https://github.com/chirimen-oh/meeting/issues/20)                      | -      |
+|    時間     | 種別 | テーマ                                                                                | 担当者 |
+| :---------: | :--: | :------------------------------------------------------------------------------------ | :----- |
+| 19:30~19:35 | 議論 | 挨拶                                                                                  | -      |
+| 19:55~20:15 | 議論 | [#3](https://github.com/chirimen-oh/meeting/issues/3) + pizero tutorial の件          | -      |
+| 20:15~20:35 | 議論 | [#5](https://github.com/chirimen-oh/meeting/issues/5)                                 | -      |
+| 20:35~20:45 | 議論 | [#19](https://github.com/chirimen-oh/meeting/issues/19)                               | -      |
+| 20:45~20:55 | 議論 | [#20](https://github.com/chirimen-oh/meeting/issues/20)                               | -      |
+| 20:55~21:10 | 議論 | [ Node v18.x or v20.x 対応 #121 ](https://github.com/chirimen-oh/chirimen/issues/121) | -      |
 
 ## 参加者 (alphabetical order)
 
@@ -56,6 +57,14 @@
 ### [チュートリアルサイトをコミュニティトップに差し替える #88](https://github.com/chirimen-oh/chirimen.org/issues/88)
 
 - [@dynamis さんに確認中](https://github.com/chirimen-oh/chirimen.org/issues/88#issuecomment-1691532522)
+
+### [ Node v18.x or v20.x 対応 #121 ](https://github.com/chirimen-oh/chirimen/issues/121)
+
+- 現状確認
+  - node-web-gpio
+  - node-web-iwc
+  - chirimen lite
+  - chirimen
 
 ### 確認中
 
