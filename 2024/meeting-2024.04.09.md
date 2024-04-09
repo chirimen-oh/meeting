@@ -4,74 +4,128 @@
 
 ## 開催日と場所
 
-2024 年 04 月 09 日 Zoom
+2024 年 04 月 09 日 19:30~ Zoom
 
 ## タイムスケジュール
 
 |    時間     | 種別 | テーマ                                                                                | 担当者 |
 | :---------: | :--: | :------------------------------------------------------------------------------------ | :----- |
 | 19:30~19:35 | 議論 | 挨拶                                                                                  | -      |
-| 19:55~20:15 | 議論 | [#3](https://github.com/chirimen-oh/meeting/issues/3) + pizero tutorial の件          | -      |
-| 20:15~20:35 | 議論 | [#5](https://github.com/chirimen-oh/meeting/issues/5)                                 | -      |
-| 20:35~20:45 | 議論 | [#19](https://github.com/chirimen-oh/meeting/issues/19)                               | -      |
-| 20:45~20:55 | 議論 | [#20](https://github.com/chirimen-oh/meeting/issues/20)                               | -      |
-| 20:55~21:10 | 議論 | [ Node v18.x or v20.x 対応 #121 ](https://github.com/chirimen-oh/chirimen/issues/121) | -      |
+| 19:35~20:30 | 議論 | [チュートリアルサイトをコミュニティトップに差し替える #88](https://github.com/chirimen-oh/chirimen.org/issues/88) | -      |
+| 20:30~20:35 | 議論 | [技術書典15オンライン・オフラインイベント準備 #19](https://github.com/chirimen-oh/meeting/issues/19) | -      |
+| 20:35~20:45 | 議論 | [技術書典16オンライン・オフラインイベント準備 #23](https://github.com/chirimen-oh/meeting/issues/23)                               | -      |
+| 20:45~21:00 | 議論 | [ Node v18.x or v20.x 対応 #121 ](https://github.com/chirimen-oh/chirimen/issues/121) | -      |
+| 21:00~21:30 | 議論 | イベント | -      |
+
+
 
 ## 参加者 (alphabetical order)
 
-- @dynamis
 - @kou029w
 - @satakagi
 - @sizuhiko
-- @tadfmac
-- @WhiteHawk-taka
+- @eli-j
 
 ## 議題
-
-### [#3](https://github.com/chirimen-oh/meeting/issues/3)
-
-手伝いできる方お願いします
-
-### [#5](https://github.com/chirimen-oh/meeting/issues/5)
-
-- 閉じる条件
-  - https://github.com/chirimen-oh/chirimen.org/issues/88 を終わらせる
-  - https://github.com/chirimen-oh/chirimen.org/issues/88#issuecomment-1540000885
-
-### [#16](https://github.com/chirimen-oh/meeting/issues/16)
-
-- [売上等報告](https://github.com/chirimen-oh/meeting/issues/16#issuecomment-1565487663)
--
-
-### [#19](https://github.com/chirimen-oh/meeting/issues/19)
-
-- 売上報告
-
-### [#23](https://github.com/chirimen-oh/meeting/issues/23)
-
-- 応募当選報告
-- 在庫状況の確認
-- 事前準備
-- 新刊
 
 ### [チュートリアルサイトをコミュニティトップに差し替える #88](https://github.com/chirimen-oh/chirimen.org/issues/88)
 
 - [@dynamis さんに確認中](https://github.com/chirimen-oh/chirimen.org/issues/88#issuecomment-1691532522)
+    - tutorial サイトが未達
+    - 他は移管完了
+    - Cloudflare DNS/Cloudflare Pagesに切り替え済み
+    - r.chirimen.orgはまだNetlifyのまま
 
-### [ Node v18.x or v20.x 対応 #121 ](https://github.com/chirimen-oh/chirimen/issues/121)
+- [node 版をよりアピールする#85](https://github.com/chirimen-oh/chirimen.org/issues/85)
+    - いつやるか。
+- https://github.com/chirimen-oh/meeting/issues/3#issuecomment-2044690936
+- イベントでのフィードバックの連絡先をどうするか
+    - チュートリアルは、[chirimen.org](https://github.com/chirimen-oh/chirimen.org) に issue を立てる
+    - ドライバーは、[chirimen-drivers](https://github.com/chirimen-oh/chirimen-drivers) に issue を立てる
+        - CONTRIBUTING.md を参照する
+- chirimen-drivers リンク切れ
+    - [Contributing Guidelines](https://chirimen.org/chirimen-drivers/CONTRIBUTING)
+    - [CONTRIBUTING リンク切れ対応 #297](https://github.com/chirimen-oh/chirimen-drivers/issues/297)
+- [pre-arrangement-contributions](https://github.com/chirimen-oh/pre-arrangement-contributions)
+    - コントリビュート用手順リポジトリ
+- JS GET出来ない（ipv6 接続できない問題）
+    - 塩尻会場で問題発生。
+    - 愛媛でも起きた？
+    - [Raspberry Pi で IPV6 を使う](https://qiita.com/ekzemplaro/items/6423d953ac4458719ca9)
+    - [関連スレ](https://chirimen-oh.slack.com/archives/C048CQB7C/p1707809445954419)
+    - tutorial に ipv6 問題を記載する（issue を立てる
+
+
+### [#3](https://github.com/chirimen-oh/meeting/issues/3)
+- 閉じる条件
+    - チュートリアルサイトの移管が完了次第、着手
+
+
+### [#5](https://github.com/chirimen-oh/meeting/issues/5)
+- 閉じる条件
+    - チュートリアルサイトの移管が完了次第、着手
+
+
+
+### [技術書典15オンライン・オフラインイベント準備 #19](https://github.com/chirimen-oh/meeting/issues/19)
+
+- [売上等報告](https://github.com/chirimen-oh/meeting/issues/19#issuecomment-1837069944)
+
+### [技術書典16オンライン・オフラインイベント準備 #23](https://github.com/chirimen-oh/meeting/issues/23)
+
+- 応募当選報告
+- 在庫状況の確認
+    - 100 部発注納品済み
+    - 販促で 50 部買い取り
+    - 技術書典15 20 部販売
+    - 献本10部くらい（コミュニティ5部？、イベント系5部？
+    - 2024.04.09 時点で、70 部くらい（別途確認
+    - WebDINO 内で在庫管理に関する意識合わせ
+    - 
+- 事前準備
+    - 新刊がなければ、イベントページの作業のみ
+- 新刊
+    - 見送り
+    - ネタが思いつき次第教諭
+
+
+### [ Node v20.x or v22.x 対応 #121 ](https://github.com/chirimen-oh/chirimen/issues/121)
 
 - 現状確認
   - node-web-gpio
-  - node-web-iwc
+      - v20.x 対応済み
+  - node-web-i2c
+      - v20.x 対応済み
   - chirimen lite
+      - v20.x 対応済み
+      - 2024-03-15 版イメージ
   - chirimen
+      - raspi 5 の入手次第で対応開始
+      - 2024-03-15 版イメージ
+  - v22.x 対応を考慮
 
-### 確認中
+### 確認中 => 解決
 
 - Pi Zero と M1 Mac で検証
   - Web Serial で接続後に無造作に外して、再接続して正しくつながるかどうか？
   - [M1 Mac で途中で接続を外すと認識できない現象が発生 #22 ](https://github.com/chirimen-oh/PiZeroWebSerialConsole/issues/22)
   - 2022-12-12-chirimen-lite 版
+  - => issue を close
+
+- @sizuhiko さんに検証機用 Pi Zeroセットを送る
+    - 誰か検証できなかったら、送る
+- @gurezo 自宅環境確認
+
+### イベント
+
+- メーカーズチャレンジは、 2024 も継続します。
+- オフラインイベントも 2024.06 末までなら対応可能
+- Maker Faire 2024 の参加について
+    - 2024.04.19 から募集開始
+    - コミュニティで参加するか、要相談
+    - イベントはやみくもに出ない（リソースの問題
+- もくもく会を定期的に開催する案もある
+
 
 ### 次回 MTG
 
