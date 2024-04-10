@@ -154,6 +154,12 @@
 - クラウドサービスを使うようなサンプルが機械学習などで出てくるかもしれないが、中立性や透明性、持続可能性
 - クラウドサービスの終了や仕様変更でサンプルが動かなくなるリスクが結構高そう）をどう考えるか？
 
+###### issue
+
+- [ クラウドサービスを使う可能性があるサンプルについて #24 ](https://github.com/chirimen-oh/meeting/issues/24)
+- [ デバイスドライバの差異（Polyfill 版と Node 版）の解決 #25 ](https://github.com/chirimen-oh/meeting/issues/25)
+- [CONTRIBUTING の整理 #26](https://github.com/chirimen-oh/meeting/issues/26)
+
 ### 次回 MTG
 
 - TBD
