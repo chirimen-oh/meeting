@@ -16,13 +16,15 @@
 | 20:35~20:45 | 議論 | [技術書典 16 オンライン・オフラインイベント準備 #23](https://github.com/chirimen-oh/meeting/issues/23)            | -      |
 | 20:45~21:00 | 議論 | [ Node v18.x or v20.x 対応 #121 ](https://github.com/chirimen-oh/chirimen/issues/121)                             | -      |
 | 21:00~21:30 | 議論 | イベント                                                                                                          | -      |
+| 2024.04.10  | 議論 | @satakagi 共有・フィードバック                                                                                    | -      |
 
 ## 参加者 (alphabetical order)
 
+- @Aritaka-hub
+- @eli-j
 - @kou029w
 - @satakagi
 - @sizuhiko
-- @eli-j
 
 ## 議題
 
