@@ -1,5 +1,8 @@
 # CHIRIMEN meeting 2024.08.07
 
+[![hackmd-github-sync-badge](https://hackmd.io/MSNWDYTpR8yFyOWZwKn5IQ/badge)](https://hackmd.io/MSNWDYTpR8yFyOWZwKn5IQ)
+
+
 [![hackmd-github-sync-badge](https://hackmd.io/-O2Gu3BbQhOz8nF-AOk4Ng/badge)](https://hackmd.io/-O2Gu3BbQhOz8nF-AOk4Ng)
 
 ## 開催日と場所
