@@ -2,9 +2,6 @@
 
 [![hackmd-github-sync-badge](https://hackmd.io/MSNWDYTpR8yFyOWZwKn5IQ/badge)](https://hackmd.io/MSNWDYTpR8yFyOWZwKn5IQ)
 
-
-[![hackmd-github-sync-badge](https://hackmd.io/-O2Gu3BbQhOz8nF-AOk4Ng/badge)](https://hackmd.io/-O2Gu3BbQhOz8nF-AOk4Ng)
-
 ## 開催日と場所
 
 2024 年 04 月 09 日 19:30~ Zoom
@@ -14,12 +11,13 @@
 |    時間     | 種別 | テーマ                                                                                                            | 担当者 |
 | :---------: | :--: | :---------------------------------------------------------------------------------------------------------------- | :----- |
 | 19:30~19:35 | 議論 | 挨拶                                                                                                              | -      |
-| 19:35~19:45 | 議論 | [技術書典 16 オンライン・オフラインイベント準備 #23](https://github.com/chirimen-oh/meeting/issues/23)            | -      |
-| 19:45~20:00 | 議論 | [ Node v20.x or v22.x 対応 #121 ](https://github.com/chirimen-oh/chirimen/issues/121)                             | -      |
-| 20:00~20:30 | 議論 | [チュートリアルサイトをコミュニティトップに差し替える #88](https://github.com/chirimen-oh/chirimen.org/issues/88) | -      |
-| 20:30~21:45 | 議論 | [ クラウドサービスを使う可能性があるサンプルについて #24 ](https://github.com/chirimen-oh/meeting/issues/24)      | -      |
-| 20:45~21:00 | 議論 | [ デバイスドライバの差異（Polyfill 版と Node 版）の解決 #25 ](https://github.com/chirimen-oh/meeting/issues/25)   | -      |
-| 21:00~21:30 | 議論 | [CONTRIBUTING の整理 #26](https://github.com/chirimen-oh/meeting/issues/26)                                       | -      |
+| 19:35~19:40 | 議論 | [技術書典 16 オンライン・オフラインイベント準備 #23](https://github.com/chirimen-oh/meeting/issues/23)            | -      |
+| 19:40~19:50 | 議論 | [ Node v20.x or v22.x 対応 #121 ](https://github.com/chirimen-oh/chirimen/issues/121)                             | -      |
+| 19:50~20:20 | 議論 | [チュートリアルサイトをコミュニティトップに差し替える #88](https://github.com/chirimen-oh/chirimen.org/issues/88) | -      |
+| 20:20~20:35 | 議論 | [クラウドサービスを使う可能性があるサンプルについて #24](https://github.com/chirimen-oh/meeting/issues/24)        | -      |
+| 20:35~20:50 | 議論 | [デバイスドライバの差異（Polyfill 版と Node 版）の解決 #25](https://github.com/chirimen-oh/meeting/issues/25)     | -      |
+| 20:50~21:10 | 議論 | [CONTRIBUTING の整理 #26](https://github.com/chirimen-oh/meeting/issues/26)                                       | -      |
+| 21:10~21:30 | 議論 | [CHIRIMEN コミュニティの今後の活動について #30](https://github.com/chirimen-oh/meeting/issues/30)                 | -      |
 | 21:30~21:40 | 議論 | イベント                                                                                                          | -      |
 | 21:40~21:50 | 議論 | 共有・フィードバック                                                                                              | -      |
 
@@ -30,8 +28,17 @@
 - @kou029w
 - @satakagi
 - @sizuhiko
+- @tadfmac
 
 ## 議題
+
+### [技術書典 16 オンライン・オフラインイベント準備 #23](https://github.com/chirimen-oh/meeting/issues/23)
+
+- [売上等報告](https://github.com/chirimen-oh/meeting/issues/23#issuecomment-2143704732)
+
+### [ Node v20.x or v22.x 対応 #121 ](https://github.com/chirimen-oh/chirimen/issues/121)
+
+- 現状確認
 
 ### [チュートリアルサイトをコミュニティトップに差し替える #88](https://github.com/chirimen-oh/chirimen.org/issues/88)
 
@@ -72,13 +79,9 @@
 
 </details>
 
-### [技術書典 16 オンライン・オフラインイベント準備 #23](https://github.com/chirimen-oh/meeting/issues/23)
+### [CHIRIMEN コミュニティの今後の活動について #30](https://github.com/chirimen-oh/meeting/issues/30)
 
-- [売上等報告](https://github.com/chirimen-oh/meeting/issues/23#issuecomment-2143704732)
-
-### [ Node v20.x or v22.x 対応 #121 ](https://github.com/chirimen-oh/chirimen/issues/121)
-
-- 現状確認
+- TBD
 
 ### イベント
 
@@ -118,4 +121,4 @@
 
 #### 今回
 
-- https://hackmd.io/CsJ0RlSCTLmEfZKHx4y9WA
+- https://hackmd.io/@HjCTpd66RpCNd7l1dtr5Xw/SJQz4ztYA/edit
