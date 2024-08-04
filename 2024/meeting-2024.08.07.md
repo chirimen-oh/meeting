@@ -86,6 +86,7 @@
 ### イベント
 
 - 報告：[Ogaki Mini Maker Faire 2024](https://makezine.jp/blog/2024/03/ommf2024_announce.html) に当選しました。
+- 相談：[CHIRIMEN OSS 化 10 周年記念イベント準備 #31](https://github.com/chirimen-oh/meeting/issues/31)
 
 ### 共有・フィードバック
 
