@@ -4,7 +4,7 @@
 
 ## 開催日と場所
 
-2024 年 04 月 09 日 19:30~ Zoom
+2024 年 08 月 07 日 19:30~ Zoom
 
 ## タイムスケジュール
 
@@ -35,16 +35,26 @@
 ### [技術書典 16 オンライン・オフラインイベント準備 #23](https://github.com/chirimen-oh/meeting/issues/23)
 
 - [売上等報告](https://github.com/chirimen-oh/meeting/issues/23#issuecomment-2143704732)
+- ステッカー残200枚くらいなので、要追加印刷をする
+- 新バージョンのチラシも同様
+- @Aritaka-hub
 
 ### [ Node v20.x or v22.x 対応 #121 ](https://github.com/chirimen-oh/chirimen/issues/121)
 
 - 現状確認
+- CHIRIMEN Lite は、2024-07-04のイメージ版で作成したい @kou029w
+    - https://nodejs.org/en/blog/release/v22.6.0#2024-08-06-version-2260-current-rafaelgss
+    - TypeScript 最新版になると実装しやすくなると（v24.x で、本格的に議論しましょう
+    - 型定義が充実できたらいいな（下記イメージ
+        - @type/node-web-gpio
+        - @type/node-web-i2c
 
 ### [チュートリアルサイトをコミュニティトップに差し替える #88](https://github.com/chirimen-oh/chirimen.org/issues/88)
 
 <details>
 
 <summary>前回メモ</summary>
+    
 - [@dynamis さんに確認中](https://github.com/chirimen-oh/chirimen.org/issues/88#issuecomment-1691532522)
 
 - tutorial サイトが未達
@@ -81,12 +91,53 @@
 
 ### [CHIRIMEN コミュニティの今後の活動について #30](https://github.com/chirimen-oh/meeting/issues/30)
 
-- TBD
+#### what is chirimen
+- ユースケースを再認識したい。@tadfmac
+- 1 ウェブアプリケーションからデバイス・ハードを動かしたい @sizuhiko
+    - 1 つのURLで様々なアプリケーションでデバイスが動かせる
+- JS の API の実装のひとつ @kou029w
+    - 選択肢は多い方が良い
+- ユースケースについて @Aritaka-hub
+    - 先生が専門学校で教えている
+    - 学校で、広がりつつある。
+    - Pi Zero で、学校で採用しやすくなっている
+- 素の javascript 、標準 javascript で、使える事に意味がある @satakagi
+    - 標準からの差分が少ないところが利点
+    - ライブラリ的な使い方ができる
+- ２つ視点がある @eli-j
+    - 参加する人
+        - コミュニティとしての純粋な活動が減っているかも？
+        - エンジニアが楽しい事を企画できないか？
+    - Web DINO の視点
+        - 教育の現場では重宝される
+- Q：メーカーズチャレンジ以外で、chirimen を使われているのか？ @tadfmac
+    - ユースケースを再定義してみては？ @tadfmac
+    - プロトタイピングとしては、良い
+    - どこに重点をおくか？
+        - Web, JavaScript ?
+    - どんなコミュニティ？
+        - Web のコミュニティ
+    - ブラウザの UI で、デバイスを動かしたい
+    - Pi Zero版は、Node.js で使える事に利点がある
+- ネクストアクション？
+    - サポート・メンテナンス対象
+        - デバイスドライバー
+        - GPIO/I2C
+    - Polyfill と Node 版の差異ををどうなくす？
+        - 別テーマ？(issue, discussion)で
+- 定義？
+    - Web の技術で、ハードウェアを動かす
+        - Web の標準技術を使う
+        - JavaScript を使う
+    - 上記の技術を使って、プロトタイピング環境を提供する
+    - 
+
 
 ### イベント
 
 - 報告：[Ogaki Mini Maker Faire 2024](https://makezine.jp/blog/2024/03/ommf2024_announce.html) に当選しました。
 - 相談：[CHIRIMEN OSS 化 10 周年記念イベント準備 #31](https://github.com/chirimen-oh/meeting/issues/31)
+- 共有：技術書典17 エントリーしました。
 
 ### 共有・フィードバック
 
