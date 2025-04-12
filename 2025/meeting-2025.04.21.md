@@ -1,10 +1,8 @@
-# CHIRIMEN meeting 2025.04.xx
-
-[![hackmd-github-sync-badge](https://hackmd.io/MSNWDYTpR8yFyOWZwKn5IQ/badge)](https://hackmd.io/MSNWDYTpR8yFyOWZwKn5IQ)
+# CHIRIMEN meeting 2025.04.21
 
 ## 開催日と場所
 
-2025 年 04 月 xx 日 19:30~ Zoom
+2025 年 04 月 21 日 19:30~ Zoom
 
 ## タイムスケジュール
 
@@ -23,11 +21,11 @@
 
 ## 参加者 (alphabetical order)
 
+- @sizuhiko
+- @tadfmac
 - @eli-j
 - @kou029w
 - @satakagi
-- @sizuhiko
-- @tadfmac
 
 ## 議題
 
