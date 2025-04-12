@@ -2,7 +2,6 @@
 
 [![hackmd-github-sync-badge](https://hackmd.io/yqToqi6dR5atVA6YRtvHxg/badge)](https://hackmd.io/yqToqi6dR5atVA6YRtvHxg)
 
-
 ## 開催日と場所
 
 2025 年 04 月 21 日 19:30~ Zoom
@@ -140,8 +139,8 @@
 
 #### 前回
 
-- https://hackmd.io/CsJ0RlSCTLmEfZKHx4y9WA
+- https://hackmd.io/@HjCTpd66RpCNd7l1dtr5Xw/SJQz4ztYA/edit
 
 #### 今回
 
-- https://hackmd.io/@HjCTpd66RpCNd7l1dtr5Xw/SJQz4ztYA/edit
+- https://hackmd.io/yqToqi6dR5atVA6YRtvHxg
