@@ -1,5 +1,8 @@
 # CHIRIMEN meeting 2025.04.21
 
+[![hackmd-github-sync-badge](https://hackmd.io/yqToqi6dR5atVA6YRtvHxg/badge)](https://hackmd.io/yqToqi6dR5atVA6YRtvHxg)
+
+
 ## 開催日と場所
 
 2025 年 04 月 21 日 19:30~ Zoom
