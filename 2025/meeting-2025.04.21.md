@@ -71,10 +71,6 @@
 
 </details>
 
-### [チュートリアルサイトをコミュニティトップに差し替える #88](https://github.com/chirimen-oh/chirimen.org/issues/88)
-
-- TBD
-
 ### [クラウドサービスを使う可能性があるサンプルについて #34](https://github.com/orgs/chirimen-oh/discussions/34)
 
 - TBD
