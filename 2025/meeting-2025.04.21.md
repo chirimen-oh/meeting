@@ -83,10 +83,6 @@
 
 - TBD
 
-### [CONTRIBUTING の整理 #26](https://github.com/chirimen-oh/meeting/issues/26)
-
-- TBD
-
 ### [技術書典 17 オンライン・オフラインイベント #38](https://github.com/chirimen-oh/meeting/issues/38) 報告
 
 - [売上等報告](https://github.com/chirimen-oh/meeting/issues/38#issuecomment-2543519865)
@@ -104,6 +100,8 @@
 ### イベント
 
 - 相談：[CHIRIMEN OSS 化 10 周年記念イベント準備 #31](https://github.com/chirimen-oh/meeting/issues/31)
+- [技術書同人誌博覧会](https://gishohaku.connpass.com/event/352601/)の参加の可否
+    - 出展料が必要（Max 4,000円）
 
 ### 共有・フィードバック
 
