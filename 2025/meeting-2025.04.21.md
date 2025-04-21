@@ -24,9 +24,8 @@
 
 - @sizuhiko
 - @tadfmac
-- @eli-j
-- @kou029w
 - @satakagi
+- @gurezo
 
 ## 議題
 
