@@ -15,10 +15,9 @@
 | 20:05~20:20 | 議論 | [クラウドサービスを使う可能性があるサンプルについて #34](https://github.com/orgs/chirimen-oh/discussions/34)      | -      |
 | 20:20~20:35 | 議論 | [デバイスドライバの差異（Polyfill 版と Node 版）の解決 #36](https://github.com/orgs/chirimen-oh/discussions/36)   | -      |
 | 20:35~20:50 | 議論 | [Slack から Discord の移行について #41](https://github.com/orgs/chirimen-oh/discussions/41)                       | -      |
-| 20:50~21:05 | 議論 | [CONTRIBUTING の整理 #26](https://github.com/chirimen-oh/meeting/issues/26)                                       | -      |
-| 21:05~21:10 | 議論 | [技術書典 17 オンライン・オフラインイベント準備 #38](https://github.com/chirimen-oh/meeting/issues/38)            | -      |
-| 21:10~21:25 | 議論 | [技術書典 18 オンライン・オフラインイベント準備 #42](https://github.com/chirimen-oh/meeting/issues/42)            | -      |
-| 21:25~21:30 | 議論 | イベント                                                                                                          | -      |
+| 20:50~21:05 | 議論 | [技術書典 17 オンライン・オフラインイベント準備 #38](https://github.com/chirimen-oh/meeting/issues/38)            | -      |
+| 21:05~21:20 | 議論 | [技術書典 18 オンライン・オフラインイベント準備 #42](https://github.com/chirimen-oh/meeting/issues/42)            | -      |
+| 21:20~21:30 | 議論 | イベント                                                                                                          | -      |
 | 21:30~21:40 | 議論 | 共有・フィードバック                                                                                              | -      |
 
 ## 参加者 (alphabetical order)
@@ -101,7 +100,7 @@
 
 - 相談：[CHIRIMEN OSS 化 10 周年記念イベント準備 #31](https://github.com/chirimen-oh/meeting/issues/31)
 - [技術書同人誌博覧会](https://gishohaku.connpass.com/event/352601/)の参加の可否
-    - 出展料が必要（Max 4,000円）
+  - 出展料が必要（Max 4,000 円）
 
 ### 共有・フィードバック
 
