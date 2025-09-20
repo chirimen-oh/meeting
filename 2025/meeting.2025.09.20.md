@@ -148,7 +148,7 @@ https://github.com/orgs/chirimen-oh/discussions/70
 - コントリビュートのドキュメント整備
   - Chirimen ドライバーの追加する人対象のドキュメントがない
     - package-lock.json(CI) の説明
-- slack 招待リンクの移行（sizuhiko さん）
+- slack 招待リンクの移行（ @sizuhiko ）
   - 残り 5 箇所
   - https://join.slack.com/t/chirimen-oh/shared_invite/zt-3dvgmnu1x-LxCW09XdSXYGoLVKfnXZww
   - done
