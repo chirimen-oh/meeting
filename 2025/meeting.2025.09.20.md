@@ -131,8 +131,9 @@ https://github.com/orgs/chirimen-oh/discussions/70
 
 ## Slack Channel のガーデニングについて
 
-- check したチャンネルをアーカイブ
+- `done` check したチャンネルをアーカイブ
   - @gurezo
+    - [Slack Channel をアーカイブ #74](https://github.com/chirimen-oh/meeting/issues/74)
 
 ## CHIRIMEN OSS 化 10 周年記念イベント
 
@@ -148,12 +149,12 @@ https://github.com/orgs/chirimen-oh/discussions/70
 - コントリビュートのドキュメント整備
   - Chirimen ドライバーの追加する人対象のドキュメントがない
     - package-lock.json(CI) の説明
-- slack 招待リンクの移行（ @sizuhiko ）
+- `done` slack 招待リンクの移行（ @sizuhiko ）
   - 残り 5 箇所
   - https://join.slack.com/t/chirimen-oh/shared_invite/zt-3dvgmnu1x-LxCW09XdSXYGoLVKfnXZww
-  - done
+  - @sizuhiko
     - [ Slack の参加フォームを招待リンクに修正 #154 ](https://github.com/chirimen-oh/chirimen.org/pull/154)
-- ## [チュートリアルサイトをコミュニティトップに差し替える #88](https://github.com/chirimen-oh/chirimen.org/issues/88)
+- `done` [チュートリアルサイトをコミュニティトップに差し替える #88](https://github.com/chirimen-oh/chirimen.org/issues/88)
   - @kou029w
 
 ### HackMD
