@@ -65,4 +65,4 @@ https://github.com/orgs/chirimen-oh/discussions/70
 
 #### 今回
 
-- https://hackmd.io/@HjCTpd66RpCNd7l1dtr5Xw/SJxZgToojex
+- https://hackmd.io/@HjCTpd66RpCNd7l1dtr5Xw/H1SwZO8B-x/edit
