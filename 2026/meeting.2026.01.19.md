@@ -1,8 +1,8 @@
-# CHIRIMEN meeting 2025.09.20 meeting vol 40
+# CHIRIMEN meeting 2026.01.19 meeting vol 40
 
 ## 開催日と場所
 
-2025 年 09 月 20 日 13:30~ Web DINO
+2026 年 01 月 19 日 19:30~ オンライン
 
 ## タイムスケジュール
 
