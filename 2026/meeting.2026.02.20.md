@@ -1,5 +1,8 @@
 # CHIRIMEN meeting 2026.02.20 meeting vol 41
 
+[![hackmd-github-sync-badge](https://hackmd.io/GoEDauWbRzuTL6AnsLEZsA/badge)](https://hackmd.io/GoEDauWbRzuTL6AnsLEZsA)
+
+
 ## 開催日と場所
 
 2026 年 02 月 20 日 19:30~ オンライン
