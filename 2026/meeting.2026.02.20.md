@@ -2,7 +2,6 @@
 
 [![hackmd-github-sync-badge](https://hackmd.io/GoEDauWbRzuTL6AnsLEZsA/badge)](https://hackmd.io/GoEDauWbRzuTL6AnsLEZsA)
 
-
 ## 開催日と場所
 
 2026 年 02 月 20 日 19:30~ オンライン
@@ -37,6 +36,8 @@ https://github.com/orgs/chirimen-oh/discussions/70
 
 - https://github.com/chirimen-oh/examples
 - https://github.com/chirimen-oh/examples/pull/2
+- デバイス一覧 demo サイト紹介
+  - https://chirimen-device-dashboard.web.app/
 
 ### [技術書典 20 オンライン・オフラインイベント準備 #90](https://github.com/orgs/chirimen-oh/discussions/90)
 
