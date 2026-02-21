@@ -42,7 +42,7 @@ https://github.com/orgs/chirimen-oh/discussions/70
       - 何かあれば、issue を立てもらう
     - 新規登録・編集機能は保留
 - 追加するデバイスの置き場
-  - ****[chirimen-drivers](https://github.com/chirimen-oh/chirimen-drivers) を基準する****
+  - \***\*[chirimen-drivers](https://github.com/chirimen-oh/chirimen-drivers) を基準する\*\***
   - [chirimen-drivers](https://github.com/chirimen-oh/chirimen-drivers)
     - chirimen-drivers/microbit-examples 非推奨（サポート無し）
     - chirimen-drivers/node-examples 非推奨（サポート無し）
@@ -69,7 +69,7 @@ https://github.com/orgs/chirimen-oh/discussions/70
 - (ご参考までに) WebDINO Japan オフィスだと、こんなイメージ ![](https://i.gyazo.com/cfbdc4e6514358f72218bd1e8d102675.webp)
   - いつでもOK @webdino
 - 日程の調整さん出す => @gurezo, satoruさん (+ @gurezo さんが呼びたい必須の人) OKのところに決める
-  - GWの前後あたり
+  - ~~GWの前後あたり~~ 2026.05.09 13:30~ 決定
   - 5/10 NG 5/31 NG @tadfmac san
 
 ### [ちりめん対応でばいすれしぴ集 第二版制作 #105](https://github.com/orgs/chirimen-oh/discussions/105)
@@ -115,12 +115,12 @@ https://tldv.io/app/meetings/69983731da8bd7001315933a?origin=meeting-delivery-em
 
 ### 📋 アクション・アイテム
 
-| 担当者   | タスク                                                                                    | 期限   |
-| :------- | :---------------------------------------------------------------------------------------- | :----- |
-| @gurezo  | @satakagi にゴールデンウィーク中の都合を確認し、10周年イベント日程を決定                  | 近日中 |
-| @gurezo  | デバイスリストツールのモックデータをCSVから整理し、削除機能を削除したバージョンをリリース | 近日中 |
-| @gurezo  | CHIRIMEN Driversリポジトリに画像ディレクトリを作成し、ガイドラインを記載                  | 近日中 |
-| @tadfmac | CHIRIMEN Driversのリードミーに非推奨ステータスを記載するissueを立てる                     | 近日中 |
-| @gurezo  | 技術書店（4月11-26日）への出展申し込みを完了し、売り子募集を開始                          | 近日中 |
-| @gurezo  | 過去の主要メンバーにFacebookで10周年イベント参加を呼びかけ                                | 近日中 |
-| @tadfmac | 関口さんへの10周年イベント参加呼びかけ                                                    | 近日中 |
+| 担当者   | タスク                                                                                    | 期限             |
+| :------- | :---------------------------------------------------------------------------------------- | :--------------- |
+| @gurezo  | @satakagi にゴールデンウィーク中の都合を確認し、10周年イベント日程を決定                  | `05/09(土)` 決定 |
+| @gurezo  | デバイスリストツールのモックデータをCSVから整理し、削除機能を削除したバージョンをリリース | 近日中           |
+| @gurezo  | CHIRIMEN Driversリポジトリに画像ディレクトリを作成し、ガイドラインを記載                  | `02/20 done`     |
+| @tadfmac | CHIRIMEN Driversのリードミーに非推奨ステータスを記載するissueを立てる                     | 近日中           |
+| @gurezo  | 技術書店（4月11-26日）への出展申し込みを完了し、売り子募集を開始                          | 近日中           |
+| @gurezo  | 過去の主要メンバーにFacebookで10周年イベント参加を呼びかけ                                | 近日中           |
+| @tadfmac | 関口さんへの10周年イベント参加呼びかけ                                                    | 近日中           |
