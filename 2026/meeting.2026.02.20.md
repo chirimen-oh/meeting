@@ -47,6 +47,11 @@ https://github.com/orgs/chirimen-oh/discussions/70
     - chirimen-drivers/microbit-examples 非推奨（サポート無し）
     - chirimen-drivers/node-examples 非推奨（サポート無し）
     - chirimen-drivers/esm-examples
+      - => 最新は、chirimen`.org/pizero/src`/esm-examples
+      - この場所にしている制約あり
+        - https://chirimen.org/pizero/chapter_8
+          - => https://chirimen.org/pizero/esm-examples/
+            - => 例： hello-real-world 場合 https://chirimen.org/pizero/esm-examples/hello-real-world/main.js
     - chirimen-drivers/raspi-examples 非推奨（サポート無し）
     - chirimen-drivers/devices/\*jpg|png => issue を立てる @gurezo
       - 画像に関する事（ファイルサイス・画像サイズ）を README に記載する
