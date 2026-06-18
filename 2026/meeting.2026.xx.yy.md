@@ -48,29 +48,29 @@
 - @hiyohiyo
 -->
 
-### 議題 1: PiZeroSerialConsole
+## 議題 1: PiZeroSerialConsole
 
-#### 背景
+### 背景
 
 PiZeroSerialConsole について、現状課題の整理と改善方針を議論したいという開催要請があった。
 
-#### 今回話したいこと
+### 今回話したいこと
 
-##### 1. 現状課題の整理
+#### 1. 現状課題の整理
 
 - 現在の実装について、どのような課題があると考えているか
 - どの部分を改善したいのか
 
-##### 2. 改善方針
+#### 2. 改善方針
 
 - 課題に対して、どのような方向性で改善するのがよいか
 - 既存資産との連続性や移行性も含めて考えたい
 
-##### 3. 保守体制・実装方針
+#### 3. 保守体制・実装方針
 
 - コミュニティとして長期的に保守していくために、どのような体制・技術選択が適切か
 
-#### 参考リンク
+### 参考リンク
 
 - 現行実装
   - https://chirimen.org/PiZeroWebSerialConsole/PiZeroWebSerialConsole.html
@@ -78,25 +78,25 @@ PiZeroSerialConsole について、現状課題の整理と改善方針を議論
 - 新規実装
   - https://github.com/gurezo/chirimen-lite-console
 
-#### この議題で決めたいこと
+### この議題で決めたいこと
 
 - PiZeroSerialConsole の主な課題認識
 - 次に深掘りする改善対象
 - chirimen-lite-console を議論・検証対象として扱うか
 - 次回までに確認すること・作業すること
 
-### 議題 2: Examples / Device List
+## 議題 2: Examples / Device List
 
-#### 背景
+### 背景
 
 [example 用新規リポジトリ作成 #73](https://github.com/orgs/chirimen-oh/discussions/73)、[デバイスリストのカラム削除での影響調査 #76](https://github.com/orgs/chirimen-oh/discussions/76) などで議論はあるが、Examples / Device List を今後どう位置付けるかは未整理。
 まずは Examples の位置付けから議論し、Device List との役割分担を確認する。
 
-#### 今回話したいこと
+### 今回話したいこと
 
-##### 1. 現在進められている改善案の方向性確認
+#### 1. 現在進められている改善案の方向性確認
 
-##### 2. Examples と Device List の役割整理
+#### 2. Examples と Device List の役割整理
 
 - Examples（ユースケース軸）
 - Device List（デバイス軸）
@@ -107,15 +107,15 @@ PiZeroSerialConsole について、現状課題の整理と改善方針を議論
 | Examples    | ユースケース軸 | 何をしたいか         |
 | Device List | デバイス軸     | どのデバイスを使うか |
 
-##### 3. ユースケース軸とデバイス軸の両立方法
+#### 3. ユースケース軸とデバイス軸の両立方法
 
 - 学習者や利用者にとってどのような導線が望ましいか
 
-##### 4. データ構造やメタデータの扱い（次回以降）
+#### 4. データ構造やメタデータの扱い（次回以降）
 
 - 今後の拡張や保守も見据えた整理
 
-#### 参考リンク
+### 参考リンク
 
 - コミュニティ議論
   - [example 用新規リポジトリ作成 #73](https://github.com/orgs/chirimen-oh/discussions/73)
@@ -131,7 +131,7 @@ PiZeroSerialConsole について、現状課題の整理と改善方針を議論
   - https://chirimen-device-dashboard.web.app/
   - https://github.com/gurezo/chirimen-example-catalog（試作 → 上記に統合、アーカイブ済み）
 
-#### この議題で決めたいこと
+### この議題で決めたいこと
 
 - Examples の主な役割
 - Device List の主な役割
@@ -147,11 +147,11 @@ PiZeroSerialConsole について、現状課題の整理と改善方針を議論
 - chirimen.org / chirimen-drivers / device-dashboard（個人試作）の責務分担
 - CI によるデータ検証・生成・公開フロー
 
-### その他・継続議題
+## その他・継続議題
 
 時間があれば触れる。詳細は前回までの議事を参照。
 
-#### 技術書典 21 について
+### 技術書典 21 について
 
 - 次回のエントリーについて
 
@@ -164,10 +164,10 @@ PiZeroSerialConsole について、現状課題の整理と改善方針を議論
 
 ### HackMD
 
-#### 前回
+### 前回
 
 - https://hackmd.io/@HjCTpd66RpCNd7l1dtr5Xw/SJN-kUoPbg/edit
 
-#### 今回
+### 今回
 
 - （未作成）
