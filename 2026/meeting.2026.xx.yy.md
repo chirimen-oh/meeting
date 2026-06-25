@@ -77,6 +77,8 @@ PiZeroSerialConsole について、現状課題の整理と改善方針を議論
   - https://github.com/chirimen-oh/PiZeroWebSerialConsole
 - 新規実装
   - https://github.com/gurezo/chirimen-lite-console
+- 改良実装
+  - https://github.com/satakagi/PiZeroWebSerialConsole
 
 ### この議題で決めたいこと
 
@@ -171,3 +173,11 @@ PiZeroSerialConsole について、現状課題の整理と改善方針を議論
 ### 今回
 
 - （未作成）
+
+## 議題 3: PiZeroが市場に無くて困った課題？ ( @tadfmac )
+
+- Raspberry Pi 3 Model A+ Chirimen Liteでつかえるの？
+  - https://forums.raspberrypi.com/viewtopic.php?t=228267
+- CHIRIMEN環境入りOSの配布の課題
+  - [dockerつくる案](https://github.com/gurezo/chirimen-raspi-docker/wiki/01.Development-Concept)
+  - インストーラ (PiZeroSerialConsoleのSetup CHIRIMENボタン：　[該当コード](https://github.com/chirimen-oh/PiZeroWebSerialConsole/blob/e6f40e0d8b909c16df01dc7d21ca8a29662e648a/chirimenPanel.html#L27))
