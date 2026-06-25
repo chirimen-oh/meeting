@@ -176,7 +176,7 @@ PiZeroSerialConsole について、現状課題の整理と改善方針を議論
 
 - （未作成）
 
-## 議題 3: PiZeroが市場に無くて困った課題？ ( @tadfmac )
+### PiZeroが市場に無くて困った課題？ ( @tadfmac )
 
 - Raspberry Pi 3 Model A+ Chirimen Liteでつかえるの？
   - https://forums.raspberrypi.com/viewtopic.php?t=228267
