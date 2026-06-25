@@ -179,6 +179,7 @@ PiZeroSerialConsole について、現状課題の整理と改善方針を議論
 
 - Raspberry Pi 3 Model A+ Chirimen Liteでつかえるの？
   - https://forums.raspberrypi.com/viewtopic.php?t=228267
+  - https://chatgpt.com/share/6a3a81b6-6858-83e8-83af-356ef63da953
 - CHIRIMEN環境入りOSの配布の課題
   - [dockerつくる案](https://github.com/gurezo/chirimen-raspi-docker/wiki/01.Development-Concept)
   - インストーラ (PiZeroSerialConsoleのSetup CHIRIMENボタン：　[該当コード](https://github.com/chirimen-oh/PiZeroWebSerialConsole/blob/e6f40e0d8b909c16df01dc7d21ca8a29662e648a/chirimenPanel.html#L27))
