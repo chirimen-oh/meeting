@@ -79,7 +79,7 @@ PiZeroSerialConsole について、現状課題の整理と改善方針を議論
   - https://github.com/gurezo/chirimen-lite-console
 - 改良実装
   - https://github.com/satakagi/PiZeroWebSerialConsole
-  - [Note](https://github.com/satakagi/PiZeroWebSerialConsole/blob/main/refactoringNote.md)
+  - [Note](https://github.com/satakagi/PiZeroWebSerialConsole/blob/main/refactoringNote.md) , [Pages](https://satakagi.github.io/PiZeroWebSerialConsole/)
 
 ### この議題で決めたいこと
 
