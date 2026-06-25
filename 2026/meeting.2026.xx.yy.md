@@ -102,12 +102,16 @@
 
 大きくは、以下の観点で整理したい。
 
+- **利用者導線**
+  - 利用者が Pi Zero / CHIRIMEN 環境を使い始めるまでの流れをどう整理するか
+  - 既存の PiZeroSerialConsole の導線を維持するのか、見直すのか
 - 現行実装
   - https://chirimen.org/PiZeroWebSerialConsole/PiZeroWebSerialConsole.html
   - https://github.com/chirimen-oh/PiZeroWebSerialConsole
 - 改良実装
   - https://github.com/satakagi/PiZeroWebSerialConsole
-  - [Note](https://github.com/satakagi/PiZeroWebSerialConsole/blob/main/refactoringNote.md) , [Pages](https://satakagi.github.io/PiZeroWebSerialConsole/)
+  - [Note](https://github.com/satakagi/PiZeroWebSerialConsole/blob/main/refactoringNote.md)
+  - [Pages](https://satakagi.github.io/PiZeroWebSerialConsole/)
 - 個人開発
   - https://github.com/gurezo/chirimen-lite-console
 
@@ -313,6 +317,9 @@ Device List は、Examples と対になる **デバイス軸の導線**として
 - Examples の主な役割
 - Device List の主な役割
 - ユースケース軸とデバイス軸の両立方法
+- Device List は公開済みであり、Examples 試作内容は統合済み
+- CSV / Google スプレッドシートを正本にする運用懸念をどう扱うか
+- 関連 Discussion (#70 / #76) を踏まえた次回論点の整理
 - 次回以降にデータ構造・メタデータを議論するか
 
 ## 今回決めないこと
@@ -360,10 +367,6 @@ Device List は、Examples と対になる **デバイス軸の導線**として
 
 - https://github.com/chirimen-oh/PiZeroWebSerialConsole
 - https://github.com/gurezo/chirimen-lite-console
-
-- 次回のエントリーについて
-  - CHIRIMEN コミュニティとしては、オンラインのみ申し込む想定
-
 - `gurezo/chirimen-lite-console` は、PiZeroSerialConsole 周辺の再整理・再実装案として実装中
 - 議論の中心は個別実装ではなく、PiZeroSerialConsole 周辺を今後どう保守・改善するかに置く
 
@@ -372,14 +375,23 @@ Device List は、Examples と対になる **デバイス軸の導線**として
 - https://github.com/orgs/chirimen-oh/discussions/73
 - https://github.com/gurezo/chirimen-example-catalog
 
-参考情報:
+#### 参考情報:
 
 - `gurezo/chirimen-example-catalog` は試作後、Device List 側に統合
 - #73 では Examples の位置付けについて十分に議論が進んでいない認識
 
 ### Device List
 
-- （未作成）
+- https://github.com/gurezo/chirimen-device-dashboard
+- https://chirimen-device-dashboard.web.app/
+
+#### 参考情報:
+
+- Device List は公開済み
+- Examples の試作内容は Device List 側に統合済み
+- CSV / Google スプレッドシートを正本にする運用には懸念がある
+- https://github.com/orgs/chirimen-oh/discussions/70
+- https://github.com/orgs/chirimen-oh/discussions/76
 
 ### PiZeroが市場に無くて困った課題？ ( @tadfmac )
 
@@ -389,3 +401,7 @@ Device List は、Examples と対になる **デバイス軸の導線**として
 - CHIRIMEN環境入りOSの配布の課題
   - [dockerつくる案](https://github.com/gurezo/chirimen-raspi-docker/wiki/01.Development-Concept)
   - インストーラ (PiZeroSerialConsoleのSetup CHIRIMENボタン：　[該当コード](https://github.com/chirimen-oh/PiZeroWebSerialConsole/blob/e6f40e0d8b909c16df01dc7d21ca8a29662e648a/chirimenPanel.html#L27))
+
+### 技術書典 21
+
+- CHIRIMEN コミュニティとしては、次回のエントリーはオンラインのみ申し込む想定
