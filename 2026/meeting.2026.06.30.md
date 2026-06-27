@@ -176,8 +176,8 @@ Examples / Device List については、今後どう位置付けるかを整理
 
 #### 前回
 
-- https://hackmd.io/@HjCTpd66RpCNd7l1dtr5Xw/SJN-kUoPbg/edit
+- https://hackmd.io/@HjCTpd66RpCNd7l1dtr5Xw/SJN-kUoPbg
 
 #### 今回
 
-- （未作成）
+- https://hackmd.io/@HjCTpd66RpCNd7l1dtr5Xw/r17ScZ6fGl/edit
