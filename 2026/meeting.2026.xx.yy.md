@@ -147,7 +147,6 @@ Examples / Device List については、今後どう位置付けるかを整理
 - Raspberry Pi 3A+ の正式サポート追加
 - 軽量インストーラ方式と Docker 方式の採用可否
 - Node.js バージョン移行の具体方針
-- KTEC インターン題材の正式決定
 - Examples / Device List の詳細なデータ構造
 - 既存リポジトリの統廃合・archive 判断
 
@@ -157,7 +156,6 @@ Examples / Device List については、今後どう位置付けるかを整理
 - Raspberry Pi 3A+ の USB OTG / serial console 検証
 - 軽量インストーラ方式と Docker 方式の比較
 - Node.js バージョン移行方針
-- KTEC インターン題材として扱う場合の範囲整理
 - PiZeroSerialConsole の具体的な改善・移行計画
 - Examples の現役 / deprecated / historical の整理
 - Device List の正本データ形式
