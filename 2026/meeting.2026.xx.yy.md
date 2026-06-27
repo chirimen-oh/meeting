@@ -164,6 +164,7 @@ Examples / Device List については、今後どう位置付けるかを整理
 - Examples / Device List のメタデータ設計
 - chirimen.org / chirimen-drivers / device-dashboard の責務分担
 - CI によるデータ検証・生成・公開フロー
+- Ogaki Mini Maker Faire 2026 エントリー（おそらく9月頃エントリー開始なので予告）
 
 ### 技術書典 21
 
