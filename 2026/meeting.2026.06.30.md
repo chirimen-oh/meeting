@@ -1,4 +1,4 @@
-# CHIRIMEN meeting 2026.xx.yy meeting vol 44
+# CHIRIMEN meeting 2026.xx.yy meeting vol 42
 
 ## 開催日と場所
 
