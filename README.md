@@ -1,12 +1,65 @@
-# meeting
+# CHIRIMEN 月例ミーティング 開催手順
 
-## repository for CHIRIMEN Monthly meeting
+主催希望者がミーティングを開催するまでの手順です。
 
-### purpose
-- To make sure that github will also understand the history.
-- Also to make change notice connected with slack.
+## 主催希望者が行う手順
 
-### make use of
-1. A md file will be added every meeting.
-1. A md file is meeting-yyyy.mm.dd.md(ex:meeting-2016.07.02.md)
-1. A moment in 2016.07.02, don't need to fork/branch. direct change to master branch.
+### 1. 事前準備（日程調整）
+
+1. [調整さん](https://chouseisan.com/) を立てる
+   - 候補日を設定する
+   - 時間を設定する
+2. 調整さんを告知する
+   - Slack `#events`
+   - Facebook Group
+   - X（ID / パスワードは主催希望者に個別連絡）
+
+### 2. リポジトリ・議事録の準備
+
+1. [chirimen-oh/meeting issues](https://github.com/chirimen-oh/meeting/issues) に起票する
+   - [ISSUE_TEMPLATE](ISSUE_TEMPLATE) を参照する
+   - 過去の issue を参照する
+2. アジェンダのスケルトンを作成する（命名規則は [アジェンダファイルの命名規則](#アジェンダファイルの命名規則) を参照）
+   - 過去のアジェンダ（例: [2026/meeting.2026.06.30.md](2026/meeting.2026.06.30.md)）をコピーして使う
+3. `master` ブランチにプッシュする
+4. リポジトリの md を [HackMD](https://hackmd.io/ja) に同期する
+   - 既存議事録（例: [2026/meeting.2026.02.20.md](2026/meeting.2026.02.20.md)）先頭の `hackmd-github-sync-badge` バッジによる GitHub 連携を利用する
+
+### 3. 開催日確定と再告知
+
+1. 調整さんの締切で開催日を決定する
+2. 決定した開催日を告知する
+   - Slack `#events`
+   - Facebook Group
+   - X（ID / パスワードは主催希望者に個別連絡）
+3. アジェンダファイル名・本文の日付を確定日に更新する（[アジェンダファイルの命名規則](#アジェンダファイルの命名規則) を参照）
+
+### 4. 当日
+
+1. オンライン開催の場合、ホストになってくれる方に依頼する
+2. ミーティングを開催する
+
+### 5. 事後処理
+
+1. [HackMD](https://hackmd.io/ja) のデータとリポジトリの md を同期する
+2. フェーズ 2 で起票した [issue](https://github.com/chirimen-oh/meeting/issues) を close する
+
+## アジェンダファイルの命名規則
+
+アジェンダは西暦フォルダ配下に作成し、次の法則でファイル名を付けます。
+
+```
+{西暦フォルダ}/meeting.yyyy.mm.dd.md
+```
+
+### 具体例
+
+- 開催日が **2026年6月30日** に確定 → `2026/meeting.2026.06.30.md`
+- 開催日が **まだ未確定** の仮作成 → `2026/meeting.2026.xx.yy.md`
+
+### 補足
+
+- 西暦ごとにフォルダを切る（`2016/` `2025/` `2026/` など）
+- 調整さんで日程確定前は `xx.yy` プレースホルダで仮作成する
+- 日程確定後はファイル名を `meeting.yyyy.mm.dd.md` にリネームし、本文の日付・タイトルも合わせて更新する
+- 参考: [2026/meeting.2026.06.30.md](2026/meeting.2026.06.30.md)
